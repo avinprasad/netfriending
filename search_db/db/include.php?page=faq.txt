@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Frequently Asked Questions</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li id="current">
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >							
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="main">
+			
+			<a name="FAQ"></a>
+<h1>FAQ</h1>
+<p>This is where frequently asked questions will soon be pasted on, there are currently very little questions on this board, please help us by asking us anything that you do not understand or unsure of about the various NetFriending functions, and email/message us through the support section:</p>
+<ol>
+						<li><span><b>Cannot activate your account?</b><br />
+Do you have any problems activating your account? This is a newly added system to ensure all users are providing their verified E-mail address in order for the system to be secure. You will need to check your inbox to get the activation E-mail, which can be in your junk E-mails as well! So make sure that you do check your junk as well, however, if you do not receive your E-mail, please visit the activation page and try resending it again: <a href="http://netfriending.co.cc/users/activation.php" target="_blank">http://netfriending.co.cc/users/activation.php</a>. If there are any issues or you cannot resolve this problem, please don't hesitate to contact us.<br /><br /></span></li>
+			<li><span><b>Where is the reply buttons on thread?</b><br />
+Since our forums are all self made and own designs, thus the buttons may locate at different places then where you would find in most other forums, our reply thread is on the top green banner, if the thread is unlocked, you will be able to find a blue hyperlink that guides you to a page. If the thread is locked, "This thread is locked" would appear instead of a hyperlink.<br /><br /></span></li>
+			<li><span><b>Why don't the text editor buttons work?</b><br />
+This may be due to problems of your browser, please make sure that your javascript is turned on in your browser. For IE explorer, click on the internet options, security, make sure the globe icon is highlighted, and click on custom level. Search through the menu,  for "active scripting option" and enable it. For FF users, click on options in the tools menu, in the content tab, tick the box for enable javascript. That should get you be able to use the text editor buttons above the textareas.<br /><br /></span></li>
+			<li><span><b>Will my email address remain private?</b><br />
+We do ask for your email address when you register, however, your email address will remain private, and be hidden to all users, so your personal information will be secure except those that you enter in your profile, so please feel free to enter your private email address, it will only be used to send your account information and your new password if you forget the old one.<br /><br /></span></li>
+			<li><span><b>Why are you building a new social site?</b><br />
+You may ask, why are we building a new social site when there exists tonnes, by randomly entering "friend" in your url address bar, you will almost get any sort of social networking sites. However, we are deciding to build a revolutionary networking sites, unlike the rest, we focus on the functionality as well as appearance of your web pages, if you had tried out the blog and guestbook optimizing layouts, you will see that it allows you to change and modify details of your webpage, meanwhile, keeping your page structured in no difference to other pages of the netfriending site, unlike many other social networking services that does not keep your web page in shape.<br /><br /></span></li>
+			<li><span><b>Why are there not much people involved?</b><br />
+NetFriending has just begun its journey very recently, and it needs everyone's contribution to develop and grow, currently, we do not have many existing members who are already in our network, however, by each and everyone's participation, the community will grow very speedy, therefore, your involvement is essential, may we kindly ask for you to join our community!<br /><br /></span></li>
+</ol>
+<p>Here are only the very few questions that we can think of, to help us increase the chances of answering more questions from our users, please send an email of unanswered questions either by the message box of the support page or through this email <a href="mailto:support@netfriending.co.cc">support@netfriending.co.cc</a>.</p>
+<p>Thank you, NF Support Group.</p>		
+		</div>	
+			
+		<div id="rightbar">
+					<h1><span class="green">Advertisements</span></h1>
+			<p><!-- Begin BidVertiser code -->
+			<script type="text/javascript" src="http://bdv.bidvertiser.com/BidVertiser.dbm?pid=54358&bid=423806"></script>
+			<noscript><a href="http://www.bidvertiser.com">marketing</a></noscript>
+			<!-- End BidVertiser code --></p>		</div>			
+			
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2010 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+<?php $news = $_GET['news'];?>
+<a name="Comments on News"></a>
+<h1>Comments on News</h1>
+<h3>Post Confirm</h3>
+<p>You have successfully made a comment entry into our news section, you will be redirected back to the news you were viewing very shortly, please be patient</p><p><b>If not, please click <a href="news.php?news=<?php echo $news;?>#comments">here</a> to go back to your previous page.</b></p>
+<body onload="timer=setTimeout('move()',5000)">
+<script language="JavaScript"> 
+var time = null 
+function move() { 
+window.location = 'news.php?news=<?php echo $news;?>#comments'} 
+</script>

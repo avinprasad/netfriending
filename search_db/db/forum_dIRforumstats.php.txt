@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>NetFriending Forum Statistics</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >					
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="forum">
+			
+						<h3>
+			<a href="index.php">Forum Index</a> >>
+			<a href="forumstats.php">Forum Statistics</a>
+			</h3>
+									
+						<p>
+			<table id="forumtbl">
+			<tr height="30">
+			<td align=center width="100%" colspan=3 background="../users/images/themes/0_gradient.gif"><b>Top 5 Posters</b></a></td>
+			</tr>
+			<tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=ted_chou12">Ted (ted_chou12)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="160" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>109 Posts</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=breeze">Aaron (breeze)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="7" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>5 Posts</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=winterdude">winterdude (winterdude)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="7" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>5 Posts</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=mindgame">james moorhouse (mindgame)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="4" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>3 Posts</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=mrbobwang">mrbobwang (mrbobwang)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="1" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>1 Posts</b></td></tr>			</table>
+			</p>
+						<p>
+			<table id="forumtbl">
+			<tr height="30">
+			<td align=center width="100%" colspan=3 background="../users/images/themes/0_gradient.gif"><b>Top 5 Forum Categories</b></a></td>
+			</tr>
+			<tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="threads.php?cat=school">School Life</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="74" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>21 Posts</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="threads.php?cat=tech">Computer & Technology</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="53" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>15 Posts</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="threads.php?cat=new">Newbie!</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="21" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>6 Posts</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="threads.php?cat=help">Help</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="21" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>6 Posts</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="threads.php?cat=news">News & Politics</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="11" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>3 Posts</b></td></tr>			</table>
+			</p>
+						<p>
+			<table id="forumtbl">
+			<tr height="30">
+			<td align=center width="100%" colspan=3 background="../users/images/themes/0_gradient.gif"><b>Top 5 Topics (by Replies)</b></a></td>
+			</tr>
+			<tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=9">What is your favourite sport???</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="41" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>5 Replies</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=51">Hey</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="41" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>5 Replies</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=26">About .htaccess files and general uses.</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="33" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>4 Replies</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=1">This is the forum to introduce yourself.</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="33" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>4 Replies</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=36">SAT Bio-revisions~~~</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="33" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>4 Replies</b></td></tr>			</table>
+			</p>
+						<p>
+			<table id="forumtbl">
+			<tr height="30">
+			<td align=center width="100%" colspan=3 background="../users/images/themes/0_gradient.gif"><b>Top 5 Topics (by Views)</b></a></td>
+			</tr>
+			<tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=11">Why join NetFriending?</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="63" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>8907 Views</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=2">NetFriending Forum Guidelines!</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="53" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>7428 Views</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=32">Your Forum Position by post number</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="34" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>4820 Views</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=72">Louvre Pyramid &amp; Pyramids of Giza</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="17" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>2332 Views</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="viewthread.php?threadid=7">Articles Posting Attention!!!</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="13" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>1830 Views</b></td></tr>			</table>
+			</p>
+						<p>
+			<table id="forumtbl">
+			<tr height="30">
+			<td align=center width="100%" colspan=3 background="../users/images/themes/0_gradient.gif"><b>Top 5 Topic Starters</b></a></td>
+			</tr>
+			<tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=ted_chou12">Ted (ted_chou12)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="168" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>69 Topics</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=winterdude">winterdude (winterdude)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="5" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>2 Topics</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=thauwa">thauwa (thauwa)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="2" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>1 Topics</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=donidereks">donidereks (donidereks)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="2" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>1 Topics</b></td></tr><tr height="30"><td bgcolor="#f2f2f2" width="40%" style="padding-left: 10px;">
+			<b><a href="../users/profiles.php?user=bellersenlover">frogman2010 (bellersenlover)</a></b></td><td bgcolor="#f2f2f2" width="43%">
+			<img src="images/bar.gif" width="2" height="20"></td><td bgcolor="#f2f2f2" width="100%" align=center><b>1 Topics</b></td></tr>			</table>
+			</p>
+						
+		</div>
+		
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2010 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

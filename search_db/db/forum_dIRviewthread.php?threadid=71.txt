@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Walt Disney &amp; cryonic preservation?</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >							
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="forum">
+			
+						<h3>
+			<a href="index.php">Forum Index</a> >>
+			<a href="threads.php?cat=news">News & Politics</a> >>
+			<a href="viewthread.php?threadid=71">Walt Disney &amp; cryonic preservation?</a>
+			</h3>
+									<p><table id="forumtbl" cellpadding="0" cellspacing="1" border="1" bordercolor="#111111" style="border-collapse: collapse">
+			<tr height="25"><td width="100%" align=left background="../users/images/themes/0_gradient.gif" colspan=2>
+			<img src="../users/images/xx.gif"> <b>Walt Disney &amp; cryonic preservation?</b> 
+			(200 views) - <a href="replythread.php?threadid=71"><b>REPLY TO THIS THREAD</b></a></td></tr>						<tr bgcolor="#f2f2f2">
+				  <td width="25%" align=center valign=top bgcolor="#f2f2f2" style="padding: 10px 0;">
+				  <a href="../users/profiles.php?user=ted_chou12">
+				  <b>Ted (ted_chou12)</a></b><br />
+				  <b>Forum Regular</b><br /><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><br />
+				  <img src="../users/images/offline.png"> Offline<br /><img src="../users/images/photo/photo9.jpg" height="92" width="69"><br />Posts: 108<br />
+				  <b>Let us promote NetFriending Online!</b><br /></td>
+				  <td width="100%" valign=top height="200" bgcolor="#f2f2f2">
+				  <table width="100%" height="100%" bgcolor="#f2f2f2">
+				  <tr valign=top height="10%"><td valign=top align=left width="95%">
+				  <img src="../users/images/xx.gif"> 
+				  <b>Walt Disney &amp; cryonic preservation?</b><br />May 12, 2009 07:38 AM</td>
+				  <td align=right valign=center width="100%"></td></tr>
+				  <tr valign=top height="60%"><td colspan=2><hr />
+				  <div id="views">Just read off the psychology textbook and found out one of my long believes was wrong, attributed to <b>social science</b> and is one of the <i>urban legends</i>. Many rumors were spreading about Walt Disney's body been preserved in order for future potential cure of lung cancer, but it is indeed false.<br />
+Walt Disney died on December 15, 1966, but his body was cremated, not cryonic preserved. And is in the forest of Glendale in California, not under the Disneyland <img src="/users/smilies/undecided.gif" alt="Undecided">. But many people believed his body was actually frozen, that is because we are curious to things, thus often believe according to our presumed knowledge... want to know more read a psychology book.<br />
+In fact, the first cryogenically preserved body was a full year after Disney's death.<br />
+<br />
+<a href="http://www.museumofhoaxes.com/hoax/Hoaxipedia/Walt_Disney_Frozen/" target="_blank">http://www.museumofhoaxes.com/hoax/Hoaxipedia/Walt_Disney_Frozen/</a><br />
+</div>
+				  </td></tr>
+				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  </td></tr>
+</table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
+		</div>
+		
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

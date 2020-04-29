@@ -1,0 +1,6 @@
+<?php $error = "400";
+$errorpage = "<h3>Error Pages - Bad Request</h3>
+			<p><strong>Sorry, but the page your are trying to view has a bad request, that could be a scripting problem, therefore another goal for our technichine to achieve, or what your request is invalid, please double check what you had done in the previous page for details, or contact our administrator in reporting a new error!
+			</strong></p>
+			<p><strong>Please click <a href=\"javascript:history.go(-1);\">here</a> to go back to the previous page for another request or to check if there are errors in your request, or <a href=\"javascript:location.reload(true);\">here</a> to refresh and see if the page comes back up again.</strong></p>";
+include("errorpages.php");?>

@@ -1,0 +1,22 @@
+[06-Sep-2010 06:47:53] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:48:40] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:49:40] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:49:58] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:50:33] PHP Warning:  fopen(links/links.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/netfrie/public_html/search_db/crawler.php on line 99
+[06-Sep-2010 06:50:33] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/netfrie/public_html/search_db/crawler.php on line 100
+[06-Sep-2010 06:50:33] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/netfrie/public_html/search_db/crawler.php on line 101
+[06-Sep-2010 06:50:58] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:51:33] PHP Warning:  fopen(links/links.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/netfrie/public_html/search_db/crawler.php on line 99
+[06-Sep-2010 06:51:33] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/netfrie/public_html/search_db/crawler.php on line 100
+[06-Sep-2010 06:51:33] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/netfrie/public_html/search_db/crawler.php on line 101
+[06-Sep-2010 06:52:09] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:52:25] PHP Warning:  fopen(links/links.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/netfrie/public_html/search_db/crawler.php on line 99
+[06-Sep-2010 06:52:25] PHP Warning:  fwrite(): supplied argument is not a valid stream resource in /home/netfrie/public_html/search_db/crawler.php on line 100
+[06-Sep-2010 06:52:25] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/netfrie/public_html/search_db/crawler.php on line 101
+[06-Sep-2010 06:52:49] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:53:37] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:55:11] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:57:12] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:58:25] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 06:58:57] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0
+[06-Sep-2010 16:25:52] PHP Warning:  Cannot open 'extra/browscap.ini' for reading in Unknown on line 0

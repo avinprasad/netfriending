@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile "/home/netfrie/public_html/admin/.htpasswd"
+require valid-user

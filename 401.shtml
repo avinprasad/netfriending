@@ -1,0 +1,5 @@
+<?php $error = "401";
+$errorpage = "<h3>Error Pages - Unauthorized</h3>
+			<p><strong>Sorry, but you do not have the access of the page you are trying to enter, it might be due to the incorrect login information you entered, please check your username and password combination. If you cannot figure out why it is the case, please do contact our administrator for help and assistance.</strong></p>
+			<p><strong>If you have changed your mind, please click <a href=\"javascript:history.go(-1);\">here</a> to go back to the previous page, or <a href=\"javascript:location.reload(true);\">here</a> to refresh and make more attempts in logging into this page.</strong></p>";
+include("errorpages.php");?>

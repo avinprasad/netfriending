@@ -1,0 +1,29 @@
+			<a name="User Panel"></a>
+			<h1>User Panel</h1>
+			<h3>User Login</h3>
+			<?php $invalid = $_GET['invalidlogin'];
+			if ($invalid == "blank") {echo $login_blank;}
+			elseif ($invalid == "inactivate") {echo $login_inactivate;}
+			elseif ($invalid == "invalid") {echo $login_invalid;}
+			elseif ($invalid == "logout") {echo $login_logout;}?>
+			<form name="login" action="/users/login.php?do=login" method="POST">
+			<center><input type="hidden" name="returnurl" value="<?$returnurl?>">
+			<table cellPadding=3 width=225 border=1 align=center>
+			<tr>
+			<td colSpan=2 align=center>
+			<p><b>Members-Only Area!</b></font></p>
+			</td></tr>
+			<tr>
+			<td align=center width=70>Username:</td>
+			<td><input type="text" name="username"></td></tr>
+			<tr>
+			<td align=center width=70>Password:</td>
+			<td><input type="password" name="password"></font></td></tr>
+			<tr>
+			<td align=center colspan=2>
+			<input type="submit" name="submit" value="Login"></td></tr>
+			<td align=center colSpan=2>
+			<input type="checkbox" name="remme" value="on">&nbsp;Remember me for the next time I visit</td>
+			</table></center></form>
+			<p align=center><a href="/register.php">Not a member yet!?</a> 
+			<a href="/users/sendpass.php">Forgot my Password!</a></p>

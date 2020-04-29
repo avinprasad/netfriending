@@ -1,0 +1,78 @@
+<a name="Invite Friends"></a>
+<h1>Invite Friends</h1>
+<p>We encourage you to invite your friends &amp; family into the community, because this is how our community grows, you cane invite them through your own email messages, or you can either invite them through here, what we will send them is a short introduction to the community. The message box is optional, if it is entered, it will be added into the email you send them.</p>
+<?php //Pre-configuration:
+//Require Message:
+include("notification.php");
+
+if (isset($_POST['submit'])){
+$name = $_POST['name'];
+$email = $_POST['email'];
+$tname = $_POST['tname'];
+$temail = $_POST['temail'];
+$message = $_POST['message'];
+$imgverify = $_POST['imgverify'];
+
+$entrycontent = array(array(6, $name), array(6, $email), array(6, $tname), array(6, $temail), array(6, $message), array(6, $imgverify));
+include("texteditor.php");
+list($name, $email, $tname, $temail, $message, $imgverify) = $finalcontent;
+$message = str_replace("\r\n", "<br />", $message);
+
+//all required fields filled?
+if($name == "" or $email == "" or $tname == "" or $temail == "")
+{echo $requiredfields; $invalid = true;}
+else {
+
+//email right format, valid?
+$regex = "^[_+a-z0-9-]+(\.[_+a-z0-9-]+)*"."@[a-z0-9-]+(\.[a-z0-9-]{1,})*"."\.([a-z]{2,}){1}$";
+if(!eregi($regex, $temail))
+{echo $email_invalid_10; $temail = ""; $invalid = true;}
+
+//image verification passed?
+if ($_SESSION['imageverify'] != md5($imgverify))
+{echo $imgverify_failed; $invalid = true;}}
+
+if ($invalid == false)
+{$to = "$tname <$temail>";
+$subject = "$name has invited you to join NetFriending!";
+$textfile = file_get_contents("admin/emails/invitation.txt");
+$textfiles = explode(";seDp#", $textfile);
+$body = str_replace("%name%", $name, $textfiles[0]);
+$body = str_replace("%tname%", $tname, $body);
+if ($message != "") {
+$body1 = str_replace("%name%", $name, $textfiles[1]);
+$body1 = str_replace("%tname%", $tname, $body1);
+$body1 = str_replace("%message%", $message, $body1);
+$body = str_replace("%message%", $body1, $body);}
+else {$body = str_replace("%message%", "", $body);}
+
+$headers  = 'MIME-Version: 1.0' . "\r\n";
+$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+$headers .= "From: NetFriending Support <noreply@netfriending.co.cc>" . "\r\n";
+$headers .= "Reply-To: $name <$email>" . "\r\n";
+
+if (mail($to, $subject, $body, $headers)) 
+{echo $email_successful_10;} 
+else 
+{echo $email_unsuccessful_10;}
+$name = ""; $email = ""; $message = ""; $to = ""; $body = ""; $headers = ""; $temail = ""; $tname = ""; $imgverify = "";}}?>
+<form name="invitesendemail" action="" method="post">
+<script type="text/javascript" src="texteditor.js"></script>
+<p>			
+<label>Your Name</label>
+<input name="name" value="<?php echo $name;?>" type="text" size="30" />
+<label>Your E-mail Address</label>
+<input name="email" value="<?php echo $email;?>" type="text" size="30" />
+<label>Their Name</label>
+<input name="tname" value="<?php echo $tname;?>" type="text" size="30" />
+<label>Their E-mail Address</label>
+<input name="temail" value="<?php echo $temail;?>" type="text" size="30" />
+<label>Message</label>
+<textarea name="message" rows="5" cols="5"><?php echo $message;?></textarea>
+<label>Image Verification</label>
+<img id="image" src="imgverify.php" onclick="reloadImg();" />&nbsp;Click on image to refresh if you can't see it clearly.<br />
+<input name="imgverify" value="" type="text" size="30" maxlength="5" />
+<br /><br />
+<input class="button" name="submit" type="submit" />		
+</p>
+</form>

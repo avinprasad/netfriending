@@ -1,0 +1,18 @@
+UTF-8|ASCII Unicode
+Big5|Traditional Chinese
+GB2312|Simplified Chinese
+EUC-JP|Japanese
+EUC-KR|Korean
+KOI8-R|Russian
+ISO-8859-1|Latin 1(West European)
+ISO-8859-2|Latin 2(East European)
+ISO-8859-3|Latin 3(South European)
+ISO-8859-4|Latin 4(North European)
+ISO-8859-5|Cyrillic
+ISO-8859-6|Arabic
+ISO-8859-7|Greek
+ISO-8859-8|Hebrew
+ISO-8859-9|Turkish
+ISO-8859-10|Nordic
+ISO-8859-15|Latin 1(French, Finnish)
+windows-874|Thai

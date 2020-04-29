@@ -1,0 +1,147 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Louvre Pyramid &amp; Pyramids of Giza</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >							
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="forum">
+			
+						<h3>
+			<a href="index.php">Forum Index</a> >>
+			<a href="threads.php?cat=school">School Life</a> >>
+			<a href="viewthread.php?threadid=72">Louvre Pyramid &amp; Pyramids of Giza</a>
+			</h3>
+									<p><table id="forumtbl" cellpadding="0" cellspacing="1" border="1" bordercolor="#111111" style="border-collapse: collapse">
+			<tr height="25"><td width="100%" align=left background="../users/images/themes/0_gradient.gif" colspan=2>
+			<img src="../users/images/xx.gif"> <b>Louvre Pyramid &amp; Pyramids of Giza</b> 
+			(2328 views) - <a href="replythread.php?threadid=72"><b>REPLY TO THIS THREAD</b></a></td></tr>						<tr bgcolor="#f2f2f2">
+				  <td width="25%" align=center valign=top bgcolor="#f2f2f2" style="padding: 10px 0;">
+				  <a href="../users/profiles.php?user=ted_chou12">
+				  <b>Ted (ted_chou12)</a></b><br />
+				  <b>Forum Regular</b><br /><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><br />
+				  <img src="../users/images/offline.png"> Offline<br /><img src="../users/images/photo/photo9.jpg" height="92" width="69"><br />Posts: 108<br />
+				  <b>Let us promote NetFriending Online!</b><br /></td>
+				  <td width="100%" valign=top height="200" bgcolor="#f2f2f2">
+				  <table width="100%" height="100%" bgcolor="#f2f2f2">
+				  <tr valign=top height="10%"><td valign=top align=left width="95%">
+				  <img src="../users/images/xx.gif"> 
+				  <b>Louvre Pyramid &amp; Pyramids of Giza</b><br />May 18, 2009 08:08 AM</td>
+				  <td align=right valign=center width="100%"></td></tr>
+				  <tr valign=top height="60%"><td colspan=2><hr />
+				  <div id="views">Pyramids are often associated with ancient pyramids in Egypt, which served as structures to provide the pharaoh a place to bury his tomb permanently. In 1989, the Louvre Pyramid was designed by I.M. Pei, despite the Louvre Pyramid is shaped like the ancient pyramids, however, it looks revolutionary different due to its transparent appearance and serves a completely different function in contrast to the pyramid of Giza. The Pyramid of Louvre primarily serves as a function of a skylight, underground shelter in front of the Main Louvre Museum, its modernistic design and style contrasts that of the Louvre Museum itself, thus it brought many critiques and commends, whereas the Pyramid of Giza serves to commemorate the great sovereignty of the pharaohs. In particular, the pyramid made for Khufu was the largest of them all, reaching up to 146m and 230 wide, all built in 2500BC with the extensive labor under Khufu’s supervision. After 4500 years, I.M. Pei continues to build an infrastructure of exactly the same shape, but revolutionized the ancient concept of pyramid and manipulated the traditional beliefs that had been associated with the ancient Egyptian pyramids. I.M. Pei may well intend to build pyramid intending to remind people of the past; however, there are many interesting aspects of how he presented this ancient infrastructure. This essay will continue to discuss the similarities and differences between the Louvre Pyramid and the Pyramid of Giza and what are the successes and failures that I.M. Pei has achieved.<br />
+The Khufu’s pyramid was built during the Old Kingdom of the Egyptian history (Hooker), in that time; it was a great leap in terms of the ancient architecture. The pyramid shape itself signifies the ancient Egyptian architects’ fundamental knowledge of geometry. The impressive appearance is not the only surprising fact of the pyramid, in fact, the enigma of this pyramid lies in the iconographies and the convoluted paths in the interior of the pyramid that were suppose to mislead grave robbers. By using today’s advance technology, it was found that Khufu’s pyramid is only 59 millimeters in length and 1 minute in degree from a perfect pyramid (Wikipedia), this shows how carefully the pyramid was planned and built. The entire pyramid was built out of limestone rocks, used labor possibly up to a group of 200,000 men working together in hierarchies (Wikipedia). The pyramid consisted of three chambers, the King’s Chamber, where King was buried, the Queen’s Chamber and the unfinished chamber, where Khufu originally wanted to be buried but later changed his mind to bury higher up in the pyramid. Despite we have exhausted possible ways to investigate the pyramid of Khufu, however, some of the fascinating truths that relates to the Egyptian culture and traditions may never be revealed due to the grave robbers that stole the majority of the culturally valuable and informative objects.<br />
+The pyramid serves as a place for pharaohs’ body to be buried and arrested, the beliefs and culture related to the pyramid is mainly due to the religious believes of the Egyptians that believed there to be a life after death. Therefore, gold, statues, gold, queens are often buried along with the kings, and these objects and people are believed to follow the pharaoh to his next life. As shown from Khufu’s changed of mind in his decision, Egyptian believed that the afterlife is not only related to the position but also the hierarchy, and upper in the pyramid also signifies a higher status, thus Khufu wanted to be buried higher up in the pyramid. Furthermore, in the King’s Chamber, there are ventilation holes that have ceremonial purposes which were suggested by the Egyptologists to allow Pharaoh’s spirit to ascend to heaven (Wikipedia). Whereas the Ka statues stored in the Queen’s Chamber act as vessels for the King to store his sole if his body is disturbed (Wikipedia). All of this suggests that the Pyramid of Khufu not only serves as a tomb for Khufu to be buried, but it also has lots of elements of religious believes and cultures involved that are part of the ancient Egyptian’s life at that time.<br />
+Contrasting the Pyramid of Giza, the Louvre Pyramid is only 20.6 meters high and 35 meters each side (Wikipedia). There are 603 rhombus shaped and 70 triangular glass elements. Not only is the appearances of the Louvre Pyramid different to the Pyramid of Giza, however, the meaning behind the pyramid has been completely changed as well. The Louvre Pyramid has changed religious and cultural believes to modernistic style, because he is unable to duplicate the Egyptian beliefs and culture with the modern infrastructure. However, I.M. Pei has his own believes signified by the Louvre Pyramid, I.M. Pei believes in “The solid is for the dead, but the transparent is for the living” (Wikipedia). By solid, he means the ancient Egyptian pyramid and he refers to his own pyramid as been a living pyramid. Therefore, despite he copied the style of the ancient Egyptian to remind people the Pyramids of Giza when the see the Louvre Pyramid, however, he manipulated the beliefs and cultural elements to fit his own. <br />
+The Louvre Pyramid’s futuristic appearance contrasts the Louvre Museum itself, whether or not if this is an intention of I.M. Pei, it raised up many critiques as well as many commends. Some people believe that the Louvre Pyramid does not fit in with the Louvre Museum itself, while as others appreciate juxtaposing the old Museum and the futuristic design have successfully merged together. Both argues the same point, and the positive or negative view point of the Louvre Pyramid in relate to the Louvre Museum purely depends on the perspective. Personally, I believe that the purpose of using the Louvre Pyramid to remind museum visitors of the old Egyptian that has very strong cultural background in it probably suggest that the museum itself also consists of lots of culturally valuable objects. Further impressing people when they enter and exit, that are not to be forgotten.<br />
+In conclusion, despite the Louvre Pyramid may share a common shape and subject of the Pyramid of Giza, however, the elements and the appearances are completely changed to suit for the purposes of the Louvre Museum. On the one hand, the Pyramid of Giza are used of limestone and have massive infrastructure, built from brick by brick stacked together, on the other hand, the Louvre Pyramid is mad from glass panels that made the Louvre Pyramid looked drastically different from the Pyramid of the Giza on the outside. The Louvre Pyramid is made from rhombus and triangular shaped glass, and these glasses made the Louvre Pyramid looked more modernistic and differently from the Giza Pyramid. Furthermore, the Pyramid of Giza and the Louvre Pyramid are also different in the interior and the traditions and cultural beliefs behind them. The Giza Pyramid is built purely due to the traditional religious nature of the Egyptians, they believe the life after death, therefore, the pyramid is designed out of that nature, shown by the ventilation holes, the chambers and the statues that are stored in them. However, the Louvre Pyramid does not have the same purpose because it is situated right in front of the Louvre Museum, therefore, I.M. Pei switched the original cultures and beliefs to ones of his own, as shown by the transparent appearances of the Louvre Pyramid, transparent meant “living” to I.M. Pei. The modernistic looks due to the transparent appearance of the Louvre Pyramid brought both conflicts and appreciation, because the Louvre Pyramid is contrasting the Louvre Museum, however, this is a great success in raising the awareness that museum is a place full of culture and traditional believes, when one enters, one is looking into the past from a present perspective, and the Louvre Pyramid has successfully reflected this aspect.<br />
+<br />
+Louvre Pyramid<br />
+<img src="http://www.photoeverywhere.co.uk/west/paris/louvre_pyramid3042.jpg" alt="" style="border:0px; max-width: 240px; width: expression(this.width > 240 ? 240: true); max-height: 600px; height: expression(this.height > 600 ? 600: true);" /><br />
+<br />
+Pyramid of Giza<br />
+<img src="http://www.holtzendorff.com/vacations/israel/images/GizaPyramids1.jpg" alt="" style="border:0px; max-width: 240px; width: expression(this.width > 240 ? 240: true); max-height: 600px; height: expression(this.height > 600 ? 600: true);" /><br />
+<br />
+<u><b>Work Cited</b></u><br />
+Hooker, Richard. The Old Kingdom, 6 June 1999. 29 April 2009. <br />
+&lt; http://www.wsu.edu/~dee/EGYPT/OLD.HTM&gt;<br />
+Winston, Alan. The Pyramid of Khufu at Giza in Egypt, 2009. 29 April 2009. &lt;http://www.touregypt.net/featurestories/greatpyramid1.htm&gt;<br />
+Wikipedia, Great Pyramid of Giza, 2009. 29 April 2009. <br />
+&lt; http://en.wikipedia.org/wiki/Pyramid_of_giza&gt;<br />
+Wikipedia, Louvre Pyramid, 2009. April 2009. &lt; http://en.wikipedia.org/wiki/Louvre_Pyramid&gt;</div>
+				  </td></tr>
+				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  </td></tr>
+</table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
+		</div>
+		
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

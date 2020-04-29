@@ -1,0 +1,180 @@
+<style type="text/css">
+*/
+.menu {
+	width: 770px;
+	font-size: 11px;
+	position: relative;
+	z-index: 100;
+	white-space: nowrap;
+	padding: 1px 0px 1px 0px;
+}
+/*	remove all default list styling */
+.menu ul {
+	padding: 0px;
+	margin: 0px;
+	list-style-type: none;
+}
+.menu ul#nav {
+	margin: 15px 0 0 0;
+}
+/*	float the list to make it horizontal
+	relative positon so that you can control the dropdown menu positon
+*/
+.menu li {
+	float:left;
+	position: relative;
+	/* space between buttons */
+	margin-left: 2px;
+}
+.menu .first {
+	margin-left: 0px;
+}
+.menu .last {
+	margin-right: 0px;
+}
+
+/* FIRST-LEVEL NORMAL *********************************************************/
+.menu a,
+.menu a:visited {
+	display: block;
+	font-size: 11px;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+	background-image: url('nav_top_backg_off.gif');
+	background-color: #B6D3F7;
+	color: #2B449C;
+	height: 15px; padding-left:5px; padding-right:5px; padding-top:3px; padding-bottom:2px
+}
+
+/* SECOND-LEVEL NORMAL ********************************************************/
+.menu ul ul a.drop,
+.menu ul ul a.drop:visited {
+	background-image: url('none');
+	background-color: #B6D3F7;
+	color: #2B449C
+}
+
+/* SECOND-LEVEL HOVER *********************************************************/
+.menu ul ul a.drop:hover {
+	background-image: url('none');
+	background-color: #2A419D;
+	color: #FFFFFF
+}
+.menu ul ul :hover > a.drop {
+	background-image: url('none');
+	background-color: #2A419D;
+	color: #FFFFFF
+}
+/*	hide the sub levels
+	give them a positon absolute so that they take up no room
+*/
+.menu ul ul {
+	visibility: hidden;
+	position: absolute;
+	height: 0px;
+	/* position the top of the dropdown against the button */
+	top: 20px;
+	/* account for the padding of the top level item when positioning the left side */
+	left: -3px;
+	_left: -5px;
+}
+
+/*	style the table so that it takes no part in the layout */
+.menu table {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+/* SECOND-LEVEL NORMAL ********************************************************/
+.menu ul ul a,
+.menu ul ul a:visited {
+	border-left:1px solid #FFFFFF; border-right:1px solid #FFFFFF; border-bottom:1px solid #FFFFFF; text-align: left;
+	white-space: nowrap;
+	background-image: url('none');
+	background-color: #B6D3F7;
+	color: #2B449C;
+	border-top: medium none;
+	/* width of dropdowns is set to accomadate widest item */
+	width: 118px; padding-left:11px; padding-right:11px; padding-top:3px; padding-bottom:2px
+}
+.menu ul .last ul a,
+.menu ul .last ul a:visited {
+	/* shorten the last dropdown so the page doesn't scroll over so much */
+	width: 118px;
+}
+
+/* FIRST-LEVEL HOVER **********************************************************/
+
+/* START DO NOT COMBINE THESE TWO, IT BREAKS IE DROPDOWNS */
+	.menu a:hover {
+		/* light top button */
+		background-image: url('nav_top_backg_on.gif');
+		background-color: #2B449C;
+		color: #FFFFFF;
+		text-decoration: none
+	}
+	.menu :hover > a {
+		/* keep top button lit up when the mouse moves onto the dropdown */
+		background-image: url('nav_top_backg_on.gif');
+		background-color: #2B449C;
+		color: #FFFFFF;
+		text-decoration: none
+	}
+/* END DO NOT COMBINE THESE TWO, IT BREAKS IE DROPDOWNS */
+
+/* START DO NOT COMBINE THESE TWO, IT MAKES IE CHANGE COLOR */
+	.menu ul ul a:hover {
+		background-image: url('none');
+		background-color: #2B449C;
+		color: #FFFFFF;
+		text-decoration: none
+	}
+	.menu ul ul :hover > a {
+		background-image: url('none');
+		background-color: #2B449C;
+		color: #FFFFFF;
+		text-decoration: none
+	}
+/* END DO NOT COMBINE THESE TWO, IT MAKES IE CHANGE COLOR */
+
+/* make the second level visible when hover on first level list OR link */
+.menu ul li:hover ul,
+.menu ul a:hover ul{
+	visibility:visible;
+}
+
+/* SUBMENU ********************************************************************/
+.nav_line {
+	background-color: #B6D3F7;
+}
+.sub_nav td {
+	background-color: #3873AD;
+	color: #FFFFFF;
+	font-size: 9px;
+	font-weight: bold;
+	padding-left: 10px;
+	padding-right: 5px;
+	letter-spacing: 1px
+}
+.sub_nav td a:link, .sub_nav td a:visited {
+	color: #FFFFFF;
+	font-size: 9px;
+	text-decoration: none;
+}
+.sub_nav td a:hover, .sub_nav td a:active  {
+	color: #B6D3F7;
+	font-size: 9px;
+	text-decoration: none;
+}
+.sub_nav .nopad {
+	padding: 0px;
+}
+.sub_nav .rightend {
+	background-image: url('nav_sub_right.gif');
+	background-repeat: no-repeat;
+	background-position:  right top;
+	width: 1px	
+}
+</style>

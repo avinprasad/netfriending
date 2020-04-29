@@ -1,0 +1,106 @@
+	<?php //reading off information:
+	$read = mysql_query("SELECT * FROM usercus WHERE username='$username'");
+	$r = mysql_fetch_array($read);
+	
+	//get no. of messages in inbox:
+	$read = mysql_query("SELECT * FROM privatemessages WHERE username='$username' AND type='inbox'");
+	$numberpms = mysql_num_rows($read);
+	//get no. of new messages:
+	$read = mysql_query("SELECT * FROM privatemessages WHERE username='$username' AND type='inbox' AND flag='unread'");
+	$newpm = mysql_num_rows($read);
+	if ($newpm > 0) {$notify_array[] = "newpm";}
+	
+	//get no. friends:
+	$read = mysql_query("SELECT * FROM friendlist WHERE username='$username' AND status='accepted'");
+	$numberfriends = mysql_num_rows($read);
+	//get no. of new friend requests:
+	$read = mysql_query("SELECT * FROM friendlist WHERE user='$username' AND status='pending'");
+	$newrequest = mysql_num_rows($read);
+	if ($newrequest > 0) {$notify_array[] = "newrequest";}
+	
+	//Photo width and length setup:
+	$imgsize = getimagesize("images/photo/photo{$r['photo']}.jpg");
+	$width = $imgsize[0];
+	$height = $imgsize[1];
+	while ($width > 200 or $height > 300) {$width = $width/1.2; $height = $height/1.2;}
+	
+	//get forum posts; positions:
+	$read = mysql_query("SELECT * FROM forum WHERE username='$username' AND (threadattribute='topthread' OR threadattribute='conthread')");
+	$posts = mysql_num_rows($read);
+	include("../forum/postsclassing.php");
+	
+	//get no. of entries in blog:
+	$read = mysql_query("SELECT * FROM diary WHERE username='$username'");
+	$blogentries = mysql_num_rows($read);
+	//get no. of entries in guestbook:
+	$read = mysql_query("SELECT * FROM guestbook WHERE username='$username'");
+	$gbentries = mysql_num_rows($read);
+	//get no. of entries in photo:
+	$read = mysql_query("SELECT * FROM photo WHERE username='$username'");
+	$photoentries = mysql_num_rows($read);
+	
+	//need to update profile:
+	//display picture:
+	if ($r['photo'] == 0) {$notify_array[] = "ppneed"; $pp_need[] = "<a href=\"photoupload.php\">Display Picture</a>";}
+	//profile info
+	if ($r['about'] == "" && $r['interest'] == "" && $r['hobby'] == "" && $r['favourite'] == "" && $r['wish'] == "") {$pp_need = true; $pp_need[] = "<a href=\"editprofile.php\">Profile Information</a>";}
+	$pp_need = implode(", ", $pp_need);
+	
+	//friends updates:
+	$read1 = mysql_query("(SELECT id, username, 'null' AS user, entrytitle AS title, entrydate AS dateorder, 'diary_1' AS attribute FROM diary WHERE username IN (SELECT user FROM friendlist WHERE username='$username' AND status='accepted')) UNION (SELECT id, username, user, entrytitle AS title, entrydate AS dateorder, 'gb_1' AS attribute FROM guestbook WHERE username IN (SELECT user FROM friendlist WHERE username='$username' AND status='accepted')) UNION (SELECT id, username, 'null' AS user, photoname AS title, photodate AS dateorder, 'photo_1' AS attribute FROM photo WHERE username IN (SELECT user FROM friendlist WHERE username='$username' AND status='accepted')) UNION (SELECT id, username, user, entrytitle AS title, entrydate AS dateorder, entryattribute AS attribute FROM comment WHERE username IN (SELECT user FROM friendlist WHERE username='$username' AND status='accepted')) UNION (SELECT threadid AS id, username, 'null' AS user, threadtitle AS title, threaddate AS dateorder, 'forum_1' AS attribute FROM forum WHERE (username IN (SELECT user FROM friendlist WHERE username='$username' AND status='accepted') AND threadattribute!='votethread')) UNION (SELECT id, username, user, 'null' AS title, date AS dateorder, 'friend_1' AS attribute FROM friendlist WHERE (username IN (SELECT user FROM friendlist WHERE username='$username' AND status='accepted') AND status='accepted')) ORDER BY dateorder DESC LIMIT 0, 10");?>
+	<script type="text/javascript" src="notices.js"></script>
+	<div id="notices"><?php $client_side = true; $run_ajax = "notices"; include("notices.php");?></div>
+	<h1>User Panel</h1>
+	<h3>Welcome, <?php echo $displayname;?></b>!</h3>
+	<p>
+	<?php if ($r['photo'] != 0) {echo "<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\" width=\"100%\"><tr>
+	<td align=left width=\"45%\" valign=center><p><img src=\"images/photo/photo{$r['photo']}.jpg\" height=\"". round($height) ."\" width=\"". round($width) ."\"  style=\"border: 5px solid #cccccc; margin: 5px 0px 5px 0\"></p></td>
+	<td align=left width=\"100%\" valign=center>";}?>
+	<b>Last Visit:</b><br />
+	<?php if ($row['onlinetime'] == "0000-00-00 00:00:00") {echo "Never!?";}
+	else{$dis_func = 0; $date = $row['onlinetime']; $timeoffset = $row['timeoffset']; $date_format = $row['dateformat']; $time_format = $row['timeformat'];
+	include("../disfunc.php");
+	echo $date;}?><br />
+	<b>Messages in Inbox:</b><br />
+	<?php echo "You have $numberpms messages!<br />";?>
+	<b>Your Network:</b><br />
+	<?php echo "You have $numberfriends friends!<br />";?>
+	<b>Forum Position:</b><br />
+	<?php echo "You have $posts posts in Forum.<br />";
+	echo "Your position is <b>$level</b>.<br />" ?>
+	<b>Number of Entries</b><br />
+	<?php echo "You have $blogentries <b>Blog Entries</b>.<br />";
+	echo "You have $gbentries <b>Guesbook Entries</b>.<br />";
+	echo "You have $photoentries <b>Photo Entries</b>.<br />";
+	if ($r['photo'] != 0) {echo "</td></tr></table>";}
+	
+	//notifications (if true):
+	if ($notify_array > 0) {//notification strings:
+	$notify_array1 = array("newpm" => "<img src=\"images/icons/mail_add.gif\" /> <a href=\"pm.php\">You have $newpm new messages!</a>", "newrequest" => "<img src=\"images/icons/friends_add.gif\" /> <a href=\"friends.php?type=incoming\">You have $newrequest new friend requests!</a>", "ppneed" => "<img src=\"images/icons/edit.gif\" /> <b>You seem to lack some information in your Profile:</b> $pp_need");
+	//attention string on:
+	echo "<p><font color=\"#ff0000\"><b>Attention:</b></font><br />";
+	foreach ($notify_array as $notify_string) {echo $notify_array1[$notify_string]; echo "<br />";}
+	echo "</p>";}
+	$read3 = 0; echo "<p><table align=center cellspacing=\"0\" cellpadding=\"0\" width=\"100%\" border=\"0\">";
+	while ($updates = mysql_fetch_array($read1)) {
+	$dis_func = 0; $date = $updates['dateorder']; $timeoffset = $row['timeoffset']; $date_format = $row['dateformat']; $time_format = $row['timeformat'];
+	include("../disfunc.php");
+	$read2 = mysql_query("SELECT displayname FROM userinfo WHERE username='{$updates['username']}'");
+	$r1 = mysql_fetch_array($read2);
+	if ($read3 % 2 == "0") {$color = "f2f2f2";}
+	else {$color = "cccccc";}
+	if ($updates['attribute'] == "diary_1") {$update1 = "made a new diary entry <a href=\"blog.php?user={$updates['username']}&id={$updates['id']}\"><b>{$updates['title']}</b></a> post"; $icon = "blog_add";}
+	elseif ($updates['attribute'] == "gb_1") {$read11 = mysql_query("SELECT displayname FROM userinfo WHERE username='{$updates['user']}'");
+	$r2 = mysql_fetch_array($read11);
+	$update1 = "commented <a href=\"gb.php?user={$updates['username']}\"><b>{$updates['title']}</b></a> in <a href=\"profiles.php?user={$updates['user']}\"><b>{$r2['displayname']} ({$updates['user']})</a></b>'s guestbook"; $icon = "gb_add";}
+	elseif ($updates['attribute'] == "photo_1") {$update1 = "posted <a href=\"photo.php?user={$updates['username']}\"><b>{$updates['title']}</b></a> in photo gallery"; $icon = "photo_add";}
+	elseif ($updates['attribute'] == "friend_1") {$read11 = mysql_query("SELECT displayname FROM userinfo WHERE username='{$updates['user']}'");
+	$r2 = mysql_fetch_array($read11);
+	$update1 = "became friends with <a href=\"profiles.php?user={$updates['user']}\"><b>{$r2['displayname']} ({$updates['user']})</b></a>"; $icon = "friends_add";}
+	elseif ($updates['attribute'] == "forum_1") {$update1 = "posted <a href=\"/forum/viewthread.php?threadid={$updates['id']}\"><b>{$updates['title']}</b></a> in forum"; $icon = "post_add";}
+	else {$read11 = mysql_query("SELECT displayname FROM userinfo WHERE username='{$updates['user']}'");
+	$r2 = mysql_fetch_array($read11);
+	$update1 = "commented <a href=\"viewthread.php?threadid={$updates['id']}\"><b>{$updates['title']}</b></a> in <a href=\"profiles.php?user={$updates['user']}\"><b>{$r2['displayname']} ({$updates['user']})</b></a>'s {$updates['attribute']}"; $icon = "comment_add";}
+	echo "<tr bgcolor=\"#$color\"><td align=left valign=top width=\"30%\" style=\"padding: 5px 5px 5px 5px;\"><img src=\"images/icons/$icon.gif\" \> <a href=\"profiles.php?user={$updates['username']}\"><b>{$r1['displayname']} ({$updates['username']})</b></a> has $update1 on $date</td></tr>";
+	$read3 ++;}
+	echo "</table>";?>

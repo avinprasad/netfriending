@@ -1,0 +1,13 @@
+[06-Sep-2010 23:25:02] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28498513 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 92
+[06-Sep-2010 23:30:03] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28499165 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 92
+[06-Sep-2010 23:40:02] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28499620 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 93
+[06-Sep-2010 23:50:03] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28499754 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 93
+[07-Sep-2010 00:00:03] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28499316 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 93
+[07-Sep-2010 00:10:02] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28500826 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 93
+[07-Sep-2010 00:20:02] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28501554 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 93
+[07-Sep-2010 00:30:03] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28504951 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 92
+[07-Sep-2010 00:40:03] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28504901 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 92
+[07-Sep-2010 00:50:01] PHP Parse error:  syntax error, unexpected T_SL in /home/netfrie/public_html/admin/cronjobs/backup.php on line 67
+[07-Sep-2010 01:00:01] PHP Parse error:  syntax error, unexpected T_SL in /home/netfrie/public_html/admin/cronjobs/backup.php on line 67
+[07-Sep-2010 01:10:01] PHP Parse error:  syntax error, unexpected $end in /home/netfrie/public_html/admin/cronjobs/backup.php on line 101
+[07-Sep-2010 01:20:02] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 28505111 bytes) in /home/netfrie/public_html/admin/cronjobs/backup.php on line 90

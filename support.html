@@ -1,0 +1,70 @@
+<a name="Support"></a>
+<h1>Support</h1>
+<p>This is where you can contact our administrator for any help or support, well, before you contact us, you have to be clear as to what your question is, please be concise because our administrators have to maintain the site meanwhile reading your messages, so we can be a little impatient. But please be patient, we will try to repond to your questions and quiries as soon as possible.(That means when we do have the time to respond.) You can send an email to this email account: <a href="mailto:support@netfriending.co.cc">support@netfriending.co.cc</a> or simply enter your message in the box below:</p>	
+<?php //Pre-configuration:
+//Require Message:
+include("notification.php");
+
+if (isset($_POST['submit'])){
+$subject = $_POST['subject'];
+$name = $_POST['name'];
+$email = $_POST['email'];
+$message = $_POST['message'];
+$imgverify = $_POST['imgverify'];
+$datetime = date("Y-m-d H:i:s");
+
+$entrycontent = array(array(6, $subject), array(6, $name), array(6, $email), array(6, $message), array(6, $imgverify));
+include("texteditor.php");
+list($subject, $name, $email, $message, $imgverify) = $finalcontent;
+$message = str_replace("\r\n", "<br />", $message);
+
+//all required fields filled?
+if($message == "" or $name == "" or $email == "")
+{echo $requiredfields; $invalid = true;}
+else {
+
+//email right format, valid?
+$regex = "^[_+a-z0-9-]+(\.[_+a-z0-9-]+)*"."@[a-z0-9-]+(\.[a-z0-9-]{1,})*"."\.([a-z]{2,}){1}$";
+if(!eregi($regex, $email))
+{echo $email_invalid_11; $email = ""; $invalid = true;}
+
+//image verification passed?
+if ($_SESSION['imageverify'] != md5($imgverify))
+{echo $imgverify_failed; $invalid = true;}}
+
+$to = "NetFriending Support <support@netfriending.co.cc>";
+
+$body = "<html><font face=\"arial\"><b>Sender:</b> $name, <br /><b>Sender e-mail:</b> $email, <br /><b>Send time:</b> $datetime, <br /><b>Message:</b> <br />$message</html>";
+
+$subject = "NetFriending Support: $subject";
+
+$headers  = 'MIME-Version: 1.0' . "\r\n";
+$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+$headers .= "From: $name <$email>" . "\r\n";
+
+if ($invalid == false)
+{if (mail($to, $subject, $body, $headers)) 
+{echo $email_successful_11;} 
+else 
+{echo $email_unsuccessful_11;}
+$subject = ""; $name = ""; $email = ""; $message = ""; $to = ""; $body = ""; $headers = ""; $imgverify = "";}}
+
+$subject = str_replace("NetFriending Support: ", "", $subject);?>
+<form name="supportsendemail" action="" method="post">
+<script type="text/javascript" src="texteditor.js"></script>
+<p>			
+<label>Subject</label>
+<input name="subject" value="<?php echo $subject;?>" type="text" size="30" />
+<label>Name</label>
+<input name="name" value="<?php echo $name;?>" type="text" size="30" />
+<label>Your E-mail Address</label>
+<input name="email" value="<?php echo $email;?>" type="text" size="30" />
+<label>Message</label>
+<textarea name="message" rows="5" cols="5"><?php echo $message;?></textarea>
+<label>Image Verification</label>
+<img id="image" src="imgverify.php" onclick="reloadImg();" />&nbsp;Click on image to refresh if you can't see it clearly.<br />
+<input name="imgverify" value="" type="text" size="30" maxlength="5" />
+<br /><br />
+<input class="button" name="submit" type="submit" />		
+</p>
+</form>

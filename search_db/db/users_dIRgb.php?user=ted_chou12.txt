@@ -1,0 +1,174 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Ted's Guestbook</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >							
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="main">
+			
+						<h4>Ted's Guestbook</h4>
+			<a href="profiles.php?user=ted_chou12">View Ted's Profile</a>
+															<a name="Hello!"></a>
+			<link rel="stylesheet" href=".css" type="text/css" />
+			<style type="text/css">
+			#wrap 
+			{background-color: #E6E6FA			}
+			h1.title
+			{
+			font-size: 5;
+			font-family: Default;
+			color: ;
+			}
+			p.banner
+			{
+			font-size: 4;
+			font-family: Default;
+			color: ;
+			}
+			table.customize
+			{
+			background-color: #F0F8FF;
+			}
+			td.customize
+			{
+			background-color: #D2691E;
+			}
+			font.customize
+			{
+			font-family: Default;
+			color: ;
+			}
+			form
+			{
+			background-color: ;
+			}
+			p.footer,p.header
+			{
+			font-size: 3;
+			font-family: Default;
+			color: ;
+			}
+			p.customize,h3.customize
+			{
+			color: ;
+			font-family: Default;
+			}
+			</style>
+			<h1 class="title"><b>Hello!</b></h1>
+			<p class="banner"><b>Welcome to my Blog!</b></p>
+			<p class="header"></p>
+						<p><table class="customize" width="100%" align=center><tr><td class="customize" align=center width="35%" height="100%" valign=top><p align=center><a href="profiles.php?user=ted_chou12"><font class="customize"><b>Ted (ted_chou12)</b></font></a><br /><br /><img src="/users/images/photo/photo9.jpg" width="69" height="92"></p></td><td valign=top height="100%"><img src="/users/images/xx.gif"><font color="#666666" class="customize"><b>There are no people coming</b></font><br /><font class="customize"><b>Jun 24, 2009 02:08 PM</b></font><hr><div id="views"><font class="customize">There are no people coming to leave comments in my guestbook!~<img src="/users/smilies/cry.gif" alt="Cry"><br />
+<strong>Quote:</strong><div style="margin:0px 0px; padding:5px; background-color:#f7f7f7; border:1px dotted #cccccc; width:90%;"><i>&quot;|&quot;|&quot;|&quot;\&quot;[url]&quot;[/url]&quot;&quot;&quot;&quot;&quot;<a href="mailto:&quot;&quot;&quot;&quot;&quot;<b>&quot;<i>&quot;&quot;&quot;<br />
+Nice Posting!!!~ <img src="/users/smilies/wink.gif" alt="Wink"><br />
+Nice<br />
+Good <br />
+Posting</b></i>">&quot;&quot;&quot;&quot;&quot;<b>&quot;<i>&quot;&quot;&quot;<br />
+Nice Posting!!!~ <img src="/users/smilies/wink.gif" alt="Wink"><br />
+Nice<br />
+Good <br />
+Posting</b></i></a><br />
+</i></div><br />
+<img src="http://downloadsource.net/img/7717805785e6ff4467eec5bb1ab2612c.jpg.jpg" alt="" style="border:0px; max-width: 240px; width: expression(this.width > 240 ? 240: true); max-height: 600px; height: expression(this.height > 600 ? 600: true);" /><br />
+中文之測試 test</font></div></td></tr></table></p>
+			<p><table class="customize" width="100%" align=center><tr><td class="customize" align=center width="35%" height="100%" valign=top><p align=center><a href="profiles.php?user=ted_chou12"><font class="customize"><b>Ted (ted_chou12)</b></font></a><br /><br /><img src="/users/images/photo/photo9.jpg" width="69" height="92"></p></td><td valign=top height="100%"><img src="/users/images/xx.gif"><font color="#666666" class="customize"><b>Testing the Guestbook!!</b></font><br /><font class="customize"><b>Sep 20, 2007 02:49 PM</b></font><hr><div id="views"><font class="customize">This is testing the Guestbook Layout, inserting smilies: <img src="/users/smilies/cheesy.gif" alt="Cheesy"><br />
+==&quot;&quot;, some <font color="ff0000">colored texts</font>, and lastly, testing font <font size="6">sizes</font>.</font></div></td></tr></table></p>
+<p class="pagination" align=center>PREV&nbsp;[1] NEXT&nbsp;</p>			<p class="footer"></p>
+						
+		</div>
+			
+		<div id="rightbar">
+					<h1><span class="green">Advertisements</span></h1>
+			<p><!-- Begin BidVertiser code -->
+			<script type="text/javascript" src="http://bdv.bidvertiser.com/BidVertiser.dbm?pid=54358&bid=423806"></script>
+			<noscript><a href="http://www.bidvertiser.com">marketing</a></noscript>
+			<!-- End BidVertiser code --></p>		</div>
+			
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

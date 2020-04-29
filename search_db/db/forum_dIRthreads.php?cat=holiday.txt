@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Travel & Vacations Forum</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >					
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="forum">
+			
+						<h3>
+			<a href="index.php">Forum Index</a> >>
+			<a href="threads.php?cat=holiday">Travel & Vacations Forum</a>
+			</h3>
+												<p><a href="addthread.php?cat=holiday">Post New Thread</a> | 
+			<a href="addthread.php?cat=holiday&poll=block">Post New Poll</a>
+			</p>
+			<style type="text/css">
+			font.customize
+			{
+			color: #000000;
+			}
+			font.label
+			{
+			font-size: 1em;
+			color: #000000;
+			text-decoration: bold;
+			}
+			td.label
+			{
+			background-image:
+			url('../users/images/themes/0_gradient.gif');
+			text-align: center;
+			}
+			</style>
+			<p>
+			<table id="forumtbl">
+						<tr height=30>
+						  <td width="6%" class="label"><font class="label"></td>
+						  <td width="6%" class="label"><font class="label"></td>
+						  <td width="28%" class="label"><font class="label">
+						  <a href="/forum/threads.php?cat=holiday&page=1&order=titleasc"><b> TITLE</b></a></td>
+						  <td width="16%" class="label"><font class="label">
+						  <a href="/forum/threads.php?cat=holiday&page=1&order=userasc"><b> STARTER</b></a></td>
+						  <td width="12%" class="label"><font class="label">
+						  <a href="/forum/threads.php?cat=holiday&page=1&order=replyasc"><b> REPLIES</b></a></td>
+						  <td width="10%" class="label"><font class="label">
+						  <a href="/forum/threads.php?cat=holiday&page=1&order=viewasc"><b> VIEWS</b></a></td>
+						  <td width="100%" class="label"><font class="label">
+						  <a href="/forum/threads.php?cat=holiday&page=1&order=dateasc"><b>^ LAST POST</b></a></td>
+						</tr><tr height=25 bgcolor="#f2f2f2">
+			<td align=center><font class="customize"><img src="images/normal_post.gif"></td>
+			<td align=center><font class="customize"><img src="../users/images/xx.gif"></td>
+			<td valign=top><font class="customize"><a href="viewthread.php?threadid=46">Bangkok Tour Destinations &amp; Restuarants</a></td>
+			<td align=center><font class="customize"><a href="../users/profiles.php?user=ted_chou12">ted_chou12</a></td>
+			<td align=center><font class="customize">1</td>
+			<td align=center><font class="customize">358</td>
+			<td align=center><font class="customize"><img src="images/last_post.gif">
+			<a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Dec 05, 2008 07:22 PM</td></tr>
+<tr height=25 bgcolor="#f2f2f2">
+			<td align=center><font class="customize"><img src="images/normal_post.gif"></td>
+			<td align=center><font class="customize"><img src="../users/images/xx.gif"></td>
+			<td valign=top><font class="customize"><a href="viewthread.php?threadid=52">Chicago Tourism...(at fall)</a></td>
+			<td align=center><font class="customize"><a href="../users/profiles.php?user=ted_chou12">ted_chou12</a></td>
+			<td align=center><font class="customize">0</td>
+			<td align=center><font class="customize">59</td>
+			<td align=center><font class="customize"><img src="images/last_post.gif">
+			<a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Dec 05, 2008 12:59 AM</td></tr>
+<tr height=25 bgcolor="#f2f2f2">
+			<td align=center><font class="customize"><img src="images/normal_post.gif"></td>
+			<td align=center><font class="customize"><img src="../users/images/lamp.gif"></td>
+			<td valign=top><font class="customize"><a href="viewthread.php?threadid=15">Important notice! About me this summer.</a></td>
+			<td align=center><font class="customize"><a href="../users/profiles.php?user=ted_chou12">ted_chou12</a></td>
+			<td align=center><font class="customize">0</td>
+			<td align=center><font class="customize">809</td>
+			<td align=center><font class="customize"><img src="images/last_post.gif">
+			<a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Apr 23, 2007 11:36 AM</td></tr>
+</table><p><table id="forumtbl" align=center><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			</p><p></p>
+			<p>
+			<table id="forumtbl">
+			<tr height="30">
+			<td width="100%" align=center background="../users/images/themes/0_gradient.gif" colspan=2> 
+			<b>IMAGE KEYS</b></td></tr>
+			<tr bgcolor="#f2f2f2">
+			<td style="padding: 20px; vertical-align: top;" height="97" width="418">
+			<img alt src="images/my_normal_post.gif" align="middle" width="20" height="20"> 
+			Topic you have posted in<br>
+			<img alt src="images/normal_post.gif" align="middle" width="20" height="20"> 
+			Normal Topic<br>
+			<img alt src="images/hot_post.gif" align="middle" width="20" height="20"> 
+			Hot Topic (More than 10 replies)<br>
+			<img alt src="images/veryhot_post.gif" align="middle" width="20" height="20"> 
+			Very Hot Topic (More than 20 replies)</p></td>
+			<td style="padding: 20px; vertical-align: top;" height="97" width="439">
+			<p><img alt src="images/lock.gif" align="middle" width="16" height="16"> 
+			Locked Topic<br>
+			<img alt src="images/sticky.gif" align="middle" width="16" height="16">
+			Sticky Topic<br>
+			<img alt src="images/normal_poll.gif" align="middle" width="20" height="20"> 
+			Poll</td>
+			</tr>
+			</table>
+			</p>
+			
+		</div>	
+		
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

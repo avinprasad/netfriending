@@ -1,0 +1,5 @@
+<?php $error = "404";
+$errorpage = "<h3>Error Pages - Page not found</h3>
+			<p><strong>Sorry, the page you are trying to look for does not exist or it is no longer available, check the url entered or the link you had. If there are bad links in our server, you can report our administrator through the support area.</strong></p>
+			<p><strong>If you do not wish to further explore the non existence page, please click <a href=\"javascript:history.go(-1);\">here</a> to go back to the previous page, or <a href=\"javascript:location.reload(true);\">here</a> to refresh and see if the page comes back up again.</strong></p>";
+include("errorpages.php");?>

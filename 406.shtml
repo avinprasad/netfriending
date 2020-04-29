@@ -1,0 +1,5 @@
+<?php $error = "406";
+$errorpage = "<h3>Error Pages - Not Acceptable</h3>
+			<p><strong>Sorry, but the page your are trying to view has a encoding problem either in the charset or language errors involving MIME type errors, there is nothing that you can do about this error, so please report us if you get this error.</strong></p>
+			<p><strong>Please click <a href=\"javascript:history.go(-1);\">here</a> to go back to the previous page for another request or to check if there are errors in your request, or <a href=\"javascript:location.reload(true);\">here</a> to refresh and see if the page comes back up again.</strong></p>";
+include("errorpages.php");?>

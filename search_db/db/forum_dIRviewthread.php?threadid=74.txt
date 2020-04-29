@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Abstract Painting</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >							
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="forum">
+			
+						<h3>
+			<a href="index.php">Forum Index</a> >>
+			<a href="threads.php?cat=school">School Life</a> >>
+			<a href="viewthread.php?threadid=74">Abstract Painting</a>
+			</h3>
+									<p><table id="forumtbl" cellpadding="0" cellspacing="1" border="1" bordercolor="#111111" style="border-collapse: collapse">
+			<tr height="25"><td width="100%" align=left background="../users/images/themes/0_gradient.gif" colspan=2>
+			<img src="../users/images/xx.gif"> <b>Abstract Painting</b> 
+			(608 views) - <a href="replythread.php?threadid=74"><b>REPLY TO THIS THREAD</b></a></td></tr>						<tr bgcolor="#f2f2f2">
+				  <td width="25%" align=center valign=top bgcolor="#f2f2f2" style="padding: 10px 0;">
+				  <a href="../users/profiles.php?user=ted_chou12">
+				  <b>Ted (ted_chou12)</a></b><br />
+				  <b>Forum Regular</b><br /><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><br />
+				  <img src="../users/images/offline.png"> Offline<br /><img src="../users/images/photo/photo9.jpg" height="92" width="69"><br />Posts: 108<br />
+				  <b>Let us promote NetFriending Online!</b><br /></td>
+				  <td width="100%" valign=top height="200" bgcolor="#f2f2f2">
+				  <table width="100%" height="100%" bgcolor="#f2f2f2">
+				  <tr valign=top height="10%"><td valign=top align=left width="95%">
+				  <img src="../users/images/xx.gif"> 
+				  <b>Abstract Painting</b><br />Nov 25, 2009 04:30 PM</td>
+				  <td align=right valign=center width="100%"></td></tr>
+				  <tr valign=top height="60%"><td colspan=2><hr />
+				  <div id="views"><u>Abstract painting is one which diverges from conventional figurative painting and opened to interpretation.</u> Therefore can’t match the appearance of an abstract painting against knowledge of the world it depicts. <b>It uses visual language of form colors and lines to create a composition which may exist with a degree of independence from visual references in the world.</b><br />
+For example, spiritual, ideas are themes of abstract such as Malevich’s Black Square is a form of spiritualism. A ‘habit of mind’ that Malevich referred to and audiences like ones that overcomes the naturalistic ‘habit of mind’ and respond to ‘pure feelings’ are identified with the constituents of painting. Abstract paintings avoid reference of things to the world; however, this also allows a wide perspective to let different people see it differently:<br />
+- A sees it as coal cellar full of black cats.<br />
+- B sees it as a view out of a prison window at night.<br />
+Both of these interpretation seeks to make sense, pattern that the painting corresponds, however, another definition of spiritualism states that an abstract painting is one which we cannot connect to the apparent world of natural motifs, instead, it is the expression of emotions and spiritual states. The absence of distraction enables more concentration on the spiritual content of the painting. Meanwhile, originality of the creative artist is revealed in the extremism of departure from the world of appearances. These kinds of paintings require more matching commitment from the spectators. Clive Bell: ‘Art speaks to those who have ears to hear’, but those can’t hear are aesthetically deaf and spiritually dead. For example, the majority who do not reflect Hilla Rebay’s art caused it to remain arcane and mysterious, obscurantist and absurd. Most viewed the surface of painting as a doorway into spiritual world is indulged in a form of wanton superstition.<br />
+Autonomy is another example of abstract painting, which refers to the condition of self governing or independence. <u>In the subject of sciences, an autonomous process or development is one which can be studied in isolation, and a set of laws that it tends to conform to.</u> <b>However, an autonomous development of art is to treat the self critical character of artistic practice as the most significant factor in determining the development of art. </b> Art is seen as specialized activity with its own intrinsic concerns and problems. There are three versions of autonomy:<br />
+- Modern Art: pursuit of art is the pursuit of a specialized and autonomous discipline.<br />
+- Art Criticism: second autonomy concerns with the experience of art.<br />
+- Art History: third autonomy accords autonomy to the forms of art, some formal elements in a painting refers to a feature of the world form functions within a self contained, aesthetic whole, not dependent upon that reference for its values.<br />
+However, not all autonomy is equally defensible, since they are rather three complementary to each other, each having logical connections with another. There are no inquiries or casual explanations without the operation of some principles of autonomy. Autonomy thesis is useful when serving to stimulate the relevance of explanation, but are deleterious when serve to insulate against criticism, narrow inquiry or to foreclose the terms of explanation. Malevich described his painting of the <b>Black Square</b> as the first step of <i>pure creation</i> in art. Before it, there were deformities and copies of nature. But pure creations were not a process of abstraction. Malevich started at a less absolute point, presented the work as elementary component of a new ‘purely painterly’ order, independent of naturalistic appearance. “<u>Each form is free and individual</u>.”<br />
+Mondrian’s <b>Apple Tree in Blossom</b> is an example of an abstract that simplifies the original form of a tree to geometrical lines and shapes. However, there is a painting of Mondrian’s composition called <b>Tree</b> that has not known name, which can either meant Mondrian’s intentional in painting a tree, Mondrian’s unintentional painting that just reminds the painter of a tree or simply the dealer that saw it as a tree. These are several examples that could potentially lead to abstraction. In the case of Van Doesburg’s <b>Composition (The Cow), </b> the artist started with an image of a cow, and simplified it step by step to geometrical shapes, so is the <b>Pier and Ocean</b> by Mondrian.<br />
+Theosophy’s characteristics of teaching are the belief in such a possibility of change, Kandinsky, Malevich and Mondrian are various artist that draw examples of it. Each of them painted examples of ‘spiritual’ potentials of human figures. According to Kandinsky, abstraction of art leads to a better world because: “Philosophy of the future lies besides the study of nature of things and the study of their spirit and especial attention. Mankind will be enabled to experience first the spiritual in material objects and later the spiritual in abstract forms, and through this new capacity, which will be in the signs of the ‘spirit’, the enjoyment of abstract=absolute art comes into being.” Theosophy was confined to the pre-war period, idealism. Hoping that this war will be the final and cleansing convulsion for a higher plane of existence and social forms when the war is over.<br />
+</div>
+				  </td></tr>
+				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  </td></tr>
+</table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
+		</div>
+		
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

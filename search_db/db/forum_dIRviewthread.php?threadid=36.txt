@@ -1,0 +1,528 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>SAT Bio-revisions~~~</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >							
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="forum">
+			
+						<h3>
+			<a href="index.php">Forum Index</a> >>
+			<a href="threads.php?cat=school">School Life</a> >>
+			<a href="viewthread.php?threadid=36">SAT Bio-revisions~~~</a>
+			</h3>
+									<p><table id="forumtbl" cellpadding="0" cellspacing="1" border="1" bordercolor="#111111" style="border-collapse: collapse">
+			<tr height="25"><td width="100%" align=left background="../users/images/themes/0_gradient.gif" colspan=2>
+			<img src="../users/images/lamp.gif"> <b>SAT Bio-revisions~~~</b> 
+			(1622 views) - <a href="replythread.php?threadid=36"><b>REPLY TO THIS THREAD</b></a></td></tr>						<tr bgcolor="#f2f2f2">
+				  <td width="25%" align=center valign=top bgcolor="#f2f2f2" style="padding: 10px 0;">
+				  <a href="../users/profiles.php?user=ted_chou12">
+				  <b>Ted (ted_chou12)</a></b><br />
+				  <b>Forum Regular</b><br /><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><br />
+				  <img src="../users/images/offline.png"> Offline<br /><img src="../users/images/photo/photo9.jpg" height="92" width="69"><br />Posts: 108<br />
+				  <b>Let us promote NetFriending Online!</b><br /></td>
+				  <td width="100%" valign=top height="200" bgcolor="#f2f2f2">
+				  <table width="100%" height="100%" bgcolor="#f2f2f2">
+				  <tr valign=top height="10%"><td valign=top align=left width="95%">
+				  <img src="../users/images/lamp.gif"> 
+				  <b>SAT Bio-revisions~~~</b><br />Sep 28, 2008 07:17 PM</td>
+				  <td align=right valign=center width="100%"></td></tr>
+				  <tr valign=top height="60%"><td colspan=2><hr />
+				  <div id="views">Here are some stuff on SAT II Bio, I summerized it, thought it could be useful for some people~! <img src="/users/smilies/wink.gif" alt="Wink"><br />
+<br />
+<u><b>Organic Molecules:</b></u><br />
+- H2O is inorganic.<br />
+- All compounds with carbon are organic.<br />
+<b>Protein:</b><br />
+- Amino acid is the monomer of proteins.<br />
+- Peptide is the bond linking two monomers.<br />
+- Polypeptide is the name of the polymer. (Involves removal of a water molecule, dehydration)<br />
+<b>Carbohydrate:</b><br />
+- Monosaccharide is the monomer of carbohydrates. (eg. glucose, fructose)<br />
+- Bond between two molecules of monosaccharide involves removal of water molecule.<br />
+- Disaccharide is a carbohydrate made of two monosaccharide. (eg. maltose, sucrose)<br />
+- Polysaccharide is more than two monosaccharide joined together.<br />
+- Glycogen � Storage of glucose in animals<br />
+- Starch � Storage of glucose in plants<br />
+- Cellulose � Structure of plant�s cell wall<br />
+<b>Lipids:</b><br />
+- Lipids are made of long hydrocarbon chains, therefore, hydrophobic or non-polar.<br />
+- Triglycerides � three fatty acids bonded to a glycerol molecule.<br />
+- Phospholipids � two fatty acids and one phosphate (PO32-) bonded to a glycerol molecule. Fatty acids are hydrophobic/non-polar, however, phosphate is hydrophilic/polar. This property gives rise to cell membrane, fatty acids face in (tails), phosphate faces out (head).<br />
+- Cholesterol � made up of lots of hydrocarbons forming rings, is found in animal cells with the phospholipids.<br />
+<b>Nucleic Acids:</b><br />
+- Monomers of nucleic acids are called nucleotide. Polymers are thus polynucleotide.<br />
+- DNA (deoxyribose) double stranded is made up of four bases: Adenine, Cytosine, Guanine, and Thymine. Adenine hydrogen bonds with Thymine, Cytosine hydrogen bonds with Guanine.<br />
+- RNA (ribose) single stranded, which Thymine is replaced with Uracil.<br />
+<br />
+This is the first part about organic molecules <img src="/users/smilies/grin.gif" alt="Grin"></div>
+				  </td></tr>
+				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
+				  <p valign=bottom><div id="views"><b><i>Last Edited: Sep 28, 2008 07:18 PM</i></b></div>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  </td></tr>
+						<tr bgcolor="#cccccc">
+				  <td width="25%" align=center valign=top bgcolor="#cccccc" style="padding: 10px 0;">
+				  <a href="../users/profiles.php?user=ted_chou12">
+				  <b>Ted (ted_chou12)</a></b><br />
+				  <b>Forum Regular</b><br /><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><br />
+				  <img src="../users/images/offline.png"> Offline<br /><img src="../users/images/photo/photo9.jpg" height="92" width="69"><br />Posts: 108<br />
+				  <b>Let us promote NetFriending Online!</b><br /></td>
+				  <td width="100%" valign=top height="200" bgcolor="#cccccc">
+				  <table width="100%" height="100%" bgcolor="#cccccc">
+				  <tr valign=top height="10%"><td valign=top align=left width="95%">
+				  <img src="../users/images/xx.gif"> 
+				  <b>Cells &amp; Transports</b><br />Sep 28, 2008 07:22 PM</td>
+				  <td align=right valign=center width="100%"></td></tr>
+				  <tr valign=top height="60%"><td colspan=2><hr />
+				  <div id="views"><b>Cell Structures:</b><br />
+- Cell Wall � Only in plants and certain prokaryotes. Plants: cellulose, Bacteria: Peptidoglycan, Fungi: Chitin.<br />
+- Vacuole � Storage of waste and materials.<br />
+- Ribosome � Sites of protein synthesis.<br />
+- Smooth ER � Systems of tubes transport substances around the cell.<br />
+- Rough ER � Ribosome bond to it.<br />
+- Golgi Apparatus � Sorts and package proteins for storage or export.<br />
+- Mitochondria � For cellular respiration, produces ATP for the cell.<br />
+- Lysosomes � Contains digestive enzymes.<br />
+- Centrioles � Form spindles for cell division.<br />
+- Nucleus � Contains genetic materials, DNA, controls the cell.<br />
+<br />
+<b>Cell Transport:</b><br />
+- Diffusion is substances moving down a concentration gradient, therefore, the gradient in and out the cell will be reduced.<br />
+- Facilitated diffusion is aid to diffuse hydrophilic substances. Since cell membrane is hydrophobic, thus hydrophilic cannot pass through.<br />
+- Active Transport is going against concentration gradient, thus requires the expenditure of ATP.<br />
+- Endocytosis is the ingest of big foreign molecule, exocytosis is the exit of big molecule.<br />
+- Osmosis is the diffusion of water.</div>
+				  </td></tr>
+				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  </td></tr>
+						<tr bgcolor="#f2f2f2">
+				  <td width="25%" align=center valign=top bgcolor="#f2f2f2" style="padding: 10px 0;">
+				  <a href="../users/profiles.php?user=ted_chou12">
+				  <b>Ted (ted_chou12)</a></b><br />
+				  <b>Forum Regular</b><br /><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><br />
+				  <img src="../users/images/offline.png"> Offline<br /><img src="../users/images/photo/photo9.jpg" height="92" width="69"><br />Posts: 108<br />
+				  <b>Let us promote NetFriending Online!</b><br /></td>
+				  <td width="100%" valign=top height="200" bgcolor="#f2f2f2">
+				  <table width="100%" height="100%" bgcolor="#f2f2f2">
+				  <tr valign=top height="10%"><td valign=top align=left width="95%">
+				  <img src="../users/images/xx.gif"> 
+				  <b>RE: SAT Bio-revisions~~~</b><br />Sep 28, 2008 07:28 PM</td>
+				  <td align=right valign=center width="100%"></td></tr>
+				  <tr valign=top height="60%"><td colspan=2><hr />
+				  <div id="views"><b>Aerobic Cellular Respiration:</b><br />
+- Glycolysis � Cytoplasm, Glucose + 2 ATP &amp;#61664; 2 Pyruvate + 2 ATP + 2 NADH<br />
+- PDC (Pyruvate dehydrogenase complex) � Matrix of mitochondria, Pyruvate &amp;#61664; Acetyl Coenzyme-A + NADH + CO2<br />
+- Krebs cycle � Matrix of mitochondria, Acetyl Coenzyme-A + oxaloacetic acid &amp;#61664; Oxaloacetic acid + 3 NADH + 1 ATP + 1 FADH2 + CO2<br />
+- Electron transport/oxidative phosphorylation � inner membrane of mitochondria, NADH + FADH2 + ADP + Pi - NAD+ + FAD+ + ATP<br />
+- Electron Carrier, NAD+ + H+ + 2e- &amp;#61664; NADH, FAD+ + 2H+ +2e- &amp;#61664; FADH2, adding of electrons is reduced, taking of electron is oxidized.<br />
+- Oxygen is final electron acceptor in the electron transport and water is produced as a by-product, and H+ ion is pumped into the inner membrane of the mitochondria in order to acquire H+ gradient to produce energy for ATP.<br />
+<b>Anaerobic Cellular Respiration:</b><br />
+- Glycolysis is anaerobic, because glycolysis is able to oxidize the electron carriers through fermentation.<br />
+- Since the NADH donates the electron to pyruvate, pyruvate becomes ethanol in yeast, lactic acid in human, NAD+ can run glycolysis again.<br />
+- However, lactic acid and ethanol are both toxic, and only 2 ATP are produced in this process, therefore, not efficient enough.<br />
+<b>DNA:</b><br />
+- DNA polymerase is an enzyme that runs DNA replication. Original DNA is unwind, and served as template strands for DNA polymerase to copy to complementary strands.<br />
+- 46 chromosomes in human, and 23 homologous pairs.<br />
+<b>Transcription &amp; Translation:</b><br />
+- Transcription is copying DNA to RNA, this is when part of the DNA unwinds, and the RNA polymerase creates a complementary strand of mRNA.<br />
+- Translation is synthesis of protein from RNA:<br />
+- mRNA is messenger RNA which carries information for protein synthesis.<br />
+- rRNA is ribosomal RNA interacts with ribosome for protein synthesis. P-site (Peptide) is the exit site, A-site (Amino acid) is the entry site. mRNA goes from A to P.<br />
+- tRNA is transfer RNA carries the amino acids from the cytoplasm for protein synthesis. Has two ends, one side attached to amino acid, one is anticondon, reading mRNA.<br />
+- Three nucleotides is one codon, 64 codons however, only 20 amino acids, more than one condon codes for one amino acid. AUG (methionine) start codon, UAA, UGA, UAG top condons.<br />
+<b>Mitosis:</b><br />
+- Interphase is when the cell is not actively dividing. After interphase, the chromosomes become chromatids, Centromere holds the two chromotids together. Cell has 92 chromatids.<br />
+- Prophase is when the centrioles move to the two ends of the cell and produce mitotic spindles, attaching the chromosomes at the centromeres. Membrane begins to break up, chromosomes condense.<br />
+- Metaphase is when the chromosomes line up at the metaphase plate of the cell. (pushed or pulled by the spindle fibers.)<br />
+- Anaphase is when the chromatids separate and pulled by the spindles to the two ends of the cell, and the cell now has 92 chromosomes, which it begins to divide, the place of division is called the cleavage furrow.<br />
+- Telophase is when nuclear membranes form of each individual cell, and cytoplasm then divides of a process called cytokinesis.<br />
+- Before mitosis: Interphase, Mitosis: Prophase, Metaphase, Anaphase, Telophase.<br />
+<b>Meiosis:</b><br />
+- Sex cells are gametes, non-sex cells are somatic cells. Gametes only have half the number of chromosomes of a somatic cell, therefore they are haploid, while somatic cells are diploid.<br />
+- When egg and sperm fertilize, the newly formed cell, the zygoate is diploid.<br />
+- Meosis I contains four stages: prophase I, metaphase I, anaphase I, and telophase I.<br />
+- In prophase I, the homologous pairs pair up and cross-over, called synapse. Each pair consists of 4 chromatids, therefore, called a tetrad.<br />
+- In metaphase I, the homologous pairs line up in pairs on the metaphase plate. Instead of each individual in mitosis.<br />
+- In anaphase I, the centromeres don�t divide, however, the homologous pairs are being separated.<br />
+- In telophase I, the cytokinesis also takes place. 23 individual chromosomes (with chromatids), thus cell is considered haploid.<br />
+- Meosis II is identical to Mitosis except there are only 23 chromosomes instead of 46 in mitosis. The four haploid gametes are produced in the end.<br />
+- Gametogenesis is the formation of gametes (sperm or egg), spermatogenesis is the formation of spem cells. Starting cell is diploid called the spermatogonium.<br />
+- Oogenesis is the formation of egg cells. Starting cell is diploid called the primary oocyte. Only one egg (ovum) is resulted from oogenesis, all the other haploid cells (polar bodies) are disintegrated.<br />
+<b>Genetics:</b><br />
+- Genotype is the genes, eg. Bb, phenotype is the appearance, eg. Black fur.<br />
+- Allele refers to a gene that gives rise to more than one version of the same trait, eg. black fur is one allele, white is another.<br />
+- Homozygous is when both alleles agree, eg. BB, bb, heterozygous is when the alleles disagree, eg. Bb.<br />
+- Codominance is when both heterozygous alleles express, eg. blood type AB.<br />
+- Sex link traits are genes that locate on the X-chromosome, thus X-linked trait. Occurs more often in male than female. Eg. hemophilia, color blindness, and male pattern baldness.</div>
+				  </td></tr>
+				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
+				  <p valign=bottom><div id="views"><b><i>Last Edited: Sep 28, 2008 07:31 PM</i></b></div>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  </td></tr>
+						<tr bgcolor="#cccccc">
+				  <td width="25%" align=center valign=top bgcolor="#cccccc" style="padding: 10px 0;">
+				  <a href="../users/profiles.php?user=ted_chou12">
+				  <b>Ted (ted_chou12)</a></b><br />
+				  <b>Forum Regular</b><br /><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><br />
+				  <img src="../users/images/offline.png"> Offline<br /><img src="../users/images/photo/photo9.jpg" height="92" width="69"><br />Posts: 108<br />
+				  <b>Let us promote NetFriending Online!</b><br /></td>
+				  <td width="100%" valign=top height="200" bgcolor="#cccccc">
+				  <table width="100%" height="100%" bgcolor="#cccccc">
+				  <tr valign=top height="10%"><td valign=top align=left width="95%">
+				  <img src="../users/images/xx.gif"> 
+				  <b>RE: SAT Bio-revisions~~~</b><br />Dec 18, 2008 07:16 AM</td>
+				  <td align=right valign=center width="100%"></td></tr>
+				  <tr valign=top height="60%"><td colspan=2><hr />
+				  <div id="views"><b><u>Evolution &amp; Biodiversity:</u></b><br />
+- <b>Heterotroph hypothesis</b> is a theory suggests earth’s intense reactivity, organic molecules, eg. proteins ammonia gave rise to <b>heterotrophs</b>, however, after heterotrophs finished their food, they evolved to become <b>autotrophs</b>. (Both were <b>anaerobic</b> organisms because earth didn’t have oxygen.)<br />
+- All the genes of a large population are the <b>gene pool</b>, among the gene pool, there would be different alleles, therefore, <b>genetic variability</b>. DNA gives rise to these genetic differences.<br />
+- <b>Natural selection</b> is when better competitors survive to reproduce, thus changing the frequency of alleles in the gene pool.<br />
+- <b>Speciation</b> is the formation of new species due to <b>divergent evolution</b>.<br />
+- <b>Homologous structures</b> are evidence for same origin of speciation. (opp. <b>Analogous structures</b>.)<br />
+- When two species have become more similar in behaviour patterns, they are <b>convergent evolution</b>, however, the two species can never mate, nor create new species.<br />
+- <b>Vestigial structures</b> are body parts that are not used over a long period of time may become smaller.<br />
+<b><u>Classification:</u></b><br />
+- <b>Kingdom</b>, <b>Phylum</b>, <b>Class</b>, <b>Order</b>, <b>Family</b>, <b>Genus</b>, <b>Species</b>. Less common to more in common.<br />
+- Scientists classify organisms based on their evolutionary relationships (<b>phylogeny</b>), the study of classification is taxonomy.<br />
+- <b>Carolus Linnaeus</b> came up with the binomial system, the modern system of classification.<br />
+- There are five Kingdoms:<br />
+   - <b>Monera</b> – these are prokaryotic, bacteria, lack nucleus and internal membrane.<br />
+  	<b>Phylum</b> Bacteria – mostly heterotrophic, can form mutual relationships, can be pathogens or decomposers.<br />
+	    <b>Phylum</b> Cyanobacteria – blue-green algae, contain chloroplast, and can photosynthesis.<br />
+   - <b>Protista</b> – these are eukaryotic, have organelles and a true nucleus. Can be unicellular or muticellular. Can be sub-divided into three groups, protozoa, algae, and fugus protists.<br />
+	    <b>Phylum Rhizopoda</b> (Amoebas) – unicellular, movements through cytoplasm extentions, or pseudopodia. Can be parasitic.<br />
+	    <b>Phylum Apicomplexa</b> (Sporozoans) – animal parasites, can have both sexual and asexual stages.<br />
+	    <b>Phylum Ciliophora</b> (Ciliates) – unicellular that use cilia for movement and feeding.<br />
+	    <b>Phylum Myxomycota and Acrasiomycota</b> (Slime Molds) – Overgrowth amoeba, contain mutilple nuclei.<br />
+	    <b>Phylum Euglenophyta</b> (Euglena) – unicellular and photosynthetic algae.<br />
+	    <b>Phylum Bacilariophyta</b> (Diatoms) – unicellular have glasslike walls, and die to form sediments, useful as filtering medium, can be both freshwater and marine environments.<br />
+	    <b>Phylum Phaeophyta</b> (Brown Algae) – commonly know seaweeds, the most complex of the plantlike protests, are muticellular and live in marine environments.<br />
+   - <b>Plantae</b> – these are eukaryotic and multicellular, photosynthetic (autotrophs), sub-divided into two groups, nonvascular plants and vascular plants. Vascular plants are divided into seedless and seed plants. Seed plants are divided into gymnosperms (nonflowering) and angiosperms (flowering) plants.<br />
+	    <b>Division Byrophyta</b> (Nonvascular plants) – lacks xylem and phloem found in most plants. Therefore, living in aquatic environments, they need water to fertilize, and do not have true stems, leaves or roots.<br />
+	    <b>Division Pterophyta</b> (Ferns) – the earliest vascular plants that contains xylem and phloem, have true stems, leaves and roots, no seeds, have spores for reproduction.<br />
+	    <b>Division Coniferophyta</b> (Conifers) – vasclular plants, cones that carry the seeds of these plants, large in size, naked seeds and do not produce flowers.<br />
+	    <b>Division Anthophyta</b> (Flowering plants) – vascular plants, produces flowers and pollens. Seeds are protected by fruits and nuts. Monocots are single-seed leaves, cotyledon, have parallel veins, flower parts in multiple of threes, complex arrangement in vascular stems, fibrous root. Dicots are two seed leaves, two cotyledons, netlike veins, flower parts in multiples of four or five, vascular arranged in ring, tap root.<br />
+   - <b>Fungi</b> – these are eukaryotic and mostly multicellular, however, yeasts are unicellular. Most fungi have filamentous structure and are multinucleate. Lack chloroplast therefore heterotrophic. Lack digestive system and are absorptive feeders, decomposers.<br />
+	    <b>Division Zygomycota</b> – reproduce sexually.<br />
+	    <b>Division Basidiomycota</b> (Club Fungi) – 25000 members, contain mushrooms shelf fungi, puffballs.<br />
+   - <b>Amimalia</b> – these are eukaryotic, multicellular and heterotrophic, most diverse kingdom.<br />
+	    <b>Phylum Porifera</b> (Sponges) – sessile animals, two layers of cells, water and food in drawn into the body, live in marine environments.<br />
+	    <b>Phylum Cnidaria</b> (Coelenterates) – have body walls and two layers of cells, a central digestive system, are radial symmetry. Jelly Fish.<br />
+	    <b>Phylum Platyhelminthes</b> (Flatworms) – bilateral symmetry and moderate cephalization (head). Both non parasitic and parasitic. Tapeworms.<br />
+	    <b>Phylum Mollusca</b> (Mollusks) – soft-bodied animals with external shells, some has internal shells, three major body parts, foot, visceral mass, mantle. Snails, octopus.<br />
+	    <b>Phylum Annelida</b> (Segmented Worms) – closed circulation, mouth and anus, excrete waste through metanephridia. Earthworms.<br />
+	    <b>Phylum Arthropoda</b> (Arthropods) – most diverse in the animal kingdom, jointed appendages, hard exoskeleton (chitin), segmented body with head, thorax, and abdomen. Open circulatory system, wastes through malpighian tubules. Crabs, insects.<br />
+	    <b>Phylum Echinodermata</b> (Echinoderms) – slow in movement or sessile, radial symmetry, spiny exoskeletons. Water vascular system in tube feet for feeding, gas exchange, movement. Sea stars.<br />
+	    <b>Phylum Chordata</b> (Chordates) – hollow notochord, dorsal nerve cord and a tail. Most are vertebrates.<br />
+			<i>Class Chondrichthyes</i> (Cartilaginous Fishes) – have flexible skeletons made of cartilage, developed jaws and fins, breathe through gills. Some lay eggs and some bear live.<br />
+			<i>Class Osteichthes</i> (Bony Fishes) – bone skeleton fishes, breathe through gills and lay large number of eggs lack shells.<br />
+			<i>Class Amphibia</i> (Amphibians) – adapted to both land and water, eggs lack shells, needed to be laid in water, they have aquatic larval state, breathe through lungs or skin.<br />
+			<i>Class Reptilia</i> (Reptiles) – thick, scaly skin resist to water loss, live in dry areas, some in water. Eggs have shells or bear live. Breathe through lungs.<br />
+			<i>Class Aves</i> (Birds) – tetrapods with forelimbs as swings, breathe through lungs and lay eggs with shells.<br />
+			<i>Class Mammalia</i> (Mammals) – have hair, breathe through lungs, bear live.<br />
+<br />
+<i><b>To be continued...~</b></i></div>
+				  </td></tr>
+				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  </td></tr>
+						<tr bgcolor="#f2f2f2">
+				  <td width="25%" align=center valign=top bgcolor="#f2f2f2" style="padding: 10px 0;">
+				  <a href="../users/profiles.php?user=ted_chou12">
+				  <b>Ted (ted_chou12)</a></b><br />
+				  <b>Forum Regular</b><br /><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><img src="images/star.gif"><br />
+				  <img src="../users/images/offline.png"> Offline<br /><img src="../users/images/photo/photo9.jpg" height="92" width="69"><br />Posts: 108<br />
+				  <b>Let us promote NetFriending Online!</b><br /></td>
+				  <td width="100%" valign=top height="200" bgcolor="#f2f2f2">
+				  <table width="100%" height="100%" bgcolor="#f2f2f2">
+				  <tr valign=top height="10%"><td valign=top align=left width="95%">
+				  <img src="../users/images/xx.gif"> 
+				  <b>RE: SAT Bio-revisions~~~</b><br />Dec 18, 2008 07:32 AM</td>
+				  <td align=right valign=center width="100%"></td></tr>
+				  <tr valign=top height="60%"><td colspan=2><hr />
+				  <div id="views"><u><b>Different Organ Systems:</b></u><br />
+<b><u>Organ Systems:</u></b><br />
+* Nervous system detects and interprets information from the surrounding environment; it controls most of the body functions.<br />
+* Endocrine system controls body function through the use of chemical messengers called hormones.<br />
+* Circulatory system carries materials and nutrition to cells around the body.<br />
+* Lymphatic system recaptures and filters fluids from the tissues and returns them to blood stream.<br />
+* Respiratory system takes oxygen into the body and releases carbon dioxide.<br />
+* Digestive system takes food into the body and breaks it down to absorb nutrients.<br />
+* Urinary system removes wastes from the blood.<br />
+* Skeletal system supports and protects the body.<br />
+* Muscular system allows the body to move.<br />
+* Skin protects the body and help to regulate body temperature.<br />
+* Reproductive system produces cells necessary to produce offspring.<br />
+<b>Nervous System:</b><br />
+* Nerve cells are also called neurons, which are highly specialized to carry electrical signals.<br />
+* Cell body (soma) has all the organelles in a typical cell. Neurons have process called dendrites and axons.<br />
+<img src="http://farm4.static.flickr.com/3085/3117063082_9dae50d843.jpg" alt="" style="border:0px; max-width: 240px; width: expression(this.width > 240 ? 240: true); max-height: 600px; height: expression(this.height > 600 ? 600: true);" /><br />
+* Neurons receive impulses from the dendrites and send them off through the axon. Dendrite  Cell body  Axon.<br />
+* When neurons are at rest, they are called polarized, because inside the neuron is negatively charged compared to outside. The voltage difference is called resting membrane potential.<br />
+* Neurons use sodium-potassium pumps (Na+/K+ ATPase) to pump sodium out the cell, and potassium in the cell, however, since potassium concentration is high in the cell, potassium leaks out from the leak channels (potassium channels), positive ions left the cell, therefore, and negative inside the cell. (-70mV)<br />
+* Polarized – the state when the membrane at rest, negative inside and positive outside.<br />
+* Depolarization – the membrane potential moves in the positive direction.<br />
+* Repolarization – the membrane potential returns to its resting value.<br />
+* When cell potential reaches (depolarizing slightly) -50mV from -70mV, the sodium voltage-gated channels open and Na+ start rushing in (depolarizing), increasing the cell potential to 35mV, potassium voltage-gated channels opens and K+ rushes out (repolarizing), cell potential reaches -90mV, Na+/K+ ATPase will restore the potential back to -70mV, this whole process is called action potential. (moving down to the axon from cell body)<br />
+* Axon is wrapped with cells called Schwann cells, called myelin sheath. Spaces between the Schwann cells are called nodes of Ranvier. The myelin sheath speeds up the impulse traveling down the axon, called salutatory conduction.<br />
+* There is a time interval between the two action potentials, this is called refractory period, ensuring that the impulse will only travel in one direction (down the axon).<br />
+* The junction between the neuron and another neuron, or between another organ is called a synapse. Most synapses are chemical, called neurotransmitter, Eg acetylcholine (ACh).<br />
+* There is a gap between the axon and dendrites of two neurons, called synaptic cleft. The end of the axon vesicles contain chemical neurotransmitter, dendrites (receptors) of another neuron can bind to the neurotransmitter.<br />
+* When action potential reaches the terminal of the axon, the neurotransmitter is released into the synaptic cleft by exocytosis, and diffuses across to bind to the receptors of the dendrites. When neurotransmitter binds to the receptors, sodium voltage-gated channel of the neuron opens, causing sodium ions to rush in (depolarizing).<br />
+* Not all neurotransmitters cause a cell to stimulate (depolarize), some cause a cell to be inhibited (away from threshold). If there are more stimulatory inputs than inhibitory inputs, neuron will fire an action potential, if the opposite, neuron will not fire it. (summation)<br />
+* Brain and spinal cord are made of neurons, called the central nervous system (CNS), neurons that are not part of the CNS are all peripheral nervous system (PNS).<br />
+* PNS:<br />
+	  Sensory neurons – neurons that send information to the CNS from the sensory organs.<br />
+	  Motor neurons – neurons that send information from the CNS to the organs.<br />
+* CNS:<br />
+	  Inter neurons – neurons that are in the CNS, connecting sensory and motor neurons.<br />
+* The signals send by the neurons differ in strength, stronger sensation require neurons to send frequent action potentials.<br />
+* CNS Subdivisions, spinal cord is separate, all the others are part of the brain:<br />
+	  Spinal cord – involved in primitive reflex actions.<br />
+	  Cerebrum – conscious mind, volutary actions occur, eg. movement, speech, problem solving.<br />
+	  Cerebellum – coordinates muscle movements and balance, movements.<br />
+	  Medulla – involuntary actions, breathing, blood pressure regulation.<br />
+	  Hypothalamus – maintains body homeostasis.<br />
+* PNS Subdivisions, somatic nervous system is a voluntary system, autonomic nervous system is involuntary system:<br />
+	  Skeleton muscles – the only voluntary system, uses Ach as a neurotransmitter.<br />
+	  Sympathetic division – active when body is in action, help body for stress situations. Eg. increase heart beat, blood pressure, breath rate...etc, neurotransmitter used is norepinephrine.<br />
+	  Parasympathetic division – active when body is at rest, decreases heart beat, blood pressure, breath rate…etc, neurotransmitter used is acetylcholine (ACh).<br />
+* Nervous system is for other organisms of the vertebrate group, eg. fish, amphibians, and birds. Nervous system in arthropods, annelids, is made up of ventral nerve cord and brain.<br />
+<b>Endocrine System:</b><br />
+* Endocrine system controls the body through the use of the hormones, chemicals secreted by special glands into the blood stream. Hormones are specific, only organs with receptors will be affected by the hormone.<br />
+* Two types of hormones: peptide hormones (amino-based), steroid hormones (cholesterol-based):<br />
+	  Peptide hormones – protein molecules, cannot cross the cell membrane, must bind to the receptors outside the cells, turn enzymes on and off, cause an affect rapidly, eg. insulin, prolactin, glucagons.<br />
+	  Steroid hormones – lipids can easily cross the cell membrane, bind to the receptors inside the cells, cause an affect slowly, binding to DNA changing genes that gets transcribed, eg. aldosterone, estrogen, testosterone.<br />
+* Pituitary gland controls many other endocrine glands in the body, it is controlled by hypothalamus of the brain, composed of two lobes: anterior lobe and posterior lobe:<br />
+	  Anterior pituitary gland:<br />
+	   Growth hormone (GH) – hormone that targets tissues and organs causing them to grow, important in childhood. In adults, it stimulates older cells to be replaced by newer ones (cell-turnover rate).<br />
+	   Thyroid stimulating hormone (TSH) – hormone that stimulates the thyroid gland to secrete thyroid hormones.<br />
+	   Adrenocorticotropic hormone (ACTH) – hormone that stimulates the adrenal gland to secrete hormones.<br />
+	   Follicle stimulating hormone (FSH) – hormone that target the reproductive organs (male &amp; female) to stimulate the production of eggs (ova) or sperms.<br />
+ 	   Luteinizing hormone (LH) – targets female ovaries causing development of corpus luteum, and stimulates male testes to make testosterone.<br />
+	   Prolactin – hormone is released only after childbirth, stimulates mammary glands to produce breast milk.<br />
+	   Posterior pituitary gland:<br />
+	   Oxytocin – hormone that causes the uterus to contract during childbirth, and stimulates mammary gland to produce breast milk.<br />
+	   Antidiuretic hormone (ADH) – hormone that causes kidneys to retain water, also called vasopressin.<br />
+* Thyroid gland secretes two hormones, thyroid hormone (thyroxine) and calcitonin. Thyroxine increases the metabolism of cells in the body, it contains iodine, if body is short of iodine (hypothyroidism: person have low metabolic rate), opp. (hyperthyroidism: overproduction of thyroxine, high metabolic rate). Calcitonin causes the removal of calcium from blood to build new bone cells. Decreases the calcium levels in blood.<br />
+* Parathyroid gland, very small four of them in the body, which secretes parathyroid hormone (parathormone), causes bones to dissolve and release calcium to blood, increase calcium levels in blood, calcium used for other purposes. (opposite of calcitonin)<br />
+* Adrenal gland, two of these on top of the kidneys, composed of two parts: adrenal medulla, and adrenal cortex.<br />
+* Adrenal medulla secretes two hormones, epinephrine (adrenaline) and norepinephrine (noradrenaline). Two chemicals are similar in structure and have the same receptors and the same effects. Both chemicals increase and prolong the effects of the sympathetic nervous system.<br />
+* Adrenal cortex secretes many hormones, glucocorticoids, mineralocorticoids, and sex steroids. Glucocorticoids targets the liver to produce glucose from fats and proteins and release them into blood (gluconeogenesis), or divert the use of glucose to fats, to increase the glucose levels, (eg. Cortisol). Mineralocorticoid is aldosterone, causing the kidneys to retain sodium, remove sodium from urine and return them to the body, water comes with sodium, thus retaining both water and sodium, increasing blood volume and pressure.<br />
+* Pancreas secretes insulin and glucagons, both are produced by cells in pancreas called Islets of Langerhans (islet cells). Insulin is secreted when blood glucose levels are high, allowing cells to take glucose out of the blood for cellular respiration, insulin also stimulates liver to store glucose. Glycogon is released when blood glucose is low, targeting the liver, causing liver to release glucose to blood (glycogenolysis).<br />
+* Gonads are sex organs that produce gametes, testis for males, ovary for females. Gonads also secrete hormones. Testosterone (androgens) for males, responsible for male secondary characteristics during puberty. Estrogens and progesterone are secreted from female gonads, eg. estradiol (estrogen), responsible for developing female secondary characteristics during puberty.<br />
+<b>Circulatory Systems:</b><br />
+* Transports materials around the body, eg. Oxygen, carbon dioxide, glucose, hormones, wastes, lipids. Consists of heart and blood vessels.<br />
+* Blood are carried around by vessels is closed circulatory system, insects have open circulatory system (blood is hemolymph).<br />
+* Fluid of blood is called plasma, and cells in it are red blood cells, white blood cells, and platelets. Plasma is water and lots of dissolved material, eg. Glucose. Most cells are red blood cells, filled with hemoglobin, and no nucleus.<br />
+* Hemoglobin binds to oxygen, therefore, red blood cells carry oxygen around the body. Hemoglobin is made of irons, short of iron, anemia.<br />
+* White blood cells fight off diseases, most are phagocytes, ingesting pathogens, lymphocytes consist of two groups:<br />
+	 B-cells – produce antibodies, that bind to foreign substances marking for future destruction, different types of B-cells specific for different substances.<br />
+	 T-cells – are subdivided into two groups:<br />
+	 Helper T-cells – help other B-cells and T-cells to divide and proliferate.<br />
+	 Killer T-cells – kills own cells that are infected with viruses or parasites.<br />
+* Platelets are necessary for blood clotting, which converts soluble protein fibrinogen into insoluble fibrin. However, this process requires calcium, vitamin K and some other chemicals.<br />
+* All red blood cells, white blood cells, platelets are made in the bone marrow.<br />
+* Blood type is determined by the membrane proteins on the surface of red blood cell. Gene responsible for ABO blood typing system is the I gene. IA, for allele A, IB, for allele B, i for recessive allele.<br />
+* If the body does not recognize the proteins on the new blood cells, the new blood cells will clump up (agglutination). AB can recognize both A and B proteins, therefore, able to receive blood from all other blood types. A can recognize only A protein, therefore, able to receive blood from A or O. B can receive blood from B or O. O doesn’t have any proteins, therefore can only receive from O.<br />
+* Arteries carry blood away from the heart, and the pressure inside the arteries is high, oxygen-rich. Have muscular walls.<br />
+* Capillaries are the smallest blood vessels in the body, is the site of exchange between blood and tissue. Oxygen and nutrients leave blood and enter tissues. Carbon dioxide and waste materials leave the tissues into the blood, blood time is slow in capillaries. Arterioles branch into lots of capillaries.<br />
+* Veins accept blood from the capillaries, and carry it back to the heart, pressure is low, however, there are skeletal muscles that contract to push the blood flow, and contain valves to ensure the flow in one direction. They carry oxygen-poor blood.<br />
+* Capillaries are wider, therefore, blood flows slower, and pressure is lower. On the artery side of the capillary, the pressure is higher, therefore, fluid goes out into the tissues. On the vein side of the capillary, the pressure is lower, therefore, fluid goes into the capillary, some may remain in the tissue, therefore a net loss of fluid.<br />
+* Lymphatic system captures the fluid from the tissues and returns them back to the veins, filtering the fluids through a structure called lymph nodes.<br />
+* Lymph nodes are concentrated areas of white blood cells, white blood cells in the lymphatic system filters the blood fluid. Low pressure, no muscle walls, and valves to keep one direction. Nearby skeletal muscles contract to push the fluid (lymph).<br />
+* Heart consists of two smaller, weaker chambers on the top called atria, and two larger, stronger chambers called ventricles.<br />
+* There are two separate circuits run simultaneously, right side of the heart is pulmonary circuit, and left side of the heart is the systemic circuit.<br />
+* Oxygen poor blood enters right atrium through anterior vena cava, and posterior vena cava, then from right atrium, to right ventricle into the pulmonary artery, then to the lungs. Blood drops CO2 and picks up O2 at the lungs, then return to the heart through pulmonary veins entering through the left atrium, to the left ventricle and out to the body through aorta.<br />
+* There are valves in the heart to keep the flow of direction, valves between the two atriums and ventricles are atrioventricular valves, valves between the ventricles and the arteries are semilunar valves.<br />
+* Fish have two chambered heart and blood moves in single circuit, pumped at the gills where it receives oxygen. Amphibians and reptiles have three chambered hearts, two circuits of blood flow.<br />
+* Crocodiles, alligators and birds have four chambered hearts with two circuits of blood flow.<br />
+* Arthropods have open circulatory system, blood pumped to the organs from the heart, they have gills or tracheae.<br />
+<b>Respiratory System:</b><br />
+* The process of moving air in and out the lungs is called ventilation, exchange carbon dioxide for oxygen is called gas exchange. Respiratory system can control the pH of the body.<br />
+* Gas exchange does not take place in the conduction zone, which includes throat (phaynx), voicebox (larynx) and windpipe (trachea). Trachea branches to two tubes leading to right and left lung (right/left bronchi), bronchi branch into bronchioles.<br />
+* Aveoli is where the gas exchange takes place, walls of aveoli is thin allowing CO2 and O2 to diffuse through (passive diffusion)<br />
+* pH can be regulated by respiratory system: CO2 + H2O &lt;-&gt; H2CO3 &lt;-&gt; H+ + HCO3-. Undissolvable Carbon dioxide is converted to carbonic acid and bicarbonate.<br />
+* Breathing faster exchanges the CO2 quickly therefore, increases the pH. This is controlled by the medulla oblongata.<br />
+* Diaphragm helps to contract or expand the chest, when contracts, increases the size of chest cavity, and air rushes in to fill the lungs (inspiration). Relaxing the diaphragm reduces the size of the chest cavity, pushes the air out of the system thus expiration.<br />
+<b>Digestive System:</b><br />
+* The digestive system breaks down food into glucose, amino acids and fats, and can be divided to two groups:<br />
+	  Alimentary canal – long, muscular tube begins with the mouth end at the anus. Food enters through mouth and then the esophagus, which contracts and push food down to the stomach, the contractions are called peristalsis. Then the small intestine, large intestine (colon), lastly to the rectum, feces us eliminated through the anus.<br />
+	  Accessory organs – organs that are important for digestion however, not part of the path. Including teeth, tongue, salivary glands, liver, gallbladder, and pancreas. Exocrine secretion is released into the body cavities or surface, eg. digestive enzymes, saliva, mucus, tears, sweat.<br />
+* Ingestion occurs in the mouth, which is the intake of food into the system, teeth and tongue help to form food to bolus, salivary gland secrete saliva help to moisten the food and clump together. Saliva also contains digestive enzyme called amylase which breaks long carbohydrate molecules (starch).<br />
+* Stomach is acidic and has gastric glands located in the walls to secrete HCl, that helps to kill germs and break up food. Pepsin is released in the form of pepsinogen activated by an acid to digest proteins. The stomach wall is covered in thick mucus to prevent damage from low pH, if insufficient mucus, acid and enzymes can damage the stomach walls to form ulcers. The form that the food leaves the stomach is called chyme.<br />
+* When chyme reaches small intestine, bile is produced by the liver and stored in the gallbladder, bile helps to break down (emulsify) fats in the chyme.<br />
+* Liver also stores glycogen, produces glucose, metabolizes fats, produces blood proteins, stores vitamins and detoxifies the blood.<br />
+* Pancreas secrets amylase for carbohydrates, lipases for fats, and proteases for proteins. Since very acidic from the stomach, secretes bicarbonate base to neutralize.<br />
+* There are lots of surface areas for small intestine providing surface for absorption. Nutrients absorbed into the blood and transported to liver for processing, the capillaries from the intestines merge to form portal veins and divided into capillaries again in liver. Hepatic portal system is delivery of nutrients from intestines to the liver.<br />
+* Large intestine reabsorbs water from chyme, and the solid is referred to as feces, indigestible waste. Ecoli help to prevent pathogens and supply the vitamin K needed by the body.<br />
+* Fish, amphibians, turtles and snakes, have complete digestive system, crocodiles, alligators and birds have crop in addiotion to store food.<br />
+* Vitamins generally function as coenzymes:<br />
+	  Vitamin A – needed for retinal, sight, lack may cause night blindness.<br />
+	  Vitamin B – many forms, B1, B2, required for cellular respiration and DNA replication, lack may cause skin disorders, mental confusion, anemia.<br />
+	  Vitamin C – needed to make collagen, lack may cause unhealing of wounds.<br />
+	  Vitamin D – needed for calcium absorption, lack may cause weak bones, rickets.<br />
+    Vitamin E – needed to protect cell membranes from damage, lack may cause anemia.<br />
+	  Vitamin K – needed for blood clotting, lack may cause bruise to bleed.<br />
+	  Iron – needed for hemoglobin, lack may cause anemia.<br />
+	  Calcium – needed for bones and teeth, lack may cause rickets, bone weakening.<br />
+	  Iodine – needed to make thryoxine, thyroid hormone, lack may cause decrease in metabolism.<br />
+<b>Urinary System:</b><br />
+* Waste products are filtered from the blood by kidneys and eliminated as urine. Major waste products are found as urea (broken down amino acids), uric acid (broken down nucleic acids) and creatinine (waste product from muscle metabolism).<br />
+* The functional unit of kidney is nephron, which contain parts like afferent arteriole, efferent arteriole, glomerulus, vasa recta, loop of Henle, Bowman’s capsule, Proximal convoluted tuble, Distal convoluted tubule, collectin duct,<br />
+* The blood enters the kidney through renal arteries at the glomerulus, the plasma that enters Bowman’s capsule is called filtrate, glucose, amino acids and water are returned to the blood (reabsorption), the waste remains in the tubules, when done the filtrate is called urine. Stored at bladder and excreted at urethra.<br />
+* Secretion is the process of taking out unwanted materials from the blood to the nephron tubule.<br />
+* Proximal convoluted tubule is where most reabsorption and secretion take place.<br />
+* Loop of Henle is where lots of water is reabsorbed, salt is transported out of the filtrate into the kidney, concentration of salt will be higher in the medulla than the cortex, help to absorb water.<br />
+* Distal convoluted tubule is where reabsorption and secretion both occur, hormone aldosterone increases the amount of sodium reabsorbed, thus retaining water as well.<br />
+* Collecting duct collects filtrate from the nephrons and also reabsorption of water, ADH (antidiuretic hormone) causes walls to become permeable to water, without it, water cannot leave the tube. ADH level is high when body is dehydrated, and urine will be more concentrated.<br />
+* Kidney regulates blood pressure by releasing renin when blood pressure is low, renin causes blood pressure to go up through chemical called angiotensin II, which causes aldosterone and increases reabsorption of sodium, water thus blood volume increase, and so the blood pressure.<br />
+* Fish excrete nitrogen wastes in form of ammonia, reptiles and birds excrete waste in form of uric acid. Worms use metanephridia, and insects use malphigian tubules to function similar to kidneys.<br />
+<b>Skeletal System:</b><br />
+* All vertebrates have endoskeleton (skeleton inside the body), eg. fish, amphibian, mammal, reptile, bird. Skeleton outside the body, usually made of chitin are called exoskeleton, eg. insects.<br />
+* Bone is calcium-phosphate, support the body, protect soft organs, produce blood cells, stor minerals.<br />
+* Cartilage is more flexible than bone, found at the joints, act as shock absorber.<br />
+* Bones are held to other bones by ligaments, the more ligaments there is, the stronger the joint is.<br />
+Muscular System:<br />
+* Muscular system help to support and move the body, three types of muscles:<br />
+	  Cardiac muscle – found at the heart, involuntary muscles.<br />
+	  Smooth muscle – found in the walls of hollow organs, involuntary muscles.<br />
+	  Skeletal muscle – attached to the bones and moves your body around, voluntary muscles, very long and has many nuclei (multinucleate).<br />
+* Muscle tissues are made of two types of proteins in general: actin and myosin. Actin forms long thin chains, myosin bundle together to form thick fibers. Both are arranged in structures called sarcomeres in a muscle cell.<br />
+* Structure: actin and myosin  sarcomere  myofibril  muscle cell  fascicle  whole muscle.<br />
+* Actin and myosin do not change in length when muscle contracts, instead, sarcomeres get shorter. Since filaments slide over one another, is called sliding filament theory. Connected to the bones by tendons, contraction of muscle requires calcium.<br />
+<b>Skin System:</b><br />
+* There are three layers of tissue for skin: epidermis, dermis, and hypodermis:<br />
+	  Epidermis – the most outer layer and is dead.<br />
+	  Dermis – thick layer of connective tissue contains blood vessels, nerves hair follicles, and glands.<br />
+	  Hypodermis – the deep layer of fat helps to protect and insulate the body.<br />
+* Skin protects the body from abrasion (friction), heat loss, water loss, infection, and UV radiation.<br />
+* To decrease the body temperature by allowing blood to go closer to surface, more heat escaped, or sweat glands secreting sweat.<br />
+* To increase the body temperature by keep the blood away from the surface, shivering, causing friction to induce heat.<br />
+<b>Reproductive System:</b><br />
+* Testis are found outside the body in scrotum, keeping it cooler than the normal body temperature necessary for sperm production, sperms are produced in the seminiferous tubules of the testis, and vas deferens connects with the urethra to carry the sperm out the body, several glands secrete semen caries and provides nutrients for sperm.<br />
+* In female system, ovaries produce the gametes, and uterus sustains a pregnancy.<br />
+* The uterine cycle has three phases:<br />
+	  Menstruation – the shedding of the old uterine lining, endometrium, referred to as a period.<br />
+	  Proliferative phase – new uterine lining is buil, endometrium grows inside the uterus.<br />
+	  Secretory phase – new uterine lining is maintained and enhanced for possible pregnancy, new blood vessels are added and glucose and glycogen are secreted into the lining to make it rich and nourishing.<br />
+* The ovarian cycle also has three phases:<br />
+	  Follicular phase – development of follicle in the ovary, surrounding cells divide and grow, estrogen level rises.<br />
+ 	  Ovulation – release of oocyte from the follicle into the uterine tube, high level of LH.<br />
+ 	  Luteal phase – some follicle stays in the ovary and matures into corpus luteum secreting progesterone affecting the uterus.<br />
+* If the ovum gets fertilized and implants, the resulting embryo secretes a hormone called human chorinoic gonadotropin (hCG) prolonged the life of corpus luteum which continuously secretes more progesterone and thus uterine lining never sheds off.<br />
+* Gametes are formed, during the stages of spermatogenesis (male) and oogenesis (female).<br />
+* Ovum is fertilized, this is when ovum travels down the uterine tube and sperm released during copulation meet with the ovum in the uterine tube, fertilization occurs, acrosome (digestive enzyme) help sperm to penetrate barriers of the ovum.<br />
+* Zygote is formed when sperm and ovum nuclei fused, is a diploid cell.<br />
+* Cleavage is when zygote starts dividing, and becomes a morula.<br />
+* When the morula reaches the uterus, it implants on the lining of the uterus, forming blastocyst. It has inner cell mass on one side.<br />
+* Blastocyst implanted and reaches an embryonic stage, embryonic stage can be divided into two stages: gastrulation and neurulation. Gastrulation is the first half of the embryonic stage:<br />
+	  Endoderm – inner cell mass divides into three layers, endoderm, mesoderm, ectoderm. Responsible for producing different structures. Endoderm produces respiratory system, digestive system, reproductive system, and the urinary system.<br />
+	  Mesoderm – forms bones, blood, muscles, heart.<br />
+	  Ectoderm – forms external structures.<br />
+* Neurulation is the second half of the embryonic stage, nervous system is formed, this period is called organogenesis.<br />
+* Fetal is the last stage of the embryonic, grows larger and matures.<br />
+* Fish and amphibians have external fertilization, lots of eggs are reproduced, however not much of care. Most reptiles have internal fertilization and lay eggs that are protected by shell. Crocodiles, alligators and birds have internal fertilization and lay eggs with hard shells.<br />
+* There are four extraembryonic membranes: yolk, amnion, allantois, and chorion. Yolk surround the egg (ovum), food for the embryo. Amnion is membrane that surrounds the developing embryo and filled with clear watery fluid, act as a shock absorber to protect the embryo. Allantois connects embryo to the placenta, can form disposal site for solid and wastes. Chorion is the outermost membrane, enclosing all the other membranes, forms the embryo’s part of the placenta.<br />
+</div>
+				  </td></tr>
+				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  </td></tr>
+</table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
+		</div>
+		
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

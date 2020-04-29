@@ -1,0 +1,82 @@
+/***********************************************
+* DD Tab Menu script- ?Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+.ddcolortabs {
+padding: 0;
+width: 100%;
+background: transparent;
+voice-family: "\"}\"";
+voice-family: inherit;
+[width: 100%;]
+}
+
+div:nth-of-type(2) #tabmenu {
+width: 105%;
+}
+
+.ddcolortabs ul{
+font: bold 11px Arial, Verdana, sans-serif;
+margin: 0;
+padding: 0;
+list-style: none;
+}
+
+.ddcolortabs li{
+display: inline;
+margin: 0 4px 0 0;
+padding: 0;
+}
+
+.ddcolortabs a{
+float: left;
+background: #cccccc url(tabs_left.gif) no-repeat left top;
+margin: 8px 6px 0 0;
+padding: 0 0 1px 2px;
+text-decoration: none;
+letter-spacing: 1px;
+}
+
+.ddcolortabs span{/*NORMAL*/
+color: #333333;
+float: none;
+display: block;
+background: transparent url(tabs_right.gif) no-repeat right top;
+padding: 6px 16px 3px 16px; /*SPACING: top right bottom left*/
+}
+
+
+div.ddcolortabs:nth-of-type(n) span {
+padding: 6px 14px 3px 12px; /*SPACING: top right bottom left*/
+}
+
+.ddcolortabs a:hover span{/*CURSOR ON TOP*/
+color: #333333;
+background-color: #f2f2f2;
+}
+
+.ddcolortabs a.current, #ddcolortabs a.current span{/*SELECTED TAB*/
+background-color: #f2f2f2;
+}
+
+.tabcontainer{
+margin-bottom: 20px;
+padding: 0px 0px 0px 0px;
+clear: left;
+width: 470px;
+height: 240px;
+}
+
+div.tabcontent:nth-of-type(n) {
+height: 250px;
+}
+
+.tabcontent{
+padding: 8px 0px 0px 15px;
+display: none;
+background-color: #f2f2f2;
+width: 470px;
+height: 240px;
+}

@@ -1,0 +1,117 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Privacy Policy</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >							
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="main">
+			
+			<a name="Privacy Policy"></a>
+<h1>Privacy Policy</h1>
+<p>We take your privacy very seriously, and do not allow any chances of your personal information to be spread publicly. Therefore, we would like to use this document to prove what has being done to lock your personal information.</p>
+<ol>
+	<li><span>The information that you entered in the register fields are completely safe from any foreign access out side the server. These information will only appear under your profile in your NetFriending account. Although it can be seen by other members of NetFriending, however, sign up is required for them to view it.</span></li>
+	<li><span>Email addresses will not be able to be known by anyone, unless other members in the community already knew your existing email accounts. They will be able to search for you in the community by your email address. Other than that, no members that are in the community will know it through being involved in the community. We will not take advantage of these contacts in any way.</span></li>
+	<li><span>All passwords are stored in the form after being encrypted, therefore, they will be 100% safe and secure. Even if you check the remember me field at the login page, your password will still be stored in an encrypted form under your cookies.</span></li>
+	<li><span>If you use the "Forgot my Password" page, the password being sent to you is a totally new password and absolute random one. Therefore, your old password will be overwritten by your new password.</span></li>
+	<li><span>Pages in guestbook and blog are completely hidden from search engines and other forms of public results, unless they are set to public by you. However, information entered in the forum will be crawled by the search engines and may appear under public searches.</span></li>
+</ol>
+<p>If you are still unsure or unclear about any part of our website that is related to your personal privacy, please email our support, and we would be glad to help you.</p>		
+		</div>	
+			
+		<div id="rightbar">
+					<h1><span class="green">Advertisements</span></h1>
+			<p><!-- Begin BidVertiser code -->
+			<script type="text/javascript" src="http://bdv.bidvertiser.com/BidVertiser.dbm?pid=54358&bid=423806"></script>
+			<noscript><a href="http://www.bidvertiser.com">marketing</a></noscript>
+			<!-- End BidVertiser code --></p>		</div>			
+			
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2010 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>

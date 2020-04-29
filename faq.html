@@ -1,0 +1,28 @@
+<a name="FAQ"></a>
+<h1>FAQ</h1>
+<p>This is where frequently asked questions will soon be pasted on, there are currently very little questions on this board, please help us by asking us anything that you do not understand or unsure of about the various NetFriending functions, and email/message us through the support section:</p>
+<ol>
+<?php //Pre-configuration:
+//Require Message:
+$noty_subject = "faqlist";
+include("notification.php");
+
+//Query the database to get total entries:
+$lines = file("admin/faq.txt", FILE_IGNORE_NEW_LINES);
+$totalrows = count($lines);
+//Special Cases:
+if ($totalrows == 0) {
+echo "<p align=left>$db_noentries</p>";}
+elseif ($lines == false) {
+echo "<p align=left>$db_error</p>";}
+else {
+foreach($lines as $line) {
+$array = explode(";seDp#", $line); 
+$entrycontent = $array[3];
+$textrcondition = 0;
+include("textreplacer.php");
+echo "<li><span><b>{$array[1]}</b><br />
+$entrycontent<br /><br /></span></li>\r\n";}}?>
+</ol>
+<p>Here are only the very few questions that we can think of, to help us increase the chances of answering more questions from our users, please send an email of unanswered questions either by the message box of the support page or through this email <a href="mailto:support@netfriending.co.cc">support@netfriending.co.cc</a>.</p>
+<p>Thank you, NF Support Group.</p>

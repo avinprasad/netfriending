@@ -1,0 +1,25 @@
+-75600|International Date Line (West) GMT-12|
+-72000|Midway Island, Samoa GMT-11|
+-68400|Hawaii, Honolulu GMT-10|
+-64800|Alaska GMT-9|
+-61200|Pacific Standard Time, US, Canada GMT-8|
+-54000|British Columbia N.E., Santa Fe, Mountain Time GMT-7|
+-50400|Central America, Chicago, Guatamala, Mexico City GMT-6|
+-46800|US, Canada, Bogota, Boston, New York GMT-5|
+-43200|Canada, Santiago, Atlantic Standard Time GMT-4|
+-39600|Brazilia, Buenos Aires, Georgetown, Greenland GMT-3|
+-36000|Mid-Atlantic GMT-2|
+-32400|Azores, Cape Verde Is., Western Africa Time GMT-1|
+-28800|London, Iceland, Ireland, Morocco, Portugal GMT|
+-25200|Amsterdam, Berlin, Bern, Madrid, Paris, Rome, GMT+1|
+-21600|Athens, Cairo, Cape Town, Finland, Greece, Israel GMT+2|
+-18000|Ankara, Aden, Baghdad, Beruit, Kuwait, Moscow GMT+3|
+-14400|Abu Dhabi, Baku, Kabul, Tehran, Tbilisi, Volgograd GMT+4|
+-10800|Calcutta, Colombo, Islamabad, Madras, New Dehli GMT+5|
+-7200|Almaty, Dhakar, Kathmandu, Colombo, Sri Lanka GMT+6|
+-3600|Bangkok, Hanoi, Jakarta, Phnom Penh, Australia GMT+7|
+0|Taipei, Beijing, Hong Kong, Singapore, GMT+8|
++3600|Seoul, Tokyo, Central Australia GMT+9|
++7200|Brisbane, Canberra, Guam, Melbourne, Sydney, GMT+10|
++10800|Magadan, New Caledonia, Solomon Is. GMT+11|
++14400|Auckland, Fiji, Kamchatka, Marshall, Wellington, GMT+12|

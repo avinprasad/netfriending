@@ -1,0 +1,8 @@
+<?php $error = "500";
+$errorpage = "<h3>Error Pages - Internal Server Error</h3>
+			<p><strong>Sorry, the page you are trying to view has internal error, which means that it needs to be fixed, therefore, contacting a administrator is a must. Please feel free to contact us through the support section</strong></p>
+			<p><strong>Please click <a href=\"javascript:history.go(-1);\">here</a> to go back to the previous page, or <a href=\"javascript:location.reload(true);\">here</a> to refresh and see if the page comes back up again.</strong></p>";
+include("errorpages.php");?>
+<!-- 
+                         
+--> 

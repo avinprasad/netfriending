@@ -1,0 +1,5 @@
+<?php $error = "403";
+$errorpage = "<h3>Error Pages - Forbidden</h3>
+			<p><strong>Sorry, the page you are trying to look for is forbidden, therefore, you and anyone else are not allowed to enter, that is even giving valid login information would still restrict you from entering. Please contact the administrator if this is a page that you should be seeing.</strong></p>
+			<p><strong>Please click <a href=\"javascript:history.go(-1);\">here</a> to go back to the previous page, because you will not be able to enter this page at all.</strong></p>";
+include("errorpages.php");?>

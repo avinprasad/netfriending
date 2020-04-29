@@ -1,0 +1,249 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<meta name="Description" content="The NetFriending community consists of generally blogs, guestbooks, photos, and forums. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search." />
+<meta name="Keywords" content="friends, finder, searcher, web, community, online, free, connections" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Distribution" content="Global" />
+<meta name="Robots" content="index,follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>NetFriending Forum</title>
+</head>
+
+<body>
+<!-- wrap starts here -->
+<div id="wrap">
+
+	<!--header -->
+	<div id="header">				
+		
+				<h1 id="logo">Net<span class="green">Friending</span></h1>	
+		<h2 id="slogan">Find Friends on Net!</h2>
+		
+		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+			<p><input type="text" name="search_query" class="textbox" />
+  			<input type="submit" name="search" class="button" value="Search" /></p>
+		</form>
+					
+		<!-- Menu Tabs -->
+		<ul>
+	<li>
+	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	
+	<li>
+	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+</ul>		
+	</div>	
+				
+	<!-- content-wrap starts here -->
+	<div id="content-wrap">		
+											
+	<div class="headerphoto"></div>
+		
+		<div id="sidebar" >					
+					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
+				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
+				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+			</ul>		
+			
+			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
+			<ul class="sidemenu">
+				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
+				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+			</ul>		</div>
+			
+		<div id="forum">
+			
+						<h3>
+			<a href="index.php">Forum Index</a>
+			</h3>
+									<p>
+			<table id="forumtbl">
+			<tr height="30" align=center>
+			<td colspan=4 background="../users/images/themes/0_gradient.gif">
+			<b>Start your Posts HERE!</b></td>
+			</tr>
+						<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=new"><b>Newbie!</b></a>
+			<br />You can introduce yourself here and get to know others</td>
+			<td width="15%" align=center>6 Posts<br />14 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=76">RE: hi</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ May 02, 2010 01:01 PM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=instruction"><b>Instructions!</b></a>
+			<br />You can learn more about how to use NetFriending here</td>
+			<td width="15%" align=center>3 Posts<br />0 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=32">Your Forum Posit...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Sep 23, 2007 11:31 AM</td></tr>			</table>
+			</p>
+			
+			<p>
+			<table id="forumtbl">
+			<tr height="30" align=center>
+			<td colspan=4 background="../users/images/themes/0_gradient.gif">
+			<b>Serious Stuff post HERE</b></td>
+			</tr>
+						<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=job"><b>Jobs & Careers</b></a>
+			<br />Are you looking for jobs? or someone to hire?</td>
+			<td width="15%" align=center>0 Posts<br />0 Replies</td>
+			<td width="100%" align=center>-</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=school"><b>School Life</b></a>
+			<br />Despirately needing help with homework?</td>
+			<td width="15%" align=center>21 Posts<br />11 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=74">Abstract Paintin...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Nov 25, 2009 04:30 PM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=news"><b>News & Politics</b></a>
+			<br />Discussing about the current events</td>
+			<td width="15%" align=center>3 Posts<br />0 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=71">Walt Disney &amp...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ May 12, 2009 07:38 AM</td></tr>			</table>
+			</p>
+			
+			<p>
+			<table id="forumtbl">
+			<tr height="30" align=center>
+			<td colspan=4 background="../users/images/themes/0_gradient.gif">
+			<b>Fun AND Entertainments</b></td>
+			</tr>
+						<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=comedy"><b>Comedy</b></a>
+			<br />Funny videos pictures...</td>
+			<td width="15%" align=center>3 Posts<br />1 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=42">Is yawning conta...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Oct 15, 2008 10:59 PM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=music"><b>Music</b></a>
+			<br />Musical discussions</td>
+			<td width="15%" align=center>3 Posts<br />3 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=57">Music Therapy</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Dec 05, 2008 07:50 PM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=movie"><b>Movies</b></a>
+			<br />Movie discussions</td>
+			<td width="15%" align=center>3 Posts<br />0 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=69">New York Stories...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Mar 30, 2009 03:53 AM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=game"><b>Games</b></a>
+			<br />Discuss about the new games or game machines</td>
+			<td width="15%" align=center>2 Posts<br />4 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=43">Hearts of Iron C...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Oct 18, 2008 06:41 PM</td></tr>			</table>
+			</p>
+			
+			<p>
+			<table id="forumtbl">
+			<tr height="30" align=center>
+			<td colspan=4 background="../users/images/themes/0_gradient.gif">
+			<b>Others</b></td>
+			</tr>
+						<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=tech"><b>Computer & Technology</b></a>
+			<br />New technologies</td>
+			<td width="15%" align=center>14 Posts<br />5 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=75">Features to Appe...</a><br /><b>By:</b> <a href="../users/profiles.php?user=donidereks">donidereks</a> @ Feb 02, 2010 04:22 PM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=sport"><b>Sports</b></a>
+			<br />Exercising your fingers here.</td>
+			<td width="15%" align=center>2 Posts<br />5 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=38">Olympic 2008 Bei...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Sep 29, 2008 02:04 PM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=holiday"><b>Travel & Vacations</b></a>
+			<br />Looking for someone who actually knows where you are about to go well?</td>
+			<td width="15%" align=center>3 Posts<br />1 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=46">RE: Bangkok Tour...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Dec 05, 2008 07:22 PM</td></tr>			</table>
+			</p>
+			
+			<p>
+			<table id="forumtbl">
+			<tr height="30" align=center>
+			<td colspan=4 background="../users/images/themes/0_gradient.gif">
+			<b>Only @ NetFriending</b></td>
+			</tr>
+						<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=help"><b>Help</b></a>
+			<br />Need some helps with NetFriending?</td>
+			<td width="15%" align=center>6 Posts<br />4 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=40">New Fonts and Ne...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Oct 04, 2008 06:05 PM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=support"><b>Support</b></a>
+			<br />Get some public support here</td>
+			<td width="15%" align=center>3 Posts<br />2 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=18">RE: NetFriending...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ May 27, 2007 08:40 AM</td></tr>			<tr height="50" bgcolor="#f2f2f2">
+			<td width="10%" align=center><img src="../images/logo.gif" width="30" height="30"></td>
+			<td width="50%"><a href="threads.php?cat=comment"><b>Comments & Suggestions</b></a>
+			<br />Any comments or suggestions on NetFriending will be accepted</td>
+			<td width="15%" align=center>3 Posts<br />1 Replies</td>
+			<td width="100%" align=center><b>In:</b> <a href="viewthread.php?threadid=62">Any suggestions ...</a><br /><b>By:</b> <a href="../users/profiles.php?user=ted_chou12">ted_chou12</a> @ Dec 15, 2008 10:23 PM</td></tr>			</table>
+			</p>
+			
+						<p>
+			<table id="forumtbl">
+			<tr height="30" align=center>
+			<td colspan=4 background="../users/images/themes/0_gradient.gif">
+			<b>Forum Statistical Chart</b></td>
+			</tr>
+			<tr height="70">
+			<td bgcolor="#f2f2f2" id="views2">
+			<p>Total Posts: <b>128</b>, Total Topics: <b>76</b>
+			<b><a href="forumstats.php">[More Stats]</a></b><br />
+			Last Post: <b>"<a href="viewthread.php?threadid=76">RE: hi</a>"</b>
+			(May 02, 2010 01:01 PM)<br />By: <a href="../users/profiles.php?user=ted_chou12">
+			<b>Ted (ted_chou12)</b></p>
+			</td></tr>
+			<tr height="70">
+			<td bgcolor="#f2f2f2" id="views2">
+			<p><b>1 Guests, 0 Users</b>
+			<b><a href="userslocation.php">[Currently Active Users]</a></b><br />
+			Users active in the past 10 minutes:<br />
+						<b>No Users Online!</b>			<br />
+			Most Online Today: <b>3</b>, 
+			Most Online Ever: <b>47</b> (Jun 27, 2007 02:23 AM, GMT+8)
+			</p>
+			</td></tr>
+			</table>
+			</p>
+			
+		</div>	
+		
+	<!-- content-wrap ends here -->		
+	</div>
+
+<!-- footer starts here -->	
+<div id="footer">
+	
+	<div class="footer-left">
+			<p class="align-left">			
+		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		</p>	</div>
+	
+	<div class="footer-right">
+			<p class="align-right">
+		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		</p>	</div>
+	
+</div>
+<!-- footer ends here -->
+	
+<!-- wrap ends here -->
+</div>
+
+</body>
+</html>
