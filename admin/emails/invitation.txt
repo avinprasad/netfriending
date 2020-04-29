@@ -1,7 +1,7 @@
 <html>
 <table height="88" width="555">
 <tr align=left><td align=left height="84" width="105">
-<img src="http://netfriending.co.cc/images/mail.gif" width="118" height="114" />
+<img src="http://localhost/netfriending/images/mail.gif" width="118" height="114" />
 </td><td valign=top height="84" width="442">
 <b><font face="Trebuchet MS" style="font-size: 48pt"><font color="#4284B0">Net</font><font color="#9EC630">Friending</font></font></b>
 <b><font face="Tahoma" color="#666666" style="font-size: 15pt">Find Friends on Net!</font></b></td></tr>
@@ -10,11 +10,11 @@
 <p>Hello <b>%tname%</b>,</p>
 <p>You are invited by <b>%name%</b> to join the NetFriending 
 Community, this is our website address:<br />
-<a href="http://netfriending.co.cc">NetFriending Home Page</a> <i>(If the link beside does not work, please copy and paste the url below into your browser)</i><br />
-<a href="http://netfriending.co.cc">http://netfriending.co.cc</a><br />
+<a href="http://localhost/netfriending">NetFriending Home Page</a> <i>(If the link beside does not work, please copy and paste the url below into your browser)</i><br />
+<a href="http://localhost/netfriending">http://localhost/netfriending</a><br />
 Please come and have a visit when you have time, and sign up through this page:<br />
-<a href="http://netfriending.co.cc/register.php">Member Signup</a> <i>(Again, if the link beside does not work, please copy and paste the url below into your browser)</i><br />
-<a href="http://netfriending.co.cc/register.php">http://netfriending.co.cc/register.php</a><br />
+<a href="http://localhost/netfriending/register.php">Member Signup</a> <i>(Again, if the link beside does not work, please copy and paste the url below into your browser)</i><br />
+<a href="http://localhost/netfriending/register.php">http://localhost/netfriending/register.php</a><br />
 %message%
 <p><i>If you have any questions regarding our website, please use the forum, or email us through: <a href="mailto:support@netfriending.co.cc">support@netfriending.co.cc</a></i></p>
 <p><b>Below will be a brief introduction of the NetFriending community:</b><br />

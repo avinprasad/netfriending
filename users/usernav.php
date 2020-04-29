@@ -29,48 +29,48 @@
 			<div class="menu">
 			<ul id="nav">
 				<li class="first" style="width:59px;">
-					<a href="/users/index.php">INDEX<!--[if IE 7]><!--></a><!--<![endif]-->
+					<a href="/netfriending/users/index.php">INDEX<!--[if IE 7]><!--></a><!--<![endif]-->
 					<!--[if lte IE 6]><table><tr><td><![endif]-->
 					<ul>
-						<li><a href="/users/profiles.php?user=<?php echo $username;?>">View My Profile</a></li>
-						<li><a href="/users/editprofile.php">Edit My Profile</a></li>
-						<li><a href="/users/editaccount.php">Edit My Account</a></li>
-						<li><a href="/users/editpreference.php">Edit Preferences</a></li>
+						<li><a href="/netfriending/users/profiles.php?user=<?php echo $username;?>">View My Profile</a></li>
+						<li><a href="/netfriending/users/editprofile.php">Edit My Profile</a></li>
+						<li><a href="/netfriending/users/editaccount.php">Edit My Account</a></li>
+						<li><a href="/netfriending/users/editpreference.php">Edit Preferences</a></li>
 					</ul>
 					<!--[if lte IE 6]></td></tr></table></a><![endif]-->			
 				</li>
 				<li style="width:78px;">
-					<a href="/users/blog.php?user=<?php echo $username;?>" class="drop">MY BLOG<!--[if IE 7]><!--></a><!--<![endif]-->
+					<a href="/netfriending/users/blog.php?user=<?php echo $username;?>" class="drop">MY BLOG<!--[if IE 7]><!--></a><!--<![endif]-->
 					<!--[if lte IE 6]><table><tr><td><![endif]-->
 					<ul>
-						<li><a href="/users/blogview.php">Blog-Admin</a></li>
+						<li><a href="/netfriending/users/blogview.php">Blog-Admin</a></li>
 					</ul>
 					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 				</li>
 				<li style="width:120px;">
-					<a href="/users/gb.php?user=<?php echo $username;?>" class="drop">MY GUESTBOOK<!--[if IE 7]><!--></a><!--<![endif]-->
+					<a href="/netfriending/users/gb.php?user=<?php echo $username;?>" class="drop">MY GUESTBOOK<!--[if IE 7]><!--></a><!--<![endif]-->
 					<!--[if lte IE 6]><table><tr><td><![endif]-->
 					<ul>
-						<li><a href="/users/gbview.php">Guestbook-Admin</a></li>
+						<li><a href="/netfriending/users/gbview.php">Guestbook-Admin</a></li>
 					</ul>
 					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 				</li>
 				<li style="width:85px;">
-					<a href="/users/photo.php?user=<?php echo $username;?>" class="drop">MY PHOTO<!--[if IE 7]><!--></a><!--<![endif]-->
+					<a href="/netfriending/users/photo.php?user=<?php echo $username;?>" class="drop">MY PHOTO<!--[if IE 7]><!--></a><!--<![endif]-->
 					<!--[if lte IE 6]><table><tr><td><![endif]-->
 					<ul>
-						<li><a href="/users/photoview.php">Photos-Admin</a></li>
+						<li><a href="/netfriending/users/photoview.php">Photos-Admin</a></li>
 					</ul>
 					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 				</li>
 				<li style="width:59px;">
-					<a href="/users/index.php" class="drop">EXTRA<!--[if IE 7]><!--></a><!--<![endif]-->
+					<a href="/netfriending/users/index.php" class="drop">EXTRA<!--[if IE 7]><!--></a><!--<![endif]-->
 					<!--[if lte IE 6]><table><tr><td><![endif]-->
 					<ul>
-						<li><a href="/users/friends.php">My Friends List<?php echo $newrequest1;?></a></li>
-						<li><a href="/users/pm.php">My Messages<?php echo $newpm1;?></a></li>
-						<li><a href="/users/pmsend.php">Send Messages</a></li>
-						<li><a href="/users/search.php">Search Member</a></li>
+						<li><a href="/netfriending/users/friends.php">My Friends List<?php echo $newrequest1;?></a></li>
+						<li><a href="/netfriending/users/pm.php">My Messages<?php echo $newpm1;?></a></li>
+						<li><a href="/netfriending/users/pmsend.php">Send Messages</a></li>
+						<li><a href="/netfriending/users/search.php">Search Member</a></li>
 					</ul>
 					<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 				</li>
@@ -90,7 +90,7 @@
 			<tr class="sub_nav"><td nowrap="nowrap" align=left width="80%">
 			WELCOME! <?php echo $displayname;?> (<?php echo $username;?>)
 			<td nowrap="nowrap" align=right width="100%">
-			<a href = "/users/login.php?do=logout">LOGOUT</a>
+			<a href = "/netfriending/users/login.php?do=logout">LOGOUT</a>
 			</td></tr></table>
 			<br />
 			<?php if ($user_forum == true) {echo "<h4>Forum Disscusion</h4></td>

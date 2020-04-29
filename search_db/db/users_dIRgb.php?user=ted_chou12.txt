@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Ted's Guestbook</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>Ted's Guestbook</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="main">
@@ -120,20 +120,20 @@
 			<h1 class="title"><b>Hello!</b></h1>
 			<p class="banner"><b>Welcome to my Blog!</b></p>
 			<p class="header"></p>
-						<p><table class="customize" width="100%" align=center><tr><td class="customize" align=center width="35%" height="100%" valign=top><p align=center><a href="profiles.php?user=ted_chou12"><font class="customize"><b>Ted (ted_chou12)</b></font></a><br /><br /><img src="/users/images/photo/photo9.jpg" width="69" height="92"></p></td><td valign=top height="100%"><img src="/users/images/xx.gif"><font color="#666666" class="customize"><b>There are no people coming</b></font><br /><font class="customize"><b>Jun 24, 2009 02:08 PM</b></font><hr><div id="views"><font class="customize">There are no people coming to leave comments in my guestbook!~<img src="/users/smilies/cry.gif" alt="Cry"><br />
+						<p><table class="customize" width="100%" align=center><tr><td class="customize" align=center width="35%" height="100%" valign=top><p align=center><a href="profiles.php?user=ted_chou12"><font class="customize"><b>Ted (ted_chou12)</b></font></a><br /><br /><img src="/netfriending/users/images/photo/photo9.jpg" width="69" height="92"></p></td><td valign=top height="100%"><img src="/netfriending/users/images/xx.gif"><font color="#666666" class="customize"><b>There are no people coming</b></font><br /><font class="customize"><b>Jun 24, 2009 02:08 PM</b></font><hr><div id="views"><font class="customize">There are no people coming to leave comments in my guestbook!~<img src="/netfriending/users/smilies/cry.gif" alt="Cry"><br />
 <strong>Quote:</strong><div style="margin:0px 0px; padding:5px; background-color:#f7f7f7; border:1px dotted #cccccc; width:90%;"><i>&quot;|&quot;|&quot;|&quot;\&quot;[url]&quot;[/url]&quot;&quot;&quot;&quot;&quot;<a href="mailto:&quot;&quot;&quot;&quot;&quot;<b>&quot;<i>&quot;&quot;&quot;<br />
-Nice Posting!!!~ <img src="/users/smilies/wink.gif" alt="Wink"><br />
+Nice Posting!!!~ <img src="/netfriending/users/smilies/wink.gif" alt="Wink"><br />
 Nice<br />
 Good <br />
 Posting</b></i>">&quot;&quot;&quot;&quot;&quot;<b>&quot;<i>&quot;&quot;&quot;<br />
-Nice Posting!!!~ <img src="/users/smilies/wink.gif" alt="Wink"><br />
+Nice Posting!!!~ <img src="/netfriending/users/smilies/wink.gif" alt="Wink"><br />
 Nice<br />
 Good <br />
 Posting</b></i></a><br />
 </i></div><br />
 <img src="http://downloadsource.net/img/7717805785e6ff4467eec5bb1ab2612c.jpg.jpg" alt="" style="border:0px; max-width: 240px; width: expression(this.width > 240 ? 240: true); max-height: 600px; height: expression(this.height > 600 ? 600: true);" /><br />
 中文之測試 test</font></div></td></tr></table></p>
-			<p><table class="customize" width="100%" align=center><tr><td class="customize" align=center width="35%" height="100%" valign=top><p align=center><a href="profiles.php?user=ted_chou12"><font class="customize"><b>Ted (ted_chou12)</b></font></a><br /><br /><img src="/users/images/photo/photo9.jpg" width="69" height="92"></p></td><td valign=top height="100%"><img src="/users/images/xx.gif"><font color="#666666" class="customize"><b>Testing the Guestbook!!</b></font><br /><font class="customize"><b>Sep 20, 2007 02:49 PM</b></font><hr><div id="views"><font class="customize">This is testing the Guestbook Layout, inserting smilies: <img src="/users/smilies/cheesy.gif" alt="Cheesy"><br />
+			<p><table class="customize" width="100%" align=center><tr><td class="customize" align=center width="35%" height="100%" valign=top><p align=center><a href="profiles.php?user=ted_chou12"><font class="customize"><b>Ted (ted_chou12)</b></font></a><br /><br /><img src="/netfriending/users/images/photo/photo9.jpg" width="69" height="92"></p></td><td valign=top height="100%"><img src="/netfriending/users/images/xx.gif"><font color="#666666" class="customize"><b>Testing the Guestbook!!</b></font><br /><font class="customize"><b>Sep 20, 2007 02:49 PM</b></font><hr><div id="views"><font class="customize">This is testing the Guestbook Layout, inserting smilies: <img src="/netfriending/users/smilies/cheesy.gif" alt="Cheesy"><br />
 ==&quot;&quot;, some <font color="ff0000">colored texts</font>, and lastly, testing font <font size="6">sizes</font>.</font></div></td></tr></table></p>
 <p class="pagination" align=center>PREV&nbsp;[1] NEXT&nbsp;</p>			<p class="footer"></p>
 						
@@ -154,14 +154,14 @@ Posting</b></i></a><br />
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

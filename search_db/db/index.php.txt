@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><link rel="shortcut icon" href="favicon.ico" />
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><link rel="shortcut icon" href="favicon.ico" />
 <title>NetFriending Online!</title>
 </head>
 
@@ -22,7 +22,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -30,19 +30,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li id="current">
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -54,18 +54,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="main">	
@@ -88,7 +88,7 @@
 			<div id="st1" class="tabcontent">
 			<a name="Welcome to NetFriending!"></a>
 			<h1>Welcome to NetFriending!</h1>
-			<p>NetFriending is a very new revolutionary free social networking site that allows its users to have their own blogs and guestbooks, mean while, being able to customize their ideal designs. Photo sharing, friends network, and private messaging are also very important features of it, the <a href="http://netfriending.co.cc/forum/" target="_blank">NetFriending Forum</a> is especially the heart of this community. However, we need your help and support! Please help us by <a href="http://netfriending.co.cc/register.php" target="_blank">Becoming a Member</a>, so our community can grow.<br /><br />Thank you,<br />The NetFriending Administrators</p>			</div>
+			<p>NetFriending is a very new revolutionary free social networking site that allows its users to have their own blogs and guestbooks, mean while, being able to customize their ideal designs. Photo sharing, friends network, and private messaging are also very important features of it, the <a href="http://localhost/netfriending/forum/" target="_blank">NetFriending Forum</a> is especially the heart of this community. However, we need your help and support! Please help us by <a href="http://localhost/netfriending/register.php" target="_blank">Becoming a Member</a>, so our community can grow.<br /><br />Thank you,<br />The NetFriending Administrators</p>			</div>
 			<div id="st2" class="tabcontent">
 						<table width="100%" height="100%"><tr width="100%">
 			<td width="50%" align=center valign=middle><img src="users/images/photo/photo9.jpg" width="144" height="191" /><br /><b><a href="users/profiles.php?user=ted_chou12">Ted (ted_chou12)</a></b></td><td width="50%" align=center valign=middle><img src="users/images/photo/photo7.jpg" width="179" height="134" /><br /><b><a href="users/profiles.php?user=winterdude">winterdude (winterdude)</a></b></td>			</tr></table>
@@ -109,7 +109,7 @@
 						<a name="NetFriending News!"></a>
 			<a href="newslist.php"><h1>NetFriending News!</h1></a>
 			<h3>NetFriending 2 Years Anniversary!</h3>
-			<p>Hello Fellow Members,<br />NetFriending has been on for two years since it has started in February 2007! How do you think of our site? We have tried our best to keep up the changes and improve as the time goes, but there hasn't been any changes made for some time, if you wish to make comments and suggestions, you are welcome to <img src="/users/smilies/smiley.gif" alt="Smiley">.<br />Other then that, we wish you a happy day, and celebrate with us to keep up this community forever! <img src="/users/smilies/tongue.gif" alt="Tongue"><br />PS. Feel free to leave any comments or congrat u...</p>
+			<p>Hello Fellow Members,<br />NetFriending has been on for two years since it has started in February 2007! How do you think of our site? We have tried our best to keep up the changes and improve as the time goes, but there hasn't been any changes made for some time, if you wish to make comments and suggestions, you are welcome to <img src="/netfriending/users/smilies/smiley.gif" alt="Smiley">.<br />Other then that, we wish you a happy day, and celebrate with us to keep up this community forever! <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"><br />PS. Feel free to leave any comments or congrat u...</p>
 			<p class="post-footer align-right">
 			<a href="news.php?news=6" class="readmore">Read more</a>
 			<a href="news.php?news=6#comments" class="comments">Comments (3)</a>
@@ -134,14 +134,14 @@
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

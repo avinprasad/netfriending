@@ -1,7 +1,7 @@
 <html>
 <table height="88" width="555">
 <tr align=left><td align=left height="84" width="105">
-<img src="http://netfriending.co.cc/images/mail.gif" width="118" height="114" />
+<img src="http://localhost/netfriending/images/mail.gif" width="118" height="114" />
 </td><td valign=top height="84" width="442">
 <b><font face="Trebuchet MS" style="font-size: 48pt"><font color="#4284B0">Net</font><font color="#9EC630">Friending</font></font></b>
 <b><font face="Tahoma" color="#666666" style="font-size: 15pt">Find Friends on Net!</font></b></td></tr>

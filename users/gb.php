@@ -201,17 +201,17 @@ $title = "$dname's Guestbook";}?>
 			<p>
 			<?php function check($pic, $img){if ($img == $pic) {echo " checked=\"yes\"";}}?>
 			<input type="radio" name="icon" value="xx"<?php check("xx", $icon);?> />
-			<img src="/users/images/xx.gif">
+			<img src="/netfriending/users/images/xx.gif">
 			<input type="radio" name="icon" value="thumbdown"<?php check("thumbdown", $icon);?> />
-			<img src="/users/images/thumbdown.gif">
+			<img src="/netfriending/users/images/thumbdown.gif">
 			<input type="radio" name="icon" value="thumbup"<?php check("thumbup", $icon);?> />
-			<img src="/users/images/thumbup.gif">
+			<img src="/netfriending/users/images/thumbup.gif">
 			<input type="radio" name="icon" value="exclamation"<?php check("exclamation", $icon);?> />
-			<img src="/users/images/exclamation.gif">
+			<img src="/netfriending/users/images/exclamation.gif">
 			<input type="radio" name="icon" value="question"<?php check("question", $icon);?> />
-			<img src="/users/images/question.gif">
+			<img src="/netfriending/users/images/question.gif">
 			<input type="radio" name="icon" value="lamp"<?php check("lamp", $icon);?> />
-			<img src="/users/images/lamp.gif">
+			<img src="/netfriending/users/images/lamp.gif">
 			</p>
 			<script type="text/javascript" src="../texteditor.js"></script>
 			<?php include("../smiliecoder.html");?>
@@ -263,7 +263,7 @@ $title = "$dname's Guestbook";}?>
 			$entrycontent = $r['entrycontent'];
 			$textrcondition = 1;
 			include("../textreplacer.php");
-			echo "<p><table class=\"customize\" width=\"100%\" align=center><tr><td class=\"customize\" align=center width=\"35%\" height=\"100%\" valign=top><p align=center><a href=\"profiles.php?user={$r1['username']}\"><font class=\"customize\"><b>{$r1['displayname']} ({$r1['username']})</b></font></a><br /><br /><img src=\"/users/images/photo/photo{$r1['photo']}.jpg\" width=\"". round($width) ."\" height=\"". round($height) ."\"></p></td><td valign=top height=\"100%\"><img src=\"/users/images/{$r['entryicon']}.gif\"><font color=\"#666666\" class=\"customize\"><b>{$r['entrytitle']}</b></font><br /><font class=\"customize\"><b>$date</b></font><hr><div id=\"views\"><font class=\"customize\">$entrycontent</font></div></td></tr></table></p>" . "\r\n";}
+			echo "<p><table class=\"customize\" width=\"100%\" align=center><tr><td class=\"customize\" align=center width=\"35%\" height=\"100%\" valign=top><p align=center><a href=\"profiles.php?user={$r1['username']}\"><font class=\"customize\"><b>{$r1['displayname']} ({$r1['username']})</b></font></a><br /><br /><img src=\"/netfriending/users/images/photo/photo{$r1['photo']}.jpg\" width=\"". round($width) ."\" height=\"". round($height) ."\"></p></td><td valign=top height=\"100%\"><img src=\"/netfriending/users/images/{$r['entryicon']}.gif\"><font color=\"#666666\" class=\"customize\"><b>{$r['entrytitle']}</b></font><br /><font class=\"customize\"><b>$date</b></font><hr><div id=\"views\"><font class=\"customize\">$entrycontent</font></div></td></tr></table></p>" . "\r\n";}
 			//Starts page links:
 			echo "<p class=\"pagination\" align=center>";
 			//Sets link for first page:

@@ -1,12 +1,12 @@
-<?php 
+<?php
 function createsessions($username, $password)
 {
 	//Add additional member to Session array as per requirement
-	session_register();
-	
+	session_start();
+
 	$_SESSION["nfusername"] = strtolower($username);
 	$_SESSION["nfpassword"] = $password;
-    
+
 	if(isset($_POST['remme']))
 	{
 		//Add additional member to cookie array as per requirement

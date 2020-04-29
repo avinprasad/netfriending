@@ -4,9 +4,9 @@ RewriteEngine on
 RewriteRule ^blog/(.+[^/]) users/blog.php?user=$1 [nc]
 RewriteRule ^gb/(.+[^/]) users/gb.php?user=$1 [nc]
 
-RewriteCond %{HTTP_HOST} !^netfriending\.co\.cc$
-RewriteRule (.*) http://netfriending.co.cc/$1 [r=Permanent]
-RewriteRule ^tw/(.*) $1 [nc]
+#RewriteCond %{HTTP_HOST} !^netfriending\.co\.cc$
+#RewriteRule (.*) http://localhost/netfriending/$1 [r=Permanent]
+#RewriteRule ^tw/(.*) $1 [nc]
 
 AddHandler application/x-httpd-php5 .shtml
 ErrorDocument 400 /400.shtml

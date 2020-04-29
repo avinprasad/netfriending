@@ -289,7 +289,7 @@ session_start();
 			<label>Agree to the Terms</label>
 			<?php if ($_POST['terms'] != "") {$terms = " checked=\"yes\"";}?>
 			<input name="terms" value="terms" type="checkbox"<?php echo $terms;?> />
-			I agree to the <a href="http://netfriending.co.cc/include.php?page=terms" target="_blank">Terms & Agreement Page</a>
+			I agree to the <a href="http://localhost/netfriending/include.php?page=terms" target="_blank">Terms & Agreement Page</a>
 			<label>Image Verification</label>
 			<img id="image" src="imgverify.php" onclick="reloadImg();" />&nbsp;Click on image to refresh if you can't see it clearly.<br />
 			<input name="imgverify" value="" type="text" size="30" maxlength="5" />

@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Why join NetFriending?</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>Why join NetFriending?</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="forum">
@@ -98,13 +98,13 @@ Users also have their own photo album which allows them to store up to 30 photos
 Friends reuqests allows you to be able to make connections, with your friends and families.<br />
 Private messaging, gives you the ability to send personal texts to others.<br />
 After all, the issues that we concern most is safety and security of you account, your password will be encrypted before stored, therefore, there will be no chance in others knowing your password.<br />
-So after seeing the main features of NetFriending, what are you waiting for? <a href="http://netfriending.co.cc/register.php" target="_blank">Join Here</a>! <br />
+So after seeing the main features of NetFriending, what are you waiting for? <a href="http://localhost/netfriending/register.php" target="_blank">Join Here</a>! <br />
 Btw, if you have any other persuasive comments about joining us, please do reply about your comments on it.<br />
-If you are a person who uses online friends finder, NetFriending is definitely the one you cant miss! <img src="/users/smilies/wink.gif" alt="Wink"></div>
+If you are a person who uses online friends finder, NetFriending is definitely the one you cant miss! <img src="/netfriending/users/smilies/wink.gif" alt="Wink"></div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom><div id="views"><b><i>Last Edited: Sep 21, 2007 05:09 PM</i></b></div>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom><div id="views"><b><i>Last Edited: Sep 21, 2007 05:09 PM</i></b></div>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 </table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
 		</div>
@@ -117,14 +117,14 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

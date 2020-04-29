@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Frequently Asked Questions</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>Frequently Asked Questions</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li id="current">
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="main">
@@ -74,7 +74,7 @@
 <p>This is where frequently asked questions will soon be pasted on, there are currently very little questions on this board, please help us by asking us anything that you do not understand or unsure of about the various NetFriending functions, and email/message us through the support section:</p>
 <ol>
 						<li><span><b>Cannot activate your account?</b><br />
-Do you have any problems activating your account? This is a newly added system to ensure all users are providing their verified E-mail address in order for the system to be secure. You will need to check your inbox to get the activation E-mail, which can be in your junk E-mails as well! So make sure that you do check your junk as well, however, if you do not receive your E-mail, please visit the activation page and try resending it again: <a href="http://netfriending.co.cc/users/activation.php" target="_blank">http://netfriending.co.cc/users/activation.php</a>. If there are any issues or you cannot resolve this problem, please don't hesitate to contact us.<br /><br /></span></li>
+Do you have any problems activating your account? This is a newly added system to ensure all users are providing their verified E-mail address in order for the system to be secure. You will need to check your inbox to get the activation E-mail, which can be in your junk E-mails as well! So make sure that you do check your junk as well, however, if you do not receive your E-mail, please visit the activation page and try resending it again: <a href="http://localhost/netfriending/users/activation.php" target="_blank">http://localhost/netfriending/users/activation.php</a>. If there are any issues or you cannot resolve this problem, please don't hesitate to contact us.<br /><br /></span></li>
 			<li><span><b>Where is the reply buttons on thread?</b><br />
 Since our forums are all self made and own designs, thus the buttons may locate at different places then where you would find in most other forums, our reply thread is on the top green banner, if the thread is unlocked, you will be able to find a blue hyperlink that guides you to a page. If the thread is locked, "This thread is locked" would appear instead of a hyperlink.<br /><br /></span></li>
 			<li><span><b>Why don't the text editor buttons work?</b><br />
@@ -105,14 +105,14 @@ NetFriending has just begun its journey very recently, and it needs everyone's c
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2010 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2010 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

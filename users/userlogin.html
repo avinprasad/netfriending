@@ -6,7 +6,7 @@
 			elseif ($invalid == "inactivate") {echo $login_inactivate;}
 			elseif ($invalid == "invalid") {echo $login_invalid;}
 			elseif ($invalid == "logout") {echo $login_logout;}?>
-			<form name="login" action="/users/login.php?do=login" method="POST">
+			<form name="login" action="/netfriending/users/login.php?do=login" method="POST">
 			<center><input type="hidden" name="returnurl" value="<?$returnurl?>">
 			<table cellPadding=3 width=225 border=1 align=center>
 			<tr>
@@ -25,5 +25,5 @@
 			<td align=center colSpan=2>
 			<input type="checkbox" name="remme" value="on">&nbsp;Remember me for the next time I visit</td>
 			</table></center></form>
-			<p align=center><a href="/register.php">Not a member yet!?</a> 
-			<a href="/users/sendpass.php">Forgot my Password!</a></p>
+			<p align=center><a href="/register.php">Not a member yet!?</a>
+			<a href="/netfriending/users/sendpass.php">Forgot my Password!</a></p>

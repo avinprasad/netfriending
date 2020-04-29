@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>SAT Bio-revisions~~~</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>SAT Bio-revisions~~~</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="forum">
@@ -91,7 +91,7 @@
 				  <b>SAT Bio-revisions~~~</b><br />Sep 28, 2008 07:17 PM</td>
 				  <td align=right valign=center width="100%"></td></tr>
 				  <tr valign=top height="60%"><td colspan=2><hr />
-				  <div id="views">Here are some stuff on SAT II Bio, I summerized it, thought it could be useful for some people~! <img src="/users/smilies/wink.gif" alt="Wink"><br />
+				  <div id="views">Here are some stuff on SAT II Bio, I summerized it, thought it could be useful for some people~! <img src="/netfriending/users/smilies/wink.gif" alt="Wink"><br />
 <br />
 <u><b>Organic Molecules:</b></u><br />
 - H2O is inorganic.<br />
@@ -105,24 +105,24 @@
 - Bond between two molecules of monosaccharide involves removal of water molecule.<br />
 - Disaccharide is a carbohydrate made of two monosaccharide. (eg. maltose, sucrose)<br />
 - Polysaccharide is more than two monosaccharide joined together.<br />
-- Glycogen – Storage of glucose in animals<br />
-- Starch – Storage of glucose in plants<br />
-- Cellulose – Structure of plant’s cell wall<br />
+- Glycogen ï¿½ Storage of glucose in animals<br />
+- Starch ï¿½ Storage of glucose in plants<br />
+- Cellulose ï¿½ Structure of plantï¿½s cell wall<br />
 <b>Lipids:</b><br />
 - Lipids are made of long hydrocarbon chains, therefore, hydrophobic or non-polar.<br />
-- Triglycerides – three fatty acids bonded to a glycerol molecule.<br />
-- Phospholipids – two fatty acids and one phosphate (PO32-) bonded to a glycerol molecule. Fatty acids are hydrophobic/non-polar, however, phosphate is hydrophilic/polar. This property gives rise to cell membrane, fatty acids face in (tails), phosphate faces out (head).<br />
-- Cholesterol – made up of lots of hydrocarbons forming rings, is found in animal cells with the phospholipids.<br />
+- Triglycerides ï¿½ three fatty acids bonded to a glycerol molecule.<br />
+- Phospholipids ï¿½ two fatty acids and one phosphate (PO32-) bonded to a glycerol molecule. Fatty acids are hydrophobic/non-polar, however, phosphate is hydrophilic/polar. This property gives rise to cell membrane, fatty acids face in (tails), phosphate faces out (head).<br />
+- Cholesterol ï¿½ made up of lots of hydrocarbons forming rings, is found in animal cells with the phospholipids.<br />
 <b>Nucleic Acids:</b><br />
 - Monomers of nucleic acids are called nucleotide. Polymers are thus polynucleotide.<br />
 - DNA (deoxyribose) double stranded is made up of four bases: Adenine, Cytosine, Guanine, and Thymine. Adenine hydrogen bonds with Thymine, Cytosine hydrogen bonds with Guanine.<br />
 - RNA (ribose) single stranded, which Thymine is replaced with Uracil.<br />
 <br />
-This is the first part about organic molecules <img src="/users/smilies/grin.gif" alt="Grin"></div>
+This is the first part about organic molecules <img src="/netfriending/users/smilies/grin.gif" alt="Grin"></div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom><div id="views"><b><i>Last Edited: Sep 28, 2008 07:18 PM</i></b></div>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom><div id="views"><b><i>Last Edited: Sep 28, 2008 07:18 PM</i></b></div>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 						<tr bgcolor="#cccccc">
 				  <td width="25%" align=center valign=top bgcolor="#cccccc" style="padding: 10px 0;">
@@ -139,16 +139,16 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 				  <td align=right valign=center width="100%"></td></tr>
 				  <tr valign=top height="60%"><td colspan=2><hr />
 				  <div id="views"><b>Cell Structures:</b><br />
-- Cell Wall – Only in plants and certain prokaryotes. Plants: cellulose, Bacteria: Peptidoglycan, Fungi: Chitin.<br />
-- Vacuole – Storage of waste and materials.<br />
-- Ribosome – Sites of protein synthesis.<br />
-- Smooth ER – Systems of tubes transport substances around the cell.<br />
-- Rough ER – Ribosome bond to it.<br />
-- Golgi Apparatus – Sorts and package proteins for storage or export.<br />
-- Mitochondria – For cellular respiration, produces ATP for the cell.<br />
-- Lysosomes – Contains digestive enzymes.<br />
-- Centrioles – Form spindles for cell division.<br />
-- Nucleus – Contains genetic materials, DNA, controls the cell.<br />
+- Cell Wall ï¿½ Only in plants and certain prokaryotes. Plants: cellulose, Bacteria: Peptidoglycan, Fungi: Chitin.<br />
+- Vacuole ï¿½ Storage of waste and materials.<br />
+- Ribosome ï¿½ Sites of protein synthesis.<br />
+- Smooth ER ï¿½ Systems of tubes transport substances around the cell.<br />
+- Rough ER ï¿½ Ribosome bond to it.<br />
+- Golgi Apparatus ï¿½ Sorts and package proteins for storage or export.<br />
+- Mitochondria ï¿½ For cellular respiration, produces ATP for the cell.<br />
+- Lysosomes ï¿½ Contains digestive enzymes.<br />
+- Centrioles ï¿½ Form spindles for cell division.<br />
+- Nucleus ï¿½ Contains genetic materials, DNA, controls the cell.<br />
 <br />
 <b>Cell Transport:</b><br />
 - Diffusion is substances moving down a concentration gradient, therefore, the gradient in and out the cell will be reduced.<br />
@@ -158,8 +158,8 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 - Osmosis is the diffusion of water.</div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 						<tr bgcolor="#f2f2f2">
 				  <td width="25%" align=center valign=top bgcolor="#f2f2f2" style="padding: 10px 0;">
@@ -176,10 +176,10 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 				  <td align=right valign=center width="100%"></td></tr>
 				  <tr valign=top height="60%"><td colspan=2><hr />
 				  <div id="views"><b>Aerobic Cellular Respiration:</b><br />
-- Glycolysis – Cytoplasm, Glucose + 2 ATP &amp;#61664; 2 Pyruvate + 2 ATP + 2 NADH<br />
-- PDC (Pyruvate dehydrogenase complex) – Matrix of mitochondria, Pyruvate &amp;#61664; Acetyl Coenzyme-A + NADH + CO2<br />
-- Krebs cycle – Matrix of mitochondria, Acetyl Coenzyme-A + oxaloacetic acid &amp;#61664; Oxaloacetic acid + 3 NADH + 1 ATP + 1 FADH2 + CO2<br />
-- Electron transport/oxidative phosphorylation – inner membrane of mitochondria, NADH + FADH2 + ADP + Pi - NAD+ + FAD+ + ATP<br />
+- Glycolysis ï¿½ Cytoplasm, Glucose + 2 ATP &amp;#61664; 2 Pyruvate + 2 ATP + 2 NADH<br />
+- PDC (Pyruvate dehydrogenase complex) ï¿½ Matrix of mitochondria, Pyruvate &amp;#61664; Acetyl Coenzyme-A + NADH + CO2<br />
+- Krebs cycle ï¿½ Matrix of mitochondria, Acetyl Coenzyme-A + oxaloacetic acid &amp;#61664; Oxaloacetic acid + 3 NADH + 1 ATP + 1 FADH2 + CO2<br />
+- Electron transport/oxidative phosphorylation ï¿½ inner membrane of mitochondria, NADH + FADH2 + ADP + Pi - NAD+ + FAD+ + ATP<br />
 - Electron Carrier, NAD+ + H+ + 2e- &amp;#61664; NADH, FAD+ + 2H+ +2e- &amp;#61664; FADH2, adding of electrons is reduced, taking of electron is oxidized.<br />
 - Oxygen is final electron acceptor in the electron transport and water is produced as a by-product, and H+ ion is pumped into the inner membrane of the mitochondria in order to acquire H+ gradient to produce energy for ATP.<br />
 <b>Anaerobic Cellular Respiration:</b><br />
@@ -209,7 +209,7 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 - Meosis I contains four stages: prophase I, metaphase I, anaphase I, and telophase I.<br />
 - In prophase I, the homologous pairs pair up and cross-over, called synapse. Each pair consists of 4 chromatids, therefore, called a tetrad.<br />
 - In metaphase I, the homologous pairs line up in pairs on the metaphase plate. Instead of each individual in mitosis.<br />
-- In anaphase I, the centromeres don’t divide, however, the homologous pairs are being separated.<br />
+- In anaphase I, the centromeres donï¿½t divide, however, the homologous pairs are being separated.<br />
 - In telophase I, the cytokinesis also takes place. 23 individual chromosomes (with chromatids), thus cell is considered haploid.<br />
 - Meosis II is identical to Mitosis except there are only 23 chromosomes instead of 46 in mitosis. The four haploid gametes are produced in the end.<br />
 - Gametogenesis is the formation of gametes (sperm or egg), spermatogenesis is the formation of spem cells. Starting cell is diploid called the spermatogonium.<br />
@@ -222,8 +222,8 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 - Sex link traits are genes that locate on the X-chromosome, thus X-linked trait. Occurs more often in male than female. Eg. hemophilia, color blindness, and male pattern baldness.</div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom><div id="views"><b><i>Last Edited: Sep 28, 2008 07:31 PM</i></b></div>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom><div id="views"><b><i>Last Edited: Sep 28, 2008 07:31 PM</i></b></div>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 						<tr bgcolor="#cccccc">
 				  <td width="25%" align=center valign=top bgcolor="#cccccc" style="padding: 10px 0;">
@@ -290,8 +290,8 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 <i><b>To be continued...~</b></i></div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 						<tr bgcolor="#f2f2f2">
 				  <td width="25%" align=center valign=top bgcolor="#f2f2f2" style="padding: 10px 0;">
@@ -494,8 +494,8 @@ Muscular System:<br />
 </div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 </table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
 		</div>
@@ -508,14 +508,14 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

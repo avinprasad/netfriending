@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Music Therapy</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>Music Therapy</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="forum">
@@ -98,27 +98,27 @@ In the past, music therapy was only thought to be used to cure mental disorder, 
 This music therapy was tested in the nursing home of The Martian City in Mars. The whole process was divided into twelve sessions, and one session per week. Each session is around two hours long with Dr. Martian, I, along with other experienced music therapists. Dr. Martian explained that music therapy is consisted of four main methods, and each method has a different effect on the patient. He believed that all four methods have different effect on the old people; therefore all four methods were used. We specifically chose a group of patients since the number was large in the old age center. This group includes Mr. Marphian, Mr. Dartian, Mrs. Ratian, Mrs. Calanian, and Mrs. Doooo, which makes a group of five people. The therapist group includes Mr. White, Mr. Black, me and Dr. Martian as a consultant.<br />
 <br />
 Dr. Martian suggested that receptive method is the best way for the patients to start the therapy, because these patients do not have strong musical backgrounds, therefore, improvisation, recreative and composition methods could be hard to begin with, so this advice was taken, and below is the progress of the receptive method:<br />
-Receptive methods: we asked the patients to respond while listening to music, each of them chose an instrument, which includes drums, tambourines, triangles, and sometimes they switch from instruments to instruments to test out different noises. However, that doesn&acirc;Äôt matter, at first; they don&acirc;Äôt seem to be very confident with playing these instruments, resulting in a very slow progress. However, after some encouragements from Mr. White and Mr. Black, they gained more confidence and enthusiasm towards music playing. After three sessions, they seemed not just enthusiastic towards playing but also play them on the correct beats. Often times, different type of music are played to them, as the result, they identified the tempo and mood of the music, and often, their rhythm matches those of the music. But sometimes, their tempo and rhythms don&acirc;Äôt match the recorded music, resulting in different moods. Most of the times, Mr. Dartian is the only one who identifies the mood correctly and accurately, and he confessed that he often heard his grand children playing piano&acirc;Ä&brvbar;<br />
+Receptive methods: we asked the patients to respond while listening to music, each of them chose an instrument, which includes drums, tambourines, triangles, and sometimes they switch from instruments to instruments to test out different noises. However, that doesn&acirc;ÔøΩÔøΩt matter, at first; they don&acirc;ÔøΩÔøΩt seem to be very confident with playing these instruments, resulting in a very slow progress. However, after some encouragements from Mr. White and Mr. Black, they gained more confidence and enthusiasm towards music playing. After three sessions, they seemed not just enthusiastic towards playing but also play them on the correct beats. Often times, different type of music are played to them, as the result, they identified the tempo and mood of the music, and often, their rhythm matches those of the music. But sometimes, their tempo and rhythms don&acirc;ÔøΩÔøΩt match the recorded music, resulting in different moods. Most of the times, Mr. Dartian is the only one who identifies the mood correctly and accurately, and he confessed that he often heard his grand children playing piano&acirc;ÔøΩ&brvbar;<br />
 <br />
 <b><i>Below are the five main categories of music, they are discussed in details of why they are taken, or why they are not taken.</i></b><br />
-<u>Middle Age pieces:</u> Only very limited number of these type of music are been played to them, since the receptive method requires patients involvement, I believed that these patient have limited experience or occasions in hearing these type of music, therefore, it is not played to they frequently. Another reason was that these types of pieces don&acirc;Äôt have much instrumental playing; therefore, it is difficult to play instruments without instruments in the pieces.<br />
+<u>Middle Age pieces:</u> Only very limited number of these type of music are been played to them, since the receptive method requires patients involvement, I believed that these patient have limited experience or occasions in hearing these type of music, therefore, it is not played to they frequently. Another reason was that these types of pieces don&acirc;ÔøΩÔøΩt have much instrumental playing; therefore, it is difficult to play instruments without instruments in the pieces.<br />
 <u>Classical pieces:</u> These categorize of music pieces are more frequently played to them, and they were the ones first played to them in the begging of the whole therapy, because they these pieces are consisted of pianos and violins, therefore, I believe that these type of music are the easiest to start off with.<br />
 <u>Jazz pieces:</u> Jazz pieces are mostly slow, but with lots of slows from brass, woodwind instruments, so it was scheduled in the more advanced parts, which is introduced to them around the fourth session. But often times, they cannot play, or match fast enough with the music, and they played slower than the music, however, this phenomenon occurred less frequent when the patient grew more experiences with the time.<br />
 <u>Romance pieces:</u> The patients can often recognize these pieces easily and match well with the music. This type of music was thought to allow the patients to recall their old love story, and their love live, which enables them to remember the positive part of their lives.<br />
-<u>Rock and Roll pieces:</u> This type was completely banned in the whole therapy, because it may cause heart attack, or resulting in the patients getting too excited throughout the therapy, therefore it wasn&acirc;Äôt taken. Our organization couldn&acirc;Äôt afford to take the risk.<br />
+<u>Rock and Roll pieces:</u> This type was completely banned in the whole therapy, because it may cause heart attack, or resulting in the patients getting too excited throughout the therapy, therefore it wasn&acirc;ÔøΩÔøΩt taken. Our organization couldn&acirc;ÔøΩÔøΩt afford to take the risk.<br />
 <br />
 <u><b>Some Personal Comments:</b></u><br />
-Mr. Marphian- &acirc;ÄúI found music therapy very enjoyable, throughout the whole therapy, I most enjoying playing the instruments.&acirc;Äù<br />
-<b>Mr. Dartian</b>- &acirc;ÄúI think this is a very good activity to continue in the old aged centers! Although I only heard my grandson playing piano before, but I had never touched an instrument in my life!&acirc;Äù<br />
-<b>Mrs. Ratian</b>- &acirc;ÄúI love playing the drums!&acirc;Äù<br />
-<b>Mrs. Calanian</b>- &acirc;ÄúAt first, I wasn&acirc;Äôt very interested in music, but after this music therapy, I cannot sleep without listening to music.&acirc;Äù<br />
-<b>Mrs. Doooo</b>- &acirc;ÄúI don&acirc;Äôt have anything more to say.&acirc;Äù<br />
+Mr. Marphian- &acirc;ÔøΩÔøΩI found music therapy very enjoyable, throughout the whole therapy, I most enjoying playing the instruments.&acirc;ÔøΩÔøΩ<br />
+<b>Mr. Dartian</b>- &acirc;ÔøΩÔøΩI think this is a very good activity to continue in the old aged centers! Although I only heard my grandson playing piano before, but I had never touched an instrument in my life!&acirc;ÔøΩÔøΩ<br />
+<b>Mrs. Ratian</b>- &acirc;ÔøΩÔøΩI love playing the drums!&acirc;ÔøΩÔøΩ<br />
+<b>Mrs. Calanian</b>- &acirc;ÔøΩÔøΩAt first, I wasn&acirc;ÔøΩÔøΩt very interested in music, but after this music therapy, I cannot sleep without listening to music.&acirc;ÔøΩÔøΩ<br />
+<b>Mrs. Doooo</b>- &acirc;ÔøΩÔøΩI don&acirc;ÔøΩÔøΩt have anything more to say.&acirc;ÔøΩÔøΩ<br />
 <br />
 As it was mentioned before, it is the first time which music therapy had been showed to the old age people, after this test, and the positive comments, Dr. Martian suggested continuing this in the center, and developing the course, in order to find more effective results. After twelve sessions, we believe that these patients have achieved and gained experiences in music and we could perhaps step further in and involve other three methods which are improvisation, recreative, and composition methods, to make it a full and complete course of music therapy for the older people.</div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 </table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
 		</div>
@@ -131,14 +131,14 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

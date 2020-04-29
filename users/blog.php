@@ -139,7 +139,7 @@ $title = "$dname's Blog";}?>
 			$entrycontent = $r['entrycontent'];
 			$textrcondition = 1;
 			include("../textreplacer.php");
-			echo "<h3 class=\"customize\"><img src=\"/users/images/{$r['entryicon']}.gif\">{$r['entrytitle']}</h3>
+			echo "<h3 class=\"customize\"><img src=\"/netfriending/users/images/{$r['entryicon']}.gif\">{$r['entrytitle']}</h3>
 			<p class=\"customize\" id=\"views\">$entrycontent</p>
 			<p class=\"post-footer align-right customize\">
 			<span class=\"date\">$date</span>
@@ -167,7 +167,7 @@ $title = "$dname's Blog";}?>
 			$textrcondition = 1;
 			include("../textreplacer.php");
 			echo "<p><table bgcolor=\"#cccccc\" width=\"100%\" align=center><tr>
-			<td bgcolor=\"#f2f2f2\" align=center width=\"35%\" height=\"100%\" valign=top><p align=center><a href=\"profiles.php?user={$r1['user']}\"><b>{$r2['displayname']} ({$r1['user']})</b></a><br /><br /><img src=\"/users/images/photo/photo{$r2['photo']}.jpg\" width=\"". round($width) ."\" height=\"". round($height) ."\"></p></td>
+			<td bgcolor=\"#f2f2f2\" align=center width=\"35%\" height=\"100%\" valign=top><p align=center><a href=\"profiles.php?user={$r1['user']}\"><b>{$r2['displayname']} ({$r1['user']})</b></a><br /><br /><img src=\"/netfriending/users/images/photo/photo{$r2['photo']}.jpg\" width=\"". round($width) ."\" height=\"". round($height) ."\"></p></td>
 			<td valign=top height=\"100%\">$alink_1<img src=\"images/icons/comment$icon.gif\">$alink_2<font color=\"#666666\"><b>{$r1['entrytitle']}</b><br /><b>$date</b><hr><div id=\"views\">$entrycontent</div></td>
 			</tr></table></p>" . "\n";}?>
 			
@@ -309,7 +309,7 @@ $title = "$dname's Blog";}?>
 			$read1 = mysql_query("SELECT * FROM comment WHERE username='$user' AND entryid='{$r['id']}' AND entryattribute='blog'");
 			$comments = mysql_num_rows($read1);
 			echo "
-			<h3 class=\"customize\"><img src=\"/users/images/{$r['entryicon']}.gif\">{$r['entrytitle']}</h3>
+			<h3 class=\"customize\"><img src=\"/netfriending/users/images/{$r['entryicon']}.gif\">{$r['entrytitle']}</h3>
 			<p class=\"customize\" id=\"views\">$entrycontent</p>
 			<p class=\"post-footer align-right customize\">
 			<a href=\"{$_SERVER['PHP_SELF']}?user=$user&id={$r['id']}\" class=\"readmore\">Read more</a>

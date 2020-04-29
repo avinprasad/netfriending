@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Bangkok Tour Destinations &amp; Restuarants</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>Bangkok Tour Destinations &amp; Restuarants</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="forum">
@@ -91,7 +91,7 @@
 				  <b>Bangkok Tour Destinations &amp; Restuarants</b><br />Nov 08, 2008 03:13 PM</td>
 				  <td align=right valign=center width="100%"></td></tr>
 				  <tr valign=top height="60%"><td colspan=2><hr />
-				  <div id="views">This is a project that I did~ <img src="/users/smilies/tongue.gif" alt="Tongue"> The buyer didn't take it so I will as well post it in the forum.<br />
+				  <div id="views">This is a project that I did~ <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"> The buyer didn't take it so I will as well post it in the forum.<br />
 <font size="5"><u><b>Bangkok</b></u></font><br />
 Bangkok is a big city comprises of many nationalities today, its one of the most popular residential city of foreigners; it is situated in the middle of Thailand and at the mouth of the Chao Phraya river. The city is densely populated, however, which also makes the city more convenient, and things are within the reach of finger tips. Especially for tourism, Bangkok has one of the most developed tourism industry in the world. The city includes both western and eastern restaurants, and has many sight seen destinations.<br />
 The transportations are convenient as well, for example, taxis starts at B35 (= $1) and B5 every 100 meter, taxis are all over Bangkok (you can see at least tones of them on any road), as well as sky train (MRT stations) which stretches out all over Bangkok. <a href="http://bangkok.sawadee.com/mrta.htm" target="_blank">http://bangkok.sawadee.com/mrta.htm</a><br />
@@ -118,14 +118,14 @@ Wat in Thai means (temple) and Wat Pho is the biggest temple in Bangkok, and thi
 <img src="http://farm4.static.flickr.com/3294/3013895262_c54d458dee.jpg" alt="" style="border:0px; max-width: 240px; width: expression(this.width > 240 ? 240: true); max-height: 600px; height: expression(this.height > 600 ? 600: true);" /><br />
 <i>Parks &amp; Shopping</i><br />
 <b>Lumphini Park</b><br />
-Located in the center of Bangkok, lies on the North of Rama IV Road, it has the city&acirc;€™s biggest dance hall and public library. Established during the reign of King Rama IV in 1920s, many activities take place in it, such as concerts, morning exercises, riding boats, and food both for sale.<br />
+Located in the center of Bangkok, lies on the North of Rama IV Road, it has the city&acirc;ï¿½ï¿½s biggest dance hall and public library. Established during the reign of King Rama IV in 1920s, many activities take place in it, such as concerts, morning exercises, riding boats, and food both for sale.<br />
 <b>Siam Paragon</b><br />
 Is one of the biggest shopping complex in Thailand, one can get lost in it, up to 4 floors but covering an area of 300,000 m2, has movie complexes in it as well as the most modern fashion clothes, electronics in cheap prices. The mall was very newly built which just opened on December 9th, 2005. There are also lots of Thai style goods and restaurants in it, tourists can buy goods there as gifts or memorial objects. <br />
 <img src="http://farm4.static.flickr.com/3153/3013895264_c2c8ae1310.jpg" alt="" style="border:0px; max-width: 240px; width: expression(this.width > 240 ? 240: true); max-height: 600px; height: expression(this.height > 600 ? 600: true);" /></div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 						<tr bgcolor="#cccccc">
 				  <td width="25%" align=center valign=top bgcolor="#cccccc" style="padding: 10px 0;">
@@ -160,8 +160,8 @@ Local delicacies include Dim Sum, Teachew-style steamed Chinese mullet, shark fi
 - www.break-fresh-ground.com/Asia/Southeastern-Asia/Thailand/Travelogue-128/Journal-12.html</div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 </table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
 		</div>
@@ -174,14 +174,14 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

@@ -1,10 +1,13 @@
 <?php
+ini_set('display_errors', true);
+ini_set('display_errors', 1);
+error_reporting(E_ALL);
 ob_start();
 session_start();
 
 /*##############################################################*\
 |#                                    By: Shabbir H. A. Bhimani #|
-|# This code is copyright(c) of GlobalDevelopers.net,all rights #| 
+|# This code is copyright(c) of GlobalDevelopers.net,all rights #|
 |# reserved and this file may not be  redistributed in whole or #|
 |# significant part.       Author: shabbir@globaldevelopers.net #|
 \*##############################################################*/

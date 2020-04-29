@@ -92,7 +92,7 @@ require_once ("functions.php");
 			$imgsize = getimagesize("images/photo/photo$foto.jpg");
 			$width = $imgsize[0]; $height = $imgsize[1];
 			while ($width > 300 or $height > 100) {$width = $width/1.2; $height = $height/1.2;}
-			echo "<img src=\"/users/images/photo/photo$foto.jpg\" width=\"". round($width) ."\" height=\"". round($height) ."\">&nbsp;&nbsp;";}
+			echo "<img src=\"/netfriending/users/images/photo/photo$foto.jpg\" width=\"". round($width) ."\" height=\"". round($height) ."\">&nbsp;&nbsp;";}
 			if ($r['type'] == "outbox") {echo "<br />To:";}
 			else {echo "<br />From:";}
 			$read = 0;

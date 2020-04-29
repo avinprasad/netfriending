@@ -1,7 +1,7 @@
 <html>
 <table height="88" width="555">
 <tr align=left><td align=left height="84" width="105">
-<img src="http://netfriending.co.cc/images/mail.gif" width="118" height="114" />
+<img src="http://localhost/netfriending/images/mail.gif" width="118" height="114" />
 </td><td valign=top height="84" width="442">
 <b><font face="Trebuchet MS" style="font-size: 48pt"><font color="#4284B0">Net</font><font color="#9EC630">Friending</font></font></b>
 <b><font face="Tahoma" color="#666666" style="font-size: 15pt">Find Friends on Net!</font></b></td></tr>
@@ -14,8 +14,8 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _<br />
 &nbsp;<b> Your new PASSWORD: %password%</b><br />
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _<br /><br />
 <b>Please login from this page using your new password:</b><br />
-<a href="http://netfriending.co.cc/users">Members Login</a> <i>(If the link beside does not work, please copy and paste the url below into your browser)</i><br />
-<a href="http://netfriending.co.cc/users">http://netfriending.co.cc/users</a><br /><br />
+<a href="http://localhost/netfriending/users">Members Login</a> <i>(If the link beside does not work, please copy and paste the url below into your browser)</i><br />
+<a href="http://localhost/netfriending/users">http://localhost/netfriending/users</a><br /><br />
 Remember to optimize your password once you get the access into your account, and we encourage you to use password that you dont easily forget, so that the chance of this happening is lesser. Please feel free to use your personal information as a password, because all of our passwords are encrypted, and cannot be reversed, this change in your new password is a good proof of that.<br /></p>
 <p><i>If you have any questions regarding our website, please use the forum, or email us through: <a href="mailto:support@netfriending.co.cc">support@netfriending.co.cc</a></i></p>
 <p><b>Below will be a brief introduction of the NetFriending community:</b><br />

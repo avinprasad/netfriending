@@ -1,7 +1,7 @@
 <html>
 <table height="88" width="555">
 <tr align=left><td align=left height="84" width="105">
-<img src="http://netfriending.co.cc/images/mail.gif" width="118" height="114" />
+<img src="http://localhost/netfriending/images/mail.gif" width="118" height="114" />
 </td><td valign=top height="84" width="442">
 <b><font face="Trebuchet MS" style="font-size: 48pt"><font color="#4284B0">Net</font><font color="#9EC630">Friending</font></font></b>
 <b><font face="Tahoma" color="#666666" style="font-size: 15pt">Find Friends on Net!</font></b></td></tr>
@@ -13,14 +13,14 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _<br />
 <br />
 &nbsp;<b> Your USERNAME: %username%</b><br />
 <br />
-&nbsp; <b>Keep in mind that you are not able to retrive your old password from now on, if you forget your password, please use the "<a href="http://netfriending.co.cc/users/sendpass.php">Forgot My Password</a>" page!</b><br />
+&nbsp; <b>Keep in mind that you are not able to retrive your old password from now on, if you forget your password, please use the "<a href="http://localhost/netfriending/users/sendpass.php">Forgot My Password</a>" page!</b><br />
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _<br /><br />
 <b>You can now login from this page:</b><br />
-<a href="http://netfriending.co.cc/users">Members Login</a> <i>(If the link beside does not work, please copy and paste the url below into your browser)</i><br />
-<a href="http://netfriending.co.cc/users">http://netfriending.co.cc/users</a><br /><br />
+<a href="http://localhost/netfriending/users">Members Login</a> <i>(If the link beside does not work, please copy and paste the url below into your browser)</i><br />
+<a href="http://localhost/netfriending/users">http://localhost/netfriending/users</a><br /><br />
 <b>Please enjoy involving in our community. And hope you can invite your friends into our community as well, through this page:</b><br />
-<a href="http://netfriending.co.cc/include.php?page=invite">Member Signup</a> <i>(Again, if the link beside does not work, please copy and paste the url below into your browser)</i><br />
-<a href="http://netfriending.co.cc/include.php?page=invite">http://netfriending.co.cc/include.php?page=invite</a><br /><br />
+<a href="http://localhost/netfriending/include.php?page=invite">Member Signup</a> <i>(Again, if the link beside does not work, please copy and paste the url below into your browser)</i><br />
+<a href="http://localhost/netfriending/include.php?page=invite">http://localhost/netfriending/include.php?page=invite</a><br /><br />
 <b><i>Thank you once again for becoming our member!</i></b><br /></p>
 <p><i>If you have any questions regarding our website, please use the forum, or email us through: <a href="mailto:support@netfriending.co.cc">support@netfriending.co.cc</a></i></p>
 <p><b>Below will be a brief introduction of the NetFriending community:</b><br />

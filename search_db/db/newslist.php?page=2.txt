@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>NetFriending News List</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>NetFriending News List</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="main">
@@ -73,7 +73,7 @@
 			<h1>NetFriending News List</h1>
 									<a name="New Updates!"></a>
 			<h3>New Updates!</h3>
-			<p>Hi dear NF networks,<br />This is the first official News Post since we had been down, how is everybody doing? Notice that there are some new changes in the website, the bugs that were found were already fixed too. <img src="/users/smilies/wink.gif" alt="Wink"> I tried several browsers like the newest google chrome, opera, firefox, many other browers, the website will look fine on them. As well as that, there is an additional feature to the forum <img src="/users/smilies/tongue.gif" alt="Tongue"><br />If you check the forum stats: [url=http://netfriending.co.cc/forum/forumstats.php...</p>
+			<p>Hi dear NF networks,<br />This is the first official News Post since we had been down, how is everybody doing? Notice that there are some new changes in the website, the bugs that were found were already fixed too. <img src="/netfriending/users/smilies/wink.gif" alt="Wink"> I tried several browsers like the newest google chrome, opera, firefox, many other browers, the website will look fine on them. As well as that, there is an additional feature to the forum <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"><br />If you check the forum stats: [url=http://localhost/netfriending/forum/forumstats.php...</p>
 			<p class="post-footer align-right">
 			<a href="news.php?news=3" class="readmore">Read more</a>
 			<a href="news.php?news=3#comments" class="comments">Comments (4)</a>
@@ -89,7 +89,7 @@
 			</p>
 			<a name="User Panel - Snapshots!"></a>
 			<h3>User Panel - Snapshots!</h3>
-			<p>Here are some of the snap-shots that I have took from my own account, this is mainly the interface of the user panel, as you can probably see from the images, the layout of blog and guestbook are completely customizable, so you can be very creative in designing your pages! By the way, these features are all free; you only have to take two minutes registering for an account! Please click <a href="http://netfriending.co.cc/register.php" target="_blank">here</a>! Please click on the photos in order to see a larger im...</p>
+			<p>Here are some of the snap-shots that I have took from my own account, this is mainly the interface of the user panel, as you can probably see from the images, the layout of blog and guestbook are completely customizable, so you can be very creative in designing your pages! By the way, these features are all free; you only have to take two minutes registering for an account! Please click <a href="http://localhost/netfriending/register.php" target="_blank">here</a>! Please click on the photos in order to see a larger im...</p>
 			<p class="post-footer align-right">
 			<a href="news.php?news=1" class="readmore">Read more</a>
 			<a href="news.php?news=1#comments" class="comments">Comments (6)</a>
@@ -113,14 +113,14 @@
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

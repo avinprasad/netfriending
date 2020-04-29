@@ -1,7 +1,7 @@
 <html>
 <table height="88" width="555">
 <tr align=left><td align=left height="84" width="105">
-<img src="http://netfriending.co.cc/images/mail.gif" width="118" height="114" />
+<img src="http://localhost/netfriending/images/mail.gif" width="118" height="114" />
 </td><td valign=top height="84" width="442">
 <b><font face="Trebuchet MS" style="font-size: 48pt"><font color="#4284B0">Net</font><font color="#9EC630">Friending</font></font></b>
 <b><font face="Tahoma" color="#666666" style="font-size: 15pt">Find Friends on Net!</font></b></td></tr>
@@ -9,7 +9,7 @@
 <font face="Arial" size="2">
 <p>Happy Birthday <b>%fname% %lname%</b>! This is a big congratulations from the NF Support Group!</p>
 <p>This is a big day for you, also a big day for NF, look what your friends have to say for you! ^^<br />
-<a href="http://netfriending.co.cc/users">http://netfriending.co.cc/users</a><br /></p>
+<a href="http://localhost/netfriending/users">http://localhost/netfriending/users</a><br /></p>
 <p><i>If you have any questions regarding our website, please use the forum, or email us through: <a href="mailto:support@netfriending.co.cc">support@netfriending.co.cc</a></i></p>
 <p><b>Below will be a brief introduction of the NetFriending community:</b><br />
 The NetFriending community consists of generally <i>blogs</i>, <i>guestbooks</i>, <i>photos</i>, and <i>forums</i>. However, being the newest online friend searcher, it also consists of features such as friend requests, and member search. Although its ability maybe minimum, but it is still under steady developments and improving day by day, therefore, your contribution to our community is essential in order for the community to grow.<br />

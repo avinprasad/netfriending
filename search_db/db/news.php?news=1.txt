@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" />			<title>User Panel - Snapshots! - NetFriending News</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" />			<title>User Panel - Snapshots! - NetFriending News</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,25 +53,25 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="main">
 			
 						<a name="User Panel - Snapshots!"></a>
 			<h1>User Panel - Snapshots!</h1>
-			<p>Here are some of the snap-shots that I have took from my own account, this is mainly the interface of the user panel, as you can probably see from the images, the layout of blog and guestbook are completely customizable, so you can be very creative in designing your pages! By the way, these features are all free; you only have to take two minutes registering for an account! Please click <a href="http://netfriending.co.cc/register.php" target="_blank">here</a>! Please click on the photos in order to see a larger image with more details.<br /><br />If you wish to see shots of other features such as the friends lists and member search, please just reply to this using the comment entry below.<br />Please enjoy!</p>
+			<p>Here are some of the snap-shots that I have took from my own account, this is mainly the interface of the user panel, as you can probably see from the images, the layout of blog and guestbook are completely customizable, so you can be very creative in designing your pages! By the way, these features are all free; you only have to take two minutes registering for an account! Please click <a href="http://localhost/netfriending/register.php" target="_blank">here</a>! Please click on the photos in order to see a larger image with more details.<br /><br />If you wish to see shots of other features such as the friends lists and member search, please just reply to this using the comment entry below.<br />Please enjoy!</p>
 			<p class="post-footer align-right">
 			<span class="date">Mar 31, 2007</span>
 			</p>
@@ -82,7 +82,7 @@
 									<h3>No Ads Please</h3>
 			<p><b>From:</b> United States</p>
 			<p><b>Masked IP:</b> 150.135.92.xxx</p>
-			<p>Testing, no ads please! <img src="/users/smilies/smiley.gif" alt="Smiley"></p>
+			<p>Testing, no ads please! <img src="/netfriending/users/smilies/smiley.gif" alt="Smiley"></p>
 			<p class="post-footer align-right">
 			<span class="date">Nov 16, 2008</span>
 			</p>
@@ -98,7 +98,7 @@
 			<h3>Ha</h3>
 			<p><b>From:</b> United States</p>
 			<p><b>Masked IP:</b> 150.135.92.xxx</p>
-			<p>Whole new interface huhn? <img src="/users/smilies/tongue.gif" alt="Tongue"></p>
+			<p>Whole new interface huhn? <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"></p>
 			<p class="post-footer align-right">
 			<span class="date">Sep 29, 2008</span>
 			</p>
@@ -106,7 +106,7 @@
 			<h3>Hello there, thanks for your visit!</h3>
 			<p><b>From:</b> Thailand</p>
 			<p><b>Masked IP:</b> 124.120.218.xxx</p>
-			<p>Hello there, thanks for visiting here, I am glad to see you here! <img src="/users/smilies/cheesy.gif" alt="Cheesy"><br />Your articles are very helpful as well <img src="/users/smilies/grin.gif" alt="Grin"><br />Ted</p>
+			<p>Hello there, thanks for visiting here, I am glad to see you here! <img src="/netfriending/users/smilies/cheesy.gif" alt="Cheesy"><br />Your articles are very helpful as well <img src="/netfriending/users/smilies/grin.gif" alt="Grin"><br />Ted</p>
 			<p class="post-footer align-right">
 			<span class="date">May 24, 2007</span>
 			</p>
@@ -114,7 +114,7 @@
 			<h3>Nice Site</h3>
 			<p><b>From:</b> Singapore</p>
 			<p><b>Masked IP:</b> 165.21.154.xxx</p>
-			<p>Hi Ted,<br /><br />I found your site from a link in <a href="http://www.neohide.com" target="_blank">NeoHide</a>. It is really nice. Keep up the good work <img src="/users/smilies/smiley.gif" alt="Smiley"></p>
+			<p>Hi Ted,<br /><br />I found your site from a link in <a href="http://www.neohide.com" target="_blank">NeoHide</a>. It is really nice. Keep up the good work <img src="/netfriending/users/smilies/smiley.gif" alt="Smiley"></p>
 			<p class="post-footer align-right">
 			<span class="date">May 24, 2007</span>
 			</p>
@@ -122,7 +122,7 @@
 			<h3>How are they??</h3>
 			<p><b>From:</b> Thailand</p>
 			<p><b>Masked IP:</b> 124.120.226.xxx</p>
-			<p>Please leave some comments and tell me what you think about this pictures, I am tring to get visitors to register, this is the user interface once you get the access to your account. So <a href="http://netfriending.co.cc/register.php" target="_blank">SIGN UP NOW</a>!!!<br />Ted</p>
+			<p>Please leave some comments and tell me what you think about this pictures, I am tring to get visitors to register, this is the user interface once you get the access to your account. So <a href="http://localhost/netfriending/register.php" target="_blank">SIGN UP NOW</a>!!!<br />Ted</p>
 			<p class="post-footer align-right">
 			<span class="date">Mar 31, 2007</span>
 			</p>
@@ -134,59 +134,59 @@
 			<script type="text/javascript" src="texteditor.js"></script>
 						<p>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '[b]', '[/b]')">
-			<img src="/users/images/bold.gif" alt="Bold"></a>
+			<img src="/netfriending/users/images/bold.gif" alt="Bold"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '[u]', '[/u]')">
-			<img src="/users/images/underline.gif" alt="Underline"></a>
+			<img src="/netfriending/users/images/underline.gif" alt="Underline"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '[i]', '[/i]')">
-			<img src="/users/images/italic.gif" alt="Italic"></a>
+			<img src="/netfriending/users/images/italic.gif" alt="Italic"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '[s]', '[/s]')">
-			<img src="/users/images/strike.gif" alt="Strike"></a>
+			<img src="/netfriending/users/images/strike.gif" alt="Strike"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '[img]', '[/img]')">
-			<img src="/users/images/image.gif" alt="Image"></a>
+			<img src="/netfriending/users/images/image.gif" alt="Image"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '[url]', '[/url]')">
-			<img src="/users/images/hyperlink.gif" alt="Link"></a>
+			<img src="/netfriending/users/images/hyperlink.gif" alt="Link"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '[email]', '[/email]')">
-			<img src="/users/images/email.gif" alt="Email"></a>
+			<img src="/netfriending/users/images/email.gif" alt="Email"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '[quote]', '[/quote]')">
-			<img src="/users/images/quote.gif" alt="Quote"></a>
+			<img src="/netfriending/users/images/quote.gif" alt="Quote"></a>
 			<a style="cursor:pointer;border:0" onClick="auto_url('newscomment', 'message')">
-			<img src="/users/images/url.gif" alt="Link Wizard"></a>
+			<img src="/netfriending/users/images/url.gif" alt="Link Wizard"></a>
 			<a style="cursor:pointer;border:0" onClick="auto_flash('newscomment', 'message')">
-			<img src="/users/images/flash.gif" alt="Flash Wizard"></a>
+			<img src="/netfriending/users/images/flash.gif" alt="Flash Wizard"></a>
 			</p>
 			<p>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':)', '')">
-			<img src="/users/smilies/smiley.gif" alt="Smiley"></a>
+			<img src="/netfriending/users/smilies/smiley.gif" alt="Smiley"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ';)', '')">
-			<img src="/users/smilies/wink.gif" alt="Wink"></a>
+			<img src="/netfriending/users/smilies/wink.gif" alt="Wink"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':D', '')">
-			<img src="/users/smilies/cheesy.gif" alt="Cheesy"></a>
+			<img src="/netfriending/users/smilies/cheesy.gif" alt="Cheesy"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ';D', '')">
-			<img src="/users/smilies/grin.gif" alt="Grin"></a>
+			<img src="/netfriending/users/smilies/grin.gif" alt="Grin"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ';(', '')">
-			<img src="/users/smilies/angry.gif" alt="Angry"></a>
+			<img src="/netfriending/users/smilies/angry.gif" alt="Angry"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':(', '')">
-			<img src="/users/smilies/sad.gif" alt="Sad"></a>
+			<img src="/netfriending/users/smilies/sad.gif" alt="Sad"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':o', '')">
-			<img src="/users/smilies/shocked.gif" alt="Shocked"></a>
+			<img src="/netfriending/users/smilies/shocked.gif" alt="Shocked"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '8)', '')">
-			<img src="/users/smilies/cool.gif" alt="Cool"></a>
+			<img src="/netfriending/users/smilies/cool.gif" alt="Cool"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', '???', '')">
-			<img src="/users/smilies/huh.gif" alt="Huh"></a>
+			<img src="/netfriending/users/smilies/huh.gif" alt="Huh"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':-)', '')">
-			<img src="/users/smilies/rolleyes.gif" alt="Roll Eyes"></a>
+			<img src="/netfriending/users/smilies/rolleyes.gif" alt="Roll Eyes"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':P', '')">
-			<img src="/users/smilies/tongue.gif" alt="Tongue"></a>
+			<img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':-[', '')">
-			<img src="/users/smilies/embarrassed.gif" alt="Embarrassed"></a>
+			<img src="/netfriending/users/smilies/embarrassed.gif" alt="Embarrassed"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':-X', '')">
-			<img src="/users/smilies/lipsrsealed.gif" alt="Lips Sealed"></a>
+			<img src="/netfriending/users/smilies/lipsrsealed.gif" alt="Lips Sealed"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':-/', '')">
-			<img src="/users/smilies/undecided.gif" alt="Undecided"></a>
+			<img src="/netfriending/users/smilies/undecided.gif" alt="Undecided"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':-*', '')">
-			<img src="/users/smilies/kiss.gif" alt="Kiss"></a>
+			<img src="/netfriending/users/smilies/kiss.gif" alt="Kiss"></a>
 			<a style="cursor:pointer;border:0" onClick="insert('newscomment', 'message', ':*(', '')">
-			<img src="/users/smilies/cry.gif" alt="Cry"></a>
+			<img src="/netfriending/users/smilies/cry.gif" alt="Cry"></a>
 			</p>
 			<p>
 			<select onchange="javascript:insert('newscomment', 'message', '[size=' + value + ']', '[/size]');selectdefault(this)">
@@ -229,14 +229,14 @@
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

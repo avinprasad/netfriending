@@ -152,7 +152,7 @@ $dname = $r['displayname'];?>
 			$textrcondition = 1;
 			include("../textreplacer.php");
 			echo "<p><table bgcolor=\"#cccccc\" width=\"100%\" align=center><tr>
-			<td bgcolor=\"#f2f2f2\" align=center width=\"35%\" height=\"100%\" valign=top><p align=center><a href=\"profiles.php?user={$r1['user']}\"><b>{$r2['displayname']} ({$r1['user']})</b></a><br /><br /><img src=\"/users/images/photo/photo{$r2['photo']}.jpg\" width=\"". round($width) ."\" height=\"". round($height) ."\"></p></td>
+			<td bgcolor=\"#f2f2f2\" align=center width=\"35%\" height=\"100%\" valign=top><p align=center><a href=\"profiles.php?user={$r1['user']}\"><b>{$r2['displayname']} ({$r1['user']})</b></a><br /><br /><img src=\"/netfriending/users/images/photo/photo{$r2['photo']}.jpg\" width=\"". round($width) ."\" height=\"". round($height) ."\"></p></td>
 			<td valign=top height=\"100%\">$alink_1<img src=\"images/icons/comment$icon.gif\">$alink_2<font color=\"#666666\"><b>{$r1['entrytitle']}</b><br /><b>$date</b><hr><div id=\"views\">$entrycontent</div></td>
 			</tr></table></p>" . "\n";}?>
 			

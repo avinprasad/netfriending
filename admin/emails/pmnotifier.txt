@@ -1,18 +1,18 @@
 <html>
 <table height="88" width="555">
 <tr align=left><td align=left height="84" width="105">
-<img src="http://netfriending.co.cc/images/mail.gif" width="118" height="114" />
+<img src="http://localhost/netfriending/images/mail.gif" width="118" height="114" />
 </td><td valign=top height="84" width="442">
 <b><font face="Trebuchet MS" style="font-size: 48pt"><font color="#4284B0">Net</font><font color="#9EC630">Friending</font></font></b>
 <b><font face="Tahoma" color="#666666" style="font-size: 15pt">Find Friends on Net!</font></b></td></tr>
 </table>
 <font face="Arial" size="2">
 <p>Hello <b>%fname% %lname%</b>, this is regarding your NetFriending mail delivery service.</p>
-<p><img src="http://netfriending.co.cc/users/images/photo/photo%photo%.jpg" width="%width%" height="%height%" /></p>
+<p><img src="http://localhost/netfriending/users/images/photo/photo%photo%.jpg" width="%width%" height="%height%" /></p>
 <p><b>%dname% (%uname%)</b> has sent you the following message:</p>
 <p>%message%</p>
 <p><b>Please click on the link below and login to view a complete version of it!</b><br />
-<a href="http://netfriending.co.cc/users/pm.php">http://netfriending.co.cc/users/pm.php</a><br /></p>
+<a href="http://localhost/netfriending/users/pm.php">http://localhost/netfriending/users/pm.php</a><br /></p>
 <p><b>Please do not reply back straight through this email address, because he/she will not receive it.</b></p>
 <p><i>If you have any questions regarding our website, please use the forum, or email us through: <a href="mailto:support@netfriending.co.cc">support@netfriending.co.cc</a></i></p>
 <p><b>Below will be a brief introduction of the NetFriending community:</b><br />

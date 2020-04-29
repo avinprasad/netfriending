@@ -21,10 +21,10 @@
 							 array(":-*", "kiss", "Kiss"),
 							 array(":*(", "cry", "Cry"));
 			foreach ($smilies as $smily) {
-			$entrycontent = str_replace($smily[0], "<img src=\"/users/smilies/{$smily[1]}.gif\" alt=\"{$smily[2]}\">", $entrycontent);}
+			$entrycontent = str_replace($smily[0], "<img src=\"/netfriending/users/smilies/{$smily[1]}.gif\" alt=\"{$smily[2]}\">", $entrycontent);}
 			
 			//email smilies full url:
-			if ($emailcondition == true) {$entrycontent = preg_replace("`<img src=\"/users/smilies/(.+?)\.gif\" alt=\"(.+?)\">`is", "<img src=\"http://netfriending.co.cc/users/smilies/\\1.gif\" alt=\"\\2\">", $entrycontent);}
+			if ($emailcondition == true) {$entrycontent = preg_replace("`<img src=\"/netfriending/users/smilies/(.+?)\.gif\" alt=\"(.+?)\">`is", "<img src=\"http://localhost/netfriending/users/smilies/\\1.gif\" alt=\"\\2\">", $entrycontent);}
 			
 			//bbcodes replacing below
 			$bbcodes = array('`\[b\](.+?)\[/b\]`is', 

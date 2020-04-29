@@ -134,7 +134,7 @@ ob_start();
 			$url = str_replace("search_db/db/", "", $texts2[$startvalue][1]);
 			$url = str_replace("_dIR", "/", $url);
 			$url = str_replace(".txt", "", $url);
-			$url = "http://netfriending.co.cc/" . $url;
+			$url = "http://localhost/netfriending/" . $url;
 			
 			//echo text:
 			echo "<a href=\"$url\"><h3>$title</h3></a>";

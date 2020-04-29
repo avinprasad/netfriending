@@ -17,7 +17,7 @@ $birthday = explode("-", $r3['birthday']);
 if (date("m") == "{$birthday[1]}") {$bdays[] = array($r3['username'], $r3['displayname']);}}
 //If the list is not empty, send messages:
 if (count($bdays) != 0) {//Prepare for some variables:
-foreach ($bdays as $bday) {$links[] = "<b><a href=\"http://netfriending.co.cc/users/profiles.php?user={$bday[0]}\">{$bday[1]} ({$bday[0]})</a></b>";}
+foreach ($bdays as $bday) {$links[] = "<b><a href=\"http://localhost/netfriending/users/profiles.php?user={$bday[0]}\">{$bday[1]} ({$bday[0]})</a></b>";}
 $link = implode(",", $links);
 $month = date("F");
 //send emails to notify the person about friend's bdays:

@@ -13,33 +13,33 @@
 <div id="wrap">
 
 	<!--header -->
-	<div id="header">				
-		
+	<div id="header">
+
 		<?php include("header.html")?>
-			
+
 		<!-- Menu Tabs -->
 		<?php include("menu.php")?>
-		
-	</div>	
-				
+
+	</div>
+
 	<!-- content-wrap starts here -->
-	<div id="content-wrap">		
-											
+	<div id="content-wrap">
+
 	<div class="headerphoto"></div>
-		
-		<div id="sidebar" >							
+
+		<div id="sidebar" >
 		<?php include("leftmenu.html")?>
 		</div>
-			
-		<div id="main">	
-			
+
+		<div id="main">
+
 			<?php //Pre-configuration:
 			//Require MySQL:
 			require("mysqlconnection.php");
 			//Require Message:
 			$noty_subject = "database";
 			include("notification.php");
-			
+
 			//##Welcome and News articles##
 			//Query the database to get total entries:
 			$lines = file("admin/news.txt");
@@ -197,30 +197,30 @@
 			</p>
 			<?php }?>
 			<br />
-							
-		</div>	
-			
+
+		</div>
+
 		<div id="rightbar">
 		<?php include("rightmenu.html")?>
-		</div>			
-			
-	<!-- content-wrap ends here -->		
+		</div>
+
+	<!-- content-wrap ends here -->
 	</div>
 
-<!-- footer starts here -->	
+<!-- footer starts here -->
 <div id="footer">
-	
+
 	<div class="footer-left">
 	<?php include("footer-left.html")?>
 	</div>
-	
+
 	<div class="footer-right">
 	<?php include("footer-right.html")?>
 	</div>
-	
+
 </div>
 <!-- footer ends here -->
-	
+
 <!-- wrap ends here -->
 </div>
 

@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Site Map</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>Site Map</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="main">
@@ -73,43 +73,43 @@
 <h1>Site Map</h1>
 <p>This page contain most of the main pages of our website, for our new visitors as well as our old visitors to navigate around our website easily! However, this page does not update automatically, therefore, we will be updating this page once some time in case new pages or sections of our website opens up.</p>
 <ol>
-	<li><span><a href="http://netfriending.co.cc/"><b>Home Page</b></a></span></li>
+	<li><span><a href="http://localhost/netfriending/"><b>Home Page</b></a></span></li>
 	<ul>
-		<li><span><a href="http://netfriending.co.cc/include.php?page=faq">FAQ</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/include.php?page=services">Services</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/include.php?page=support">Support</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/include.php?page=about">About</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/include.php?page=terms">Terms &amp; Agreements</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/include.php?page=privacy">Privacy Policy</a></span></li>
+		<li><span><a href="http://localhost/netfriending/include.php?page=faq">FAQ</a></span></li>
+		<li><span><a href="http://localhost/netfriending/include.php?page=services">Services</a></span></li>
+		<li><span><a href="http://localhost/netfriending/include.php?page=support">Support</a></span></li>
+		<li><span><a href="http://localhost/netfriending/include.php?page=about">About</a></span></li>
+		<li><span><a href="http://localhost/netfriending/include.php?page=terms">Terms &amp; Agreements</a></span></li>
+		<li><span><a href="http://localhost/netfriending/include.php?page=privacy">Privacy Policy</a></span></li>
 	</ul>
 		<li><span><a href="include.php?page=sitemap"><b>New Members</b></a></span></li>
 	<ul>
-		<li><span><a href="http://netfriending.co.cc/include.php?page=new">New Members Document</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/register.php">New Members Signup</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/include.php?page=invite">Invite New Members</a></span></li>	
+		<li><span><a href="http://localhost/netfriending/include.php?page=new">New Members Document</a></span></li>
+		<li><span><a href="http://localhost/netfriending/register.php">New Members Signup</a></span></li>
+		<li><span><a href="http://localhost/netfriending/include.php?page=invite">Invite New Members</a></span></li>	
 	</ul>
 	<li><span><a href="include.php?page=sitemap"><b>Registered Members</b></a></span></li>
 	<ul>
-		<li><span><a href="http://netfriending.co.cc/users/">Member Login</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/users/sendpass.php">Forgot My Password</a></span></li>
+		<li><span><a href="http://localhost/netfriending/users/">Member Login</a></span></li>
+		<li><span><a href="http://localhost/netfriending/users/sendpass.php">Forgot My Password</a></span></li>
 	</ul>
-	<li><span><a href="http://netfriending.co.cc/forum/"><b>NetFriending Forum</b></a></span></li>
+	<li><span><a href="http://localhost/netfriending/forum/"><b>NetFriending Forum</b></a></span></li>
 	<ul>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=new">Newbie!</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=instruction">Instructions!</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=job">Jobs &amp; Careers</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=school">School Life</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=news">News & Politics</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=comedy">Comedy</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=music">Music</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=movie">Movies</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=game">Games</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=tech">Computer &amp; Technology</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=sport">Sports</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=holiday">Travel &amp; Vacations</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=help">Help</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=support">Support</a></span></li>
-		<li><span><a href="http://netfriending.co.cc/forum/threads.php?cat=comment">Comments &amp; Suggestions</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=new">Newbie!</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=instruction">Instructions!</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=job">Jobs &amp; Careers</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=school">School Life</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=news">News & Politics</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=comedy">Comedy</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=music">Music</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=movie">Movies</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=game">Games</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=tech">Computer &amp; Technology</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=sport">Sports</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=holiday">Travel &amp; Vacations</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=help">Help</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=support">Support</a></span></li>
+		<li><span><a href="http://localhost/netfriending/forum/threads.php?cat=comment">Comments &amp; Suggestions</a></span></li>
 	</ul>
 </ol>
 <p>If there are new public pages that are not included in here, please let us know!</p>		
@@ -130,14 +130,14 @@
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

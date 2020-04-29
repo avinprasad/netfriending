@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>Egyptian Queen: Cleopatra, portrait</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>Egyptian Queen: Cleopatra, portrait</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="forum">
@@ -94,21 +94,21 @@
 				  <div id="views">Hello, I just thought this is interesting:<br />
 The Egyptian queen, Cleopatra, ruled from 51 to 30 BC, she was famous for protecting Egypt from Rome, by attracting Rome empire <i>Julius Ceasar</i> &amp; <i>Marc Anthony</i>. She was always played by Holywood beautiful actresses like <i>Elizabeth Taylor</i>.<br />
 But recently her image was reconstructed by English universities.<br />
-Her image was in fact short, fat and she had bad tooth <img src="/users/smilies/tongue.gif" alt="Tongue">,  but professors have mentioned that after 2000 years, the way that human judges beauty may have changed. So what they considered beautiful in the past may no longer be &quot;<b>Liz Taylor-eqsue</b>&quot; <img src="/users/smilies/tongue.gif" alt="Tongue"><br />
+Her image was in fact short, fat and she had bad tooth <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue">,  but professors have mentioned that after 2000 years, the way that human judges beauty may have changed. So what they considered beautiful in the past may no longer be &quot;<b>Liz Taylor-eqsue</b>&quot; <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"><br />
 The image below is what the university people reconstructed her:<br />
 <img src="http://farm4.static.flickr.com/3181/3118663395_38dbd2b2fd_m.jpg" alt="" style="border:0px; max-width: 240px; width: expression(this.width > 240 ? 240: true); max-height: 600px; height: expression(this.height > 600 ? 600: true);" /><br />
 <br />
 Some information about what her done in the past in history:<br />
 - she rolled herself in the carpet in order to secretly get close to Casaer.<br />
-- she was able to speak 9 languages <img src="/users/smilies/tongue.gif" alt="Tongue"><br />
+- she was able to speak 9 languages <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"><br />
 - she was Greek descendants, but her family had been settling in Egypt for 300 years.<br />
 - she was on the throne when she was 17.<br />
 <br />
-Ted <img src="/users/smilies/tongue.gif" alt="Tongue"></div>
+Ted <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"></div>
 				  </td></tr>
 				  <tr valign=bottom height="20%"><td valign=bottom colspan=2>
-				  <p valign=bottom><div id="views"><b><i>Last Edited: Dec 19, 2008 08:43 AM</i></b></div>			<hr />Read before posting: <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
-Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
+				  <p valign=bottom><div id="views"><b><i>Last Edited: Dec 19, 2008 08:43 AM</i></b></div>			<hr />Read before posting: <a href="http://localhost/netfriending/forum/viewthread.php?threadid=2" target="_blank">Forum Guidelines</a><br />
+Why Join NetFriending? <a href="http://localhost/netfriending/forum/viewthread.php?threadid=11" target="_blank">Look Here!</a></p></td></tr></table>
 				  </td></tr>
 </table><p><table align=center id="forumtbl"><tr><td align=center>PREV&nbsp;[1] NEXT&nbsp;</td></tr></table></p>			
 		</div>
@@ -121,14 +121,14 @@ Why Join NetFriending? <a href="http://netfriending.co.cc/forum/viewthread.php?t
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>

@@ -1,7 +1,7 @@
 <?php //setup curl initiation:
 set_time_limit(0);
 $files = file("config.txt");
-$referer = "http://netfriending.co.cc/search_db/crawler.php";
+$referer = "http://localhost/netfriending/search_db/crawler.php";
 $useragent = $files[1];
 $limitonpage = $files[0];
 $bot = curl_init();
@@ -17,7 +17,7 @@ foreach ($files1 as $file) {
 $filename = str_replace("/", "_dIR", $file);
 //first make sure the link in the links.txt works:
 //if file exists in the db folder, make sure it still works:
-curl_setopt($bot, CURLOPT_URL, "http://netfriending.co.cc/$file");
+curl_setopt($bot, CURLOPT_URL, "http://localhost/netfriending/$file");
 curl_setopt($bot, CURLOPT_REFERER, $referer);
 curl_setopt($bot, CURLOPT_USERAGENT, $useragent);
 curl_setopt($bot, CURLOPT_RETURNTRANSFER, 1);
@@ -83,7 +83,7 @@ $link = str_replace("\n", "", $link);
 $link = str_replace("\r", "", $link);
 $link = str_replace(" ", "", $link);
 //make sure the link works
-curl_setopt($bot, CURLOPT_URL, "http://netfriending.co.cc/$link");
+curl_setopt($bot, CURLOPT_URL, "http://localhost/netfriending/$link");
 curl_setopt($bot, CURLOPT_REFERER, $referer);
 curl_setopt($bot, CURLOPT_USERAGENT, $useragent);
 curl_setopt($bot, CURLOPT_RETURNTRANSFER, 1);

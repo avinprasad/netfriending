@@ -8,7 +8,7 @@
 <meta name="Distribution" content="Global" />
 <meta name="Robots" content="index,follow" />
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
-<link rel="stylesheet" href="/images/BrightSide.css" type="text/css" /><title>NetFriending News List</title>
+<link rel="stylesheet" href="/netfriending/images/BrightSide.css" type="text/css" /><title>NetFriending News List</title>
 </head>
 
 <body>
@@ -21,7 +21,7 @@
 				<h1 id="logo">Net<span class="green">Friending</span></h1>	
 		<h2 id="slogan">Find Friends on Net!</h2>
 		
-		<form method="post" class="searchform" action="http://netfriending.co.cc/search.php">
+		<form method="post" class="searchform" action="http://localhost/netfriending/search.php">
 			<p><input type="text" name="search_query" class="textbox" />
   			<input type="submit" name="search" class="button" value="Search" /></p>
 		</form>
@@ -29,19 +29,19 @@
 		<!-- Menu Tabs -->
 		<ul>
 	<li>
-	<a href="http://netfriending.co.cc/"><span>Home</span></a></li>
+	<a href="http://localhost/netfriending/"><span>Home</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=faq"><span>FAQ</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=faq"><span>FAQ</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=services"><span>Services</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=services"><span>Services</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=support"><span>Support</span></a></li>
+	<a href="http://localhost/netfriending/include.php?page=support"><span>Support</span></a></li>
 	
 	<li>
-	<a href="http://netfriending.co.cc/include.php?page=about"><span>About</span></a></li>		
+	<a href="http://localhost/netfriending/include.php?page=about"><span>About</span></a></li>		
 </ul>		
 	</div>	
 				
@@ -53,18 +53,18 @@
 		<div id="sidebar" >							
 					<h1 id="leftmenu"><span class="green">Members Menu</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/include.php?page=new">New to NetFriending?</a></li>
-				<li><a href="http://netfriending.co.cc/include.php?page=invite">Invite Friends!</a></li>	
-				<li><a href="http://netfriending.co.cc/register.php">Register Member</a></li>
-				<li><a href="http://netfriending.co.cc/users/">Member Login</a></li>
-				<li><a href="http://netfriending.co.cc/forum/">NetFriending Forum</a></li>			
+				<li><a href="http://localhost/netfriending/include.php?page=new">New to NetFriending?</a></li>
+				<li><a href="http://localhost/netfriending/include.php?page=invite">Invite Friends!</a></li>	
+				<li><a href="http://localhost/netfriending/register.php">Register Member</a></li>
+				<li><a href="http://localhost/netfriending/users/">Member Login</a></li>
+				<li><a href="http://localhost/netfriending/forum/">NetFriending Forum</a></li>			
 			</ul>		
 			
 			<h1 id="leftmenu"><span class="green">Other Links</span></h1>
 			<ul class="sidemenu">
-				<li><a href="http://netfriending.co.cc/newslist.php">News List</a></li>
+				<li><a href="http://localhost/netfriending/newslist.php">News List</a></li>
 				<li><a href="http://crontab.nfspace.co.cc">NF WebCron</a></li>
-				<li><a href="http://netfriending.co.cc">Reserved</a></li>
+				<li><a href="http://localhost/netfriending">Reserved</a></li>
 			</ul>		</div>
 			
 		<div id="main">
@@ -73,7 +73,7 @@
 			<h1>NetFriending News List</h1>
 									<a name="NetFriending 2 Years Anniversary!"></a>
 			<h3>NetFriending 2 Years Anniversary!</h3>
-			<p>Hello Fellow Members,<br />NetFriending has been on for two years since it has started in February 2007! How do you think of our site? We have tried our best to keep up the changes and improve as the time goes, but there hasn't been any changes made for some time, if you wish to make comments and suggestions, you are welcome to <img src="/users/smilies/smiley.gif" alt="Smiley">.<br />Other then that, we wish you a happy day, and celebrate with us to keep up this community forever! <img src="/users/smilies/tongue.gif" alt="Tongue"><br />PS. Feel free to leave any comments or congrat u...</p>
+			<p>Hello Fellow Members,<br />NetFriending has been on for two years since it has started in February 2007! How do you think of our site? We have tried our best to keep up the changes and improve as the time goes, but there hasn't been any changes made for some time, if you wish to make comments and suggestions, you are welcome to <img src="/netfriending/users/smilies/smiley.gif" alt="Smiley">.<br />Other then that, we wish you a happy day, and celebrate with us to keep up this community forever! <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"><br />PS. Feel free to leave any comments or congrat u...</p>
 			<p class="post-footer align-right">
 			<a href="news.php?news=6" class="readmore">Read more</a>
 			<a href="news.php?news=6#comments" class="comments">Comments (3)</a>
@@ -81,7 +81,7 @@
 			</p>
 			<a name="Merry Christmas &amp; Happy New Year!"></a>
 			<h3>Merry Christmas &amp; Happy New Year!</h3>
-			<p>Dear NF Members, <br />Christmas is close, we hope that everyone can have a fun Christmas wherever you are! There has been some new members with us, you can find them in search members. Give them a warm welcome.<br />There has been some updates and changes to the codings as well, hope there will be less errors in the code, if you still find them, please report to us.<br />Other than that, Merry Christmas &amp; Happy New Year! <img src="/users/smilies/wink.gif" alt="Wink"><br />NF Admin
+			<p>Dear NF Members, <br />Christmas is close, we hope that everyone can have a fun Christmas wherever you are! There has been some new members with us, you can find them in search members. Give them a warm welcome.<br />There has been some updates and changes to the codings as well, hope there will be less errors in the code, if you still find them, please report to us.<br />Other than that, Merry Christmas &amp; Happy New Year! <img src="/netfriending/users/smilies/wink.gif" alt="Wink"><br />NF Admin
 </p>
 			<p class="post-footer align-right">
 			<a href="news.php?news=5" class="readmore">Read more</a>
@@ -90,7 +90,7 @@
 			</p>
 			<a name="Hello, dear NF members~!!!"></a>
 			<h3>Hello, dear NF members~!!!</h3>
-			<p>How is everyone doing? I haven't been updating the actual pages very much, but I have been constantly posting some new threads in the forum categories to attract more customers <img src="/users/smilies/grin.gif" alt="Grin">. Especially in the <b>technology</b> and <b>school life</b> sections.<br />Sorry about some recent downtimes, and the database was on some kind of error so the forum appears empty and login seems invalid, I will ask the host what the actual problems are and hopefully to get it fixed soon. <img src="/users/smilies/tongue.gif" alt="Tongue"><br />Lastly, I am think...</p>
+			<p>How is everyone doing? I haven't been updating the actual pages very much, but I have been constantly posting some new threads in the forum categories to attract more customers <img src="/netfriending/users/smilies/grin.gif" alt="Grin">. Especially in the <b>technology</b> and <b>school life</b> sections.<br />Sorry about some recent downtimes, and the database was on some kind of error so the forum appears empty and login seems invalid, I will ask the host what the actual problems are and hopefully to get it fixed soon. <img src="/netfriending/users/smilies/tongue.gif" alt="Tongue"><br />Lastly, I am think...</p>
 			<p class="post-footer align-right">
 			<a href="news.php?news=4" class="readmore">Read more</a>
 			<a href="news.php?news=4#comments" class="comments">Comments (2)</a>
@@ -114,14 +114,14 @@
 	
 	<div class="footer-left">
 			<p class="align-left">			
-		&copy; 2009 <a href="http://netfriending.co.cc/include.php?page=about#NF"><strong>NF Support Group</strong></a>
+		&copy; 2009 <a href="http://localhost/netfriending/include.php?page=about#NF"><strong>NF Support Group</strong></a>
 		</p>	</div>
 	
 	<div class="footer-right">
 			<p class="align-right">
-		<a href="http://netfriending.co.cc/">Home</a>&nbsp;|&nbsp;
-  		<a href="http://netfriending.co.cc/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
-		<a href="http://netfriending.co.cc/include.php?page=terms">Terms</a>
+		<a href="http://localhost/netfriending/">Home</a>&nbsp;|&nbsp;
+  		<a href="http://localhost/netfriending/include.php?page=sitemap">SiteMap</a>&nbsp;|&nbsp;
+		<a href="http://localhost/netfriending/include.php?page=terms">Terms</a>
 		</p>	</div>
 	
 </div>
